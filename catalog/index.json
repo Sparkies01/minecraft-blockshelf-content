@@ -1,0 +1,49 @@
+{
+  "total": 9998,
+  "pageSize": 500,
+  "categories": {
+    "mods": {
+      "total": 5178,
+      "pages": [
+        "mods/page-001.json",
+        "mods/page-002.json",
+        "mods/page-003.json",
+        "mods/page-004.json",
+        "mods/page-005.json",
+        "mods/page-006.json",
+        "mods/page-007.json",
+        "mods/page-008.json",
+        "mods/page-009.json",
+        "mods/page-010.json",
+        "mods/page-011.json"
+      ]
+    },
+    "maps": {
+      "total": 1568,
+      "pages": [
+        "maps/page-001.json",
+        "maps/page-002.json",
+        "maps/page-003.json",
+        "maps/page-004.json"
+      ]
+    },
+    "textures": {
+      "total": 2692,
+      "pages": [
+        "textures/page-001.json",
+        "textures/page-002.json",
+        "textures/page-003.json",
+        "textures/page-004.json",
+        "textures/page-005.json",
+        "textures/page-006.json"
+      ]
+    },
+    "skins": {
+      "total": 560,
+      "pages": [
+        "skins/page-001.json",
+        "skins/page-002.json"
+      ]
+    }
+  }
+}

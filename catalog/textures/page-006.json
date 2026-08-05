@@ -1,0 +1,1730 @@
+[
+  {
+    "category": "textures",
+    "title": "Vanilla Vibrant Visuals (Graphics Pack)",
+    "description": "The default, done right! Vanilla Vibrant Visuals enhances Minecraft Bedrock Edition with refined assets and configurations, correcting the artistic misfires of the default Vibrant Visuals graphics mode.",
+    "fileName": "1231212_vanilla-pbr_Vanilla-Vibrant-Visuals-3.3.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1231212_vanilla-pbr.jpg",
+    "downloadUrl": "textures/1231212_vanilla-pbr_Vanilla-Vibrant-Visuals-3.3.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vanilla x Optimizer FPS Boost",
+    "description": "Vanilla × Optimizer for MCPE is a combined FPS-boosting texture pack that merges two powerful optimizers into one. Designed to cut lag and enhance performance on low-end devices, it delivers smooth gameplay with clean visuals in Minecraft Bedrock.",
+    "fileName": "1358088_vanilla-x-optimizer-fps-boost_Vanilla x Optimizer v2.3.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1358088_vanilla-x-optimizer-fps-boost.jpg",
+    "downloadUrl": "textures/1358088_vanilla-x-optimizer-fps-boost_Vanilla x Optimizer v2.3.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Varatha, The Eternal Spear",
+    "description": "Changes tridents and spears into the Eternal Spear from Hades. Bedrock port of MysticKoko's Java Edition pack.",
+    "fileName": "1344736_varatha-the-eternal-spear-bedrock_varatha-the_eternal_spear-spear-version.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1344736_varatha-the-eternal-spear-bedrock.jpg",
+    "downloadUrl": "textures/1344736_varatha-the-eternal-spear-bedrock_varatha-the_eternal_spear-spear-version.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Variant Shulkers",
+    "description": "Beautiful 3D Shulker boxes and mobs! Vibrant colors and detailed textures for a better End experience. Compatible with Minecraft 1.21 - 1.26.",
+    "fileName": "1488443_variant-shulkers_os_shulkers_bedrock.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1488443_variant-shulkers.jpg",
+    "downloadUrl": "textures/1488443_variant-shulkers_os_shulkers_bedrock.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Variated Blocks",
+    "description": "Add different random textures for the classic blocks, you can add pebbles to the grass, different models of wooden logs...",
+    "fileName": "1401267_variated-blocks_VARIATED BLOCKS.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1401267_variated-blocks.jpg",
+    "downloadUrl": "textures/1401267_variated-blocks_VARIATED BLOCKS.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Variated Blocks BE",
+    "description": "Adds natural-looking variants to common blocks like stone, wood, dirt, and leaves, breaking up repetitive textures for a more organic world.",
+    "fileName": "1592822_variated-blocks-be_Variated Blocks.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1592822_variated-blocks-be.jpg",
+    "downloadUrl": "textures/1592822_variated-blocks-be_Variated Blocks.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vault Boy Fallout Totem",
+    "description": "replaces the classic Totem of Immortality with a custom version of the legendary Vault Boy Fallout skin. Survive in style and strike fear into your enemies!",
+    "fileName": "1367758_vault-boy-fallout-totem_Vault Boy Fallout Totem.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1367758_vault-boy-fallout-totem.jpg",
+    "downloadUrl": "textures/1367758_vault-boy-fallout-totem_Vault Boy Fallout Totem.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "VDX: LCE/4JD UI v3.2.9 [v26.10]",
+    "description": "Convert from Bedrock Edition UI to Legacy Console UI!",
+    "fileName": "1010307_vdx-legacy-console-ui_VDX-LCEUI-v3.2.9(Adaptive).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1010307_vdx-legacy-console-ui.jpg",
+    "downloadUrl": "textures/1010307_vdx-legacy-console-ui_VDX-LCEUI-v3.2.9(Adaptive).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vegetta777 Totem",
+    "description": "Replaces the Totem with a custom Vegetta777 skin",
+    "fileName": "1285563_vegetta777-totem_Vegetta777 Totem.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1285563_vegetta777-totem.jpg",
+    "downloadUrl": "textures/1285563_vegetta777-totem_Vegetta777 Totem.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Velmora Visuals",
+    "description": "Velmora Visuals is a Vibrant Visuals shader pack for Minecraft Bedrock that transforms your world with Arctic Aurora skies, cinematic sunsets, animated foliage, and ACES film-grade color grading — optimized for all devices.",
+    "fileName": "1513492_velmora-visuals_Velmora Visuals v1.6.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1513492_velmora-visuals.jpg",
+    "downloadUrl": "textures/1513492_velmora-visuals_Velmora Visuals v1.6.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Velora Prism Visuals",
+    "description": "Velora Prism — cinematic color grading, dramatic skies, glassy water, and enhanced PBR realism. Optimized for 1.21+.",
+    "fileName": "1602254_velora-prism-visuals_Velora Prism visuals [ v1.3 ].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1602254_velora-prism-visuals.jpg",
+    "downloadUrl": "textures/1602254_velora-prism-visuals_Velora Prism visuals [ v1.3 ].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Velora Visuals",
+    "description": "A fantasy-themed visual enhancement pack with vibrant purple/pink atmospherics and lighting effects. You'll see magical sunsets, enchanted skies, and cinematic god rays.",
+    "fileName": "1428290_velora-visuals_Velora Visuals v0.1 [RP].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1428290_velora-visuals.jpg",
+    "downloadUrl": "textures/1428290_velora-visuals_Velora Visuals v0.1 [RP].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Veloria Visual",
+    "description": "Veloria Visual offers a vibrant and immersive visual experience with balanced lighting, rich colors, and a beautiful atmosphere. Perfect for players who want a world that feels both lively and visually stunning.",
+    "fileName": "1568749_veloria-visual_Veloria Visual 1.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1568749_veloria-visual.jpg",
+    "downloadUrl": "textures/1568749_veloria-visual_Veloria Visual 1.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "VerdantLite Shader v1.0",
+    "description": "VerdantLite Shader is a lightweight Vanilla+ resource pack for Minecraft Patch, featuring realistic 3D leaves, dynamic lighting, beautiful skies, emissive ores, blood FX, and optimized performance.",
+    "fileName": "1602456_verdantlite-shader-v1-0_VerdantLite Shader v1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1602456_verdantlite-shader-v1-0.jpg",
+    "downloadUrl": "textures/1602456_verdantlite-shader-v1-0_VerdantLite Shader v1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Verity Totem",
+    "description": "Replaces the Totem of Undying with a Verity Totem",
+    "fileName": "1597717_verity-totem_Verity Totem 1.0.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1597717_verity-totem.jpg",
+    "downloadUrl": "textures/1597717_verity-totem_Verity Totem 1.0.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Verity UI Inventory",
+    "description": "Adds a Verity UI Inventory",
+    "fileName": "1593084_verity-ui-inventory_Verity UI Inventory - Black Edition.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1593084_verity-ui-inventory.jpg",
+    "downloadUrl": "textures/1593084_verity-ui-inventory_Verity UI Inventory - Black Edition.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Version Label (TEMPORARILY DISCONTINUED)",
+    "description": "Adds the pointless version label from alpha and beta",
+    "fileName": "1500067_version-label_VersionLabel2612.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1500067_version-label.jpg",
+    "downloadUrl": "textures/1500067_version-label_VersionLabel2612.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vertical Coordinates",
+    "description": "A more readable and easy to understand coordinates layout.",
+    "fileName": "1455756_vertical-coordinates_VerticalCoordinates.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1455756_vertical-coordinates.jpg",
+    "downloadUrl": "textures/1455756_vertical-coordinates_VerticalCoordinates.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "VHS filter",
+    "description": "A VHS filter for Minecraft Bedrock addons, suitable for use with horror add-ons.",
+    "fileName": "1522523_vhs-filter_VHS_filter_0.8.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1522523_vhs-filter.jpg",
+    "downloadUrl": "textures/1522523_vhs-filter_VHS_filter_0.8.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "VHS Filter 2.0",
+    "description": "An upgraded VHS-style visual filter for Minecraft Bedrock, built to give gameplay a more convincing analog camcorder look.",
+    "fileName": "1616377_vhs-filter-2-0_VHS_filter_2.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1616377_vhs-filter-2-0.jpg",
+    "downloadUrl": "textures/1616377_vhs-filter-2-0_VHS_filter_2.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrancy (Cat Vibrant Visuals)",
+    "description": "The Official (Vibrant Visuals) port of the RTX pack \"CatRTX\"",
+    "fileName": "1269562_vibrancy_Vibrancy (0.5.4).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1269562_vibrancy.jpg",
+    "downloadUrl": "textures/1269562_vibrancy_Vibrancy (0.5.4).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Aura Legacy",
+    "description": "Vibrant Aura is a Vibrant Visuals shader pack for Minecraft Bedrock that enhances lighting, fog, colors, and atmosphere to create a smooth, immersive, and cinematic experience.",
+    "fileName": "1419949_vibrant-aura_Vibrant Aura Legacy v2.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1419949_vibrant-aura.jpg",
+    "downloadUrl": "textures/1419949_vibrant-aura_Vibrant Aura Legacy v2.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "vibrant brightness",
+    "description": "This Texture pack will make your survival world look more vibrant, and brightness. This texture also helps you see in the dark, so at certain levels you can see mobs and blocks without using torches.",
+    "fileName": "1413157_vibrant-brightness_vibrant_brightness 1.0.7.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1413157_vibrant-brightness.jpg",
+    "downloadUrl": "textures/1413157_vibrant-brightness_vibrant_brightness 1.0.7.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "VIBRANT CONTRAST (HowardAddon)",
+    "description": "This Texture pack will make your world more saturated and contrast and dynamic",
+    "fileName": "1414894_vibrant-contrast-howardaddon_vibrant_contrast 1.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1414894_vibrant-contrast-howardaddon.jpg",
+    "downloadUrl": "textures/1414894_vibrant-contrast-howardaddon_vibrant_contrast 1.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Depth 3D",
+    "description": "Adds slight depth to blocks, items, and entities using Vibrant Visuals",
+    "fileName": "1391658_vibrant-depth-3d_vibrant_depth_3d-v4.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1391658_vibrant-depth-3d.jpg",
+    "downloadUrl": "textures/1391658_vibrant-depth-3d_vibrant_depth_3d-v4.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Emissive",
+    "description": "Make some of your blocks, entities and items glow in the dark with Vibrant Emissive.",
+    "fileName": "1336890_vibrant-emissive_VibrantEmissive v0.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1336890_vibrant-emissive.jpg",
+    "downloadUrl": "textures/1336890_vibrant-emissive_VibrantEmissive v0.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Legacy Rewrite",
+    "description": "Vibrant Legacy Rewrite is my reboot project of Vibrant Legacy for Minecraft Bedrock!",
+    "fileName": "1347532_vibrant-legacy-rewrite_Vibrant Legacy Rewrite 0.1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1347532_vibrant-legacy-rewrite.jpg",
+    "downloadUrl": "textures/1347532_vibrant-legacy-rewrite_Vibrant Legacy Rewrite 0.1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Legacy RTX",
+    "description": "This is my Ray Tracing project of my Vibrant Legacy series.",
+    "fileName": "1353466_vibrant-legacy-rtx_Vibrant Legacy RTX V2.3.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1353466_vibrant-legacy-rtx.jpg",
+    "downloadUrl": "textures/1353466_vibrant-legacy-rtx_Vibrant Legacy RTX V2.3.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Legacy Simple",
+    "description": "Vibrant Legacy Simple is another variant of my Vibrant Legacy series.",
+    "fileName": "1397734_vibrant-legacy-simple_Vibrant Legacy Simple V3.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1397734_vibrant-legacy-simple.jpg",
+    "downloadUrl": "textures/1397734_vibrant-legacy-simple_Vibrant Legacy Simple V3.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Lumina Lite Edition",
+    "description": "Experience Minecraft like never before with Lumina Lite! This high-end shader brings the iconic Java Lumina aesthetic to Bedrock, featuring vibrant natural colors, ultra-realistic water waves, and cinematic lighting.",
+    "fileName": "1422339_vibrant-lumina-lite-edition_Vibrant BSL Lite Edition [ v2.5 ].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1422339_vibrant-lumina-lite-edition.jpg",
+    "downloadUrl": "textures/1422339_vibrant-lumina-lite-edition_Vibrant BSL Lite Edition [ v2.5 ].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Normals",
+    "description": "The official conversion of Vanilla RTX Normals for the new Vibrant Visuals graphics mode!",
+    "fileName": "1422932_vibrant-normals_Vibrant-Visuals-Normals-1.0.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1422932_vibrant-normals.jpg",
+    "downloadUrl": "textures/1422932_vibrant-normals_Vibrant-Visuals-Normals-1.0.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant PLUS pack",
+    "description": "Resource pack with a tuned setting for Vibrant visuals. Enjoy beautiful godrays, tuned sunlight, water waves and many more. Can be used without a texture pack or with any texture pack.",
+    "fileName": "1239337_vibrant-plus-pack_RealSource_VibrantVisuals_PLUS_2.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1239337_vibrant-plus-pack.jpg",
+    "downloadUrl": "textures/1239337_vibrant-plus-pack_RealSource_VibrantVisuals_PLUS_2.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Rtx Visuals",
+    "description": "Vibrant RTX Visuals enhances your Minecraft world with rich saturated colors, deep blue skies, sharp clouds, and detailed foliage — delivering a stunning RTX-level look on any device.",
+    "fileName": "1570593_vibrant-rtx-visuals_Vibrant_RTX_Visuals.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1570593_vibrant-rtx-visuals.jpg",
+    "downloadUrl": "textures/1570593_vibrant-rtx-visuals_Vibrant_RTX_Visuals.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Shader",
+    "description": "Vibrant Shader transforms every dimension of your Minecraft Bedrock world into a visually stunning experience — from the sunlit overworld to the depths of the Nether and the eerie void of the End.",
+    "fileName": "1554151_vibrant-shader_Vibrant Shader.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1554151_vibrant-shader.jpg",
+    "downloadUrl": "textures/1554151_vibrant-shader_Vibrant Shader.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Shader (Vibrant Visuals)",
+    "description": "ADS Vibrant Visuals bridges the gap. It’s carefully designed to look eye-catching and colorful while running smoothly even on low-end devices.",
+    "fileName": "1333690_ads-vibrant-visuals_Vibrant Shader V2.6.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1333690_ads-vibrant-visuals.jpg",
+    "downloadUrl": "textures/1333690_ads-vibrant-visuals_Vibrant Shader V2.6.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "VIBRANT VISUAL (BEDROCK)",
+    "description": "Vibrant Bedrock changes the view and visuals of your Minecraft world to be more vibrant and dynamic.",
+    "fileName": "1423729_vibrant-visual-bedrock-addon_vibrant visual 1.10.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1423729_vibrant-visual-bedrock-addon.jpg",
+    "downloadUrl": "textures/1423729_vibrant-visual-bedrock-addon_vibrant visual 1.10.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Visual Reimagined",
+    "description": "Low Tier Beautiful Shader For Vibrant Visual",
+    "fileName": "1373257_vibrant-visual-reimagined_Vibrant Visual Reimagined 1.6.2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1373257_vibrant-visual-reimagined.jpg",
+    "downloadUrl": "textures/1373257_vibrant-visual-reimagined_Vibrant Visual Reimagined 1.6.2.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Visuals 38",
+    "description": "Vibrant Visuals give all the mobs within your world glowing eyes, making them look more threatning and allowing you to see them from a further distance.",
+    "fileName": "1528564_vibrant-visuals-38_Vibrant Visuals (V0.03).mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1528564_vibrant-visuals-38.jpg",
+    "downloadUrl": "textures/1528564_vibrant-visuals-38_Vibrant Visuals (V0.03).mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant Visuals Reimagined",
+    "description": "Vibrant Visuals Reimagined is a high-saturation, cinematic shader pack for Minecraft featuring dynamic sky lighting, realistic water reflections, volumetric fog, and vivid color grading across all biomes and times of day.",
+    "fileName": "1550520_vibrant-visuals-reimagined_Vibrant Visuals Reimagined.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1550520_vibrant-visuals-reimagined.jpg",
+    "downloadUrl": "textures/1550520_vibrant-visuals-reimagined_Vibrant Visuals Reimagined.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vibrant VSL Shader",
+    "description": "Vibrant VSL Shader transforms your world with cinematic golden daylight, deep atmospheric bluish nights, and hyper-visible God-rays. Experience ultra-soft block textures, vibrant colors, and smooth performance for the ultimate visual experience!",
+    "fileName": "1452681_vibrant-vsl-shader_Vibrant VSL Shader [ v1.9 ].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1452681_vibrant-vsl-shader.jpg",
+    "downloadUrl": "textures/1452681_vibrant-vsl-shader_Vibrant VSL Shader [ v1.9 ].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "View Model A&S By JustPals",
+    "description": "A texture that can change value, offset xyz, scale xyz, rotationn xyz. of action and stuff hand",
+    "fileName": "1537031_view-model-a-s-by-justpals_View Model AS by JustPals.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1537031_view-model-a-s-by-justpals.jpg",
+    "downloadUrl": "textures/1537031_view-model-a-s-by-justpals_View Model AS by JustPals.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Viewport Shield",
+    "description": "Adds a transparent viewport to the shield for better first-person visibility while maintaining the vanilla look.",
+    "fileName": "1594370_viewport-shield_viewport_shield.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1594370_viewport-shield.jpg",
+    "downloadUrl": "textures/1594370_viewport-shield_viewport_shield.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Village Animations",
+    "description": "Gives Players, Villagers, Iron Golems, Ravagers and Pillagers the dynamic models and bouncy walking animations seen in the official Minecraft cinematic trailers.",
+    "fileName": "1446420_village-animations_Village Animations 1.3.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1446420_village-animations.jpg",
+    "downloadUrl": "textures/1446420_village-animations_Village Animations 1.3.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Village girls TP",
+    "description": "The \"Village girls\" texture pack replaces some entities with female versions.",
+    "fileName": "1234832_village-girls-tp_Village girls TP 0.2.3.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1234832_village-girls-tp.jpg",
+    "downloadUrl": "textures/1234832_village-girls-tp_Village girls TP 0.2.3.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Villager +",
+    "description": "A lightweight Minecraft resource pack that gives villagers fresh custom skins 🎨 — farmers, librarians, desert traders, snowy villagers and more 🤝. No lag, just better variety so every village feels alive 🏡✨.",
+    "fileName": "1416785_villager-kareogamerz_Villager + V_1.0.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1416785_villager-kareogamerz.jpg",
+    "downloadUrl": "textures/1416785_villager-kareogamerz_Villager + V_1.0.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Villager Trade Unlock 🔓",
+    "description": "Unlock every villager trade instantly with this achievement-friendly Minecraft Bedrock resource pack! No waiting, no grinding—see all trades from the start while keeping achievements enabled. Simple, lightweight, and survival-ready.",
+    "fileName": "1637342_villager-trade-unlock_Gavti_Trade_Unlocker.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1637342_villager-trade-unlock.jpg",
+    "downloadUrl": "textures/1637342_villager-trade-unlock_Gavti_Trade_Unlocker.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Villager Trades Preview Unlocker",
+    "description": "Villager Trade Previewer and Unlocker for Minecraft Bedrock 1.26 to see all trades instantly without leveling up",
+    "fileName": "1451275_villager-trade-previewer-full-unlock_Villager Trade Previewer unlock v1.2.8.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1451275_villager-trade-previewer-full-unlock.jpg",
+    "downloadUrl": "textures/1451275_villager-trade-previewer-full-unlock_Villager Trade Previewer unlock v1.2.8.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Villagers Trade Unlocker",
+    "description": "This pack unlocks all villager trades, letting you view and trade every level instantly without leveling them up. It’s like a hack, but works as a safe resource pack, even in multiplayer.",
+    "fileName": "1332984_villagers-trade-unlocker_Villagers_Trade_Unlocker.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1332984_villagers-trade-unlocker.jpg",
+    "downloadUrl": "textures/1332984_villagers-trade-unlocker_Villagers_Trade_Unlocker.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vintage",
+    "description": "A warm vintage-themed visual pack for Minecraft Bedrock! Soft muted color tones, unique biome atmospheres, waving plants.",
+    "fileName": "1624599_vintage-visuals_Vintage_Visuals.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1624599_vintage-visuals.jpg",
+    "downloadUrl": "textures/1624599_vintage-visuals_Vintage_Visuals.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Amount Food",
+    "description": "With this texture pack you will be able to see the amount of food drumsticks each meal recovers.",
+    "fileName": "1399083_visible-amount-food_VISIBLE AMOUNT FOOD.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1399083_visible-amount-food.jpg",
+    "downloadUrl": "textures/1399083_visible-amount-food_VISIBLE AMOUNT FOOD.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Debris",
+    "description": "Visible Debris Made By LazyLegend95",
+    "fileName": "1520539_visible-debris_Visible Debris v2.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1520539_visible-debris.jpg",
+    "downloadUrl": "textures/1520539_visible-debris_Visible Debris v2.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Offhand",
+    "description": "Want to see your other hand?",
+    "fileName": "1572871_https-mcpedl-com-visible-offhand_Visible Offhand V26.6.12.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1572871_https-mcpedl-com-visible-offhand.jpg",
+    "downloadUrl": "textures/1572871_https-mcpedl-com-visible-offhand_Visible Offhand V26.6.12.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Og Ores Plus",
+    "description": "This texture pack will help you see the minerals more easily.",
+    "fileName": "1328383_visible-og-ores-plus_VISIBLE OG ORES PLUS.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1328383_visible-og-ores-plus.jpg",
+    "downloadUrl": "textures/1328383_visible-og-ores-plus_VISIBLE OG ORES PLUS.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "VISIBLE ORES PLUS",
+    "description": "This texture pack will help you see the minerals more easily.",
+    "fileName": "1239276_visible-ores-plus_VISIBLE ORES PLUS v1.15.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1239276_visible-ores-plus.jpg",
+    "downloadUrl": "textures/1239276_visible-ores-plus_VISIBLE ORES PLUS v1.15.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Potion Particles",
+    "description": "Makes the potion particles more visible",
+    "fileName": "1514459_visible-potion-particles_Better Potion Particles.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1514459_visible-potion-particles.jpg",
+    "downloadUrl": "textures/1514459_visible-potion-particles_Better Potion Particles.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Powder Snow by IronChickenMCPE",
+    "description": "Spot hidden traps easily and stop freezing to death in snowy biomes. Makes powder snow textures clearly stand out from normal snow.",
+    "fileName": "1615224_visiblepowdersnow_VisiblePowderSnow.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1615224_visiblepowdersnow.jpg",
+    "downloadUrl": "textures/1615224_visiblepowdersnow_VisiblePowderSnow.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Powder Snow Pro",
+    "description": "Makes the powder snow more visible by adding a border",
+    "fileName": "1520212_visible-powder-snow-pro_Powder_Snow_pro.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1520212_visible-powder-snow-pro.jpg",
+    "downloadUrl": "textures/1520212_visible-powder-snow-pro_Powder_Snow_pro.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible PowderSnow+",
+    "description": "Makes powder snow visible thus keeping the player safe from unnecessary danger",
+    "fileName": "1622998_visible-powdersnow_Visible PowderSnow+.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1622998_visible-powdersnow.jpg",
+    "downloadUrl": "textures/1622998_visible-powdersnow_Visible PowderSnow+.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Trades",
+    "description": "This texture pack allows you to see the trades of the villagers before unlocking them",
+    "fileName": "1244614_visible-trades_VISIBLE TRADES.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1244614_visible-trades.jpg",
+    "downloadUrl": "textures/1244614_visible-trades_VISIBLE TRADES.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visible Trip-Wire",
+    "description": "Makes the Trip-Wire more visible",
+    "fileName": "1458123_visible-trip-wire_Visible Trip-Wire.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1458123_visible-trip-wire.jpg",
+    "downloadUrl": "textures/1458123_visible-trip-wire_Visible Trip-Wire.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "visual crops",
+    "description": "Clearer crop textures to easily spot when your plants are ready to harvest.",
+    "fileName": "1542129_visual-crops_visual corps.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1542129_visual-crops.jpg",
+    "downloadUrl": "textures/1542129_visual-crops_visual corps.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visual Shield",
+    "description": "It allows you to see if the shield is blocking or not, just by the color",
+    "fileName": "1456834_visual-shield_Visual Shield By Jh0nzxx.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1456834_visual-shield.jpg",
+    "downloadUrl": "textures/1456834_visual-shield_Visual Shield By Jh0nzxx.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Visual Tamer+ (FPS BOOST)",
+    "description": "A texture pack designed to disable particles and flipbook animations in Minecraft Bedrock, optimizing performance and reducing visual clutter for smoother gameplay.",
+    "fileName": "1264659_particle-flipbook-disabler_Visual Tamer+ v1.0.5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1264659_particle-flipbook-disabler.jpg",
+    "downloadUrl": "textures/1264659_particle-flipbook-disabler_Visual Tamer+ v1.0.5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Void Reaver 16x PvP Pack",
+    "description": "A clean 16x PvP texture pack featuring dark-themed weapons, custom GUI, stylish particles, armor, and smooth visuals for competitive Minecraft Bedrock gameplay.",
+    "fileName": "1637965_void-reaver-16x-pvp-pack_TG @MCAdd3719.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1637965_void-reaver-16x-pvp-pack.jpg",
+    "downloadUrl": "textures/1637965_void-reaver-16x-pvp-pack_TG @MCAdd3719.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vors Borderless Glass",
+    "description": "Clean, borderless textures for all 16 glass colors, panes, and tinted glass — no more chunky black frames breaking up your builds. Choose bold saturated colors or a lighter, more transparent look with two switchable subpacks.",
+    "fileName": "1634493_vors-borderless-glass_Vor's Borderless Glass.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1634493_vors-borderless-glass.jpg",
+    "downloadUrl": "textures/1634493_vors-borderless-glass_Vor's Borderless Glass.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vors Fps Booster",
+    "description": "Increase your framerate and reduce input lag for a smoother gaming experience.",
+    "fileName": "1613595_vors-fps-booster_Vors FPS Booster v1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1613595_vors-fps-booster.jpg",
+    "downloadUrl": "textures/1613595_vors-fps-booster_Vors FPS Booster v1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Voxen's Eating Animation",
+    "description": "Smooth eating and drinking animations for every food and potion item in Minecraft Bedrock — inspired by the Java mod. No setup needed. Achievement friendly.",
+    "fileName": "1598848_voxens-eating-animation_Eating_Animation.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1598848_voxens-eating-animation.jpg",
+    "downloadUrl": "textures/1598848_voxens-eating-animation_Eating_Animation.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Voxen's Glowing Armor Trims",
+    "description": "Makes every armor trim pattern glow on all armor types — Leather to Netherite. All trim patterns included, no setup needed. Purely visual upgrade. Achievement friendly.",
+    "fileName": "1602319_voxens-glowing-armor-trims_Glowing_Armor_Trims.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1602319_voxens-glowing-armor-trims.jpg",
+    "downloadUrl": "textures/1602319_voxens-glowing-armor-trims_Glowing_Armor_Trims.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "VSL Shader",
+    "description": "VSL Shader brings a premium cinematic look to Minecraft! Experience breathtaking Golden Hour lighting, ultra-sharp high-contrast shadows, and dreamy teal-blue nights. Optimized for 1.21+, featuring customizable sky subpacks. ✨",
+    "fileName": "1448428_vsl-shader_VSL Shader [ v2.0 ].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1448428_vsl-shader.jpg",
+    "downloadUrl": "textures/1448428_vsl-shader_VSL Shader [ v2.0 ].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "VulkanCore",
+    "description": "This pack delivered optimized smooth gameplay & efficiently, vibrant visual while keeping the vanilla textures",
+    "fileName": "1527671_vulkancore_VulkanCore(Ultimate).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1527671_vulkancore.jpg",
+    "downloadUrl": "textures/1527671_vulkancore_VulkanCore(Ultimate).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Vulkanic Ultimate 16x Pack",
+    "description": "The Vulkanic Ultimate pack offers players an immersive visual experience that transforms the standard Minecraft Bedrock aesthetic into something more vibrant and stylized",
+    "fileName": "1536686_vulkanic-ultimate-16x-pack_VulkanicRP U16.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1536686_vulkanic-ultimate-16x-pack.jpg",
+    "downloadUrl": "textures/1536686_vulkanic-ultimate-16x-pack_VulkanicRP U16.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Waguri Live Anime Ui | Animated",
+    "description": "Kaoroku Waguri live ui mcpe 1.21+ | best ui for minecraft pe / bedrock . Kaoroku Waguri Anime Ui .",
+    "fileName": "1371947_waguri-live-ui-animated-ui_waguri anime ui v1.0 .mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1371947_waguri-live-ui-animated-ui.jpg",
+    "downloadUrl": "textures/1371947_waguri-live-ui-animated-ui_waguri anime ui v1.0 .mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Waifu Anime Beds",
+    "description": "Redesigns all 16 beds with anime waifu artwork",
+    "fileName": "1468633_waifu-anime-beds_Anime Waifu Beds 1.0.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1468633_waifu-anime-beds.jpg",
+    "downloadUrl": "textures/1468633_waifu-anime-beds_Anime Waifu Beds 1.0.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Walid s 3d items for mcpe",
+    "description": "This resource pack is a tribute to the creator Walid; this pack is a version for Minecraft Bedrock that I made myself. I hope I can make the 3D items as realistic as Walid's.",
+    "fileName": "1556045_walid-s-3d-items-fo-mcpe_Walid's 3d items.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1556045_walid-s-3d-items-fo-mcpe.jpg",
+    "downloadUrl": "textures/1556045_walid-s-3d-items-fo-mcpe_Walid's 3d items.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Wandrer's Visual Pack",
+    "description": "Wanderer's Visuals is a vibrant visuals pack which has a new tonemap a better water than before, softer shadows and improved reflections and it can work on any VV supported device",
+    "fileName": "1357367_wandrers-visual-pack_Wanderer's Visuals Pack [Updated].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1357367_wandrers-visual-pack.jpg",
+    "downloadUrl": "textures/1357367_wandrers-visual-pack_Wanderer's Visuals Pack [Updated].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Warden Hotbar Selector",
+    "description": "Replaces the hotbar selector with a Warden themed design",
+    "fileName": "1470474_warden-hotbar-selector_warden_hotbar-selector_1_0_3.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1470474_warden-hotbar-selector.jpg",
+    "downloadUrl": "textures/1470474_warden-hotbar-selector_warden_hotbar-selector_1_0_3.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Warden Netherite Armor",
+    "description": "A texture pack that replaces Netherite armor with a dark Warden inspired design.",
+    "fileName": "1525654_warden-netherite-armor_Warden Armor 1.0.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1525654_warden-netherite-armor.jpg",
+    "downloadUrl": "textures/1525654_warden-netherite-armor_Warden Armor 1.0.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "WARDEN SHADER",
+    "description": "Warden Shader makes your world look darker, and scary.",
+    "fileName": "1480843_warden-shader_warden shader 1.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1480843_warden-shader.jpg",
+    "downloadUrl": "textures/1480843_warden-shader_warden shader 1.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Warden To Entitys",
+    "description": "👁 Replaces the Warden with Entity 303 in Minecraft Bedrock Edition. 🌑 Horror-themed visuals with spawn & despawn animation preview.",
+    "fileName": "1473380_warden-to-entity_warden_to_entitys V_1.4.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1473380_warden-to-entity.jpg",
+    "downloadUrl": "textures/1473380_warden-to-entity_warden_to_entitys V_1.4.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Warden to Herobrine",
+    "description": "Well... it replaces the Warden Model with Herobrine. \"Warden to Herobrine\" is a magnificent texture pack created by Jumper99 for Java Edition and was ported by me, Parzival_ for Bedrock Edition.",
+    "fileName": "1377023_warden-to-herobrine_warden_to_herobrine.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1377023_warden-to-herobrine.jpg",
+    "downloadUrl": "textures/1377023_warden-to-herobrine_warden_to_herobrine.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "WardenGirls",
+    "description": "The warden but girl",
+    "fileName": "1396690_wardengirls_WardenGirls.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1396690_wardengirls.jpg",
+    "downloadUrl": "textures/1396690_wardengirls_WardenGirls.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "WarmLight shaders",
+    "description": "WarmLight Shaders bathes Minecraft Bedrock in warm, cinematic light — golden god rays, sunset-tinted skies, realistic reflective water, and PBR-enhanced ores, all running smooth and optimized for every biome.",
+    "fileName": "1613704_warmlight-shaders_WarmLight Shaders v1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1613704_warmlight-shaders.jpg",
+    "downloadUrl": "textures/1613704_warmlight-shaders_WarmLight Shaders v1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Warrior Light | v1.0.4 Copper Update",
+    "description": "Are you looking for futuristic weapon? well Warrior Light is the right place to download the pack! [This Project part of ModJam2025]",
+    "fileName": "1340213_warrior-light_Warrior Light v1.0.4 Copper Update by HyperF3GamerINDO.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1340213_warrior-light.jpg",
+    "downloadUrl": "textures/1340213_warrior-light_Warrior Light v1.0.4 Copper Update by HyperF3GamerINDO.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Warriors' Client & Ui",
+    "description": "Warriors' Client for Minecraft PE enhances gameplay with features like Inventory Hud , Quick Loot and Quick Craft for faster item management. Enjoy an FPS Boost for smoother performance and Better PvP mechanics for improved combat. It also has Great ui .",
+    "fileName": "1246628_warriors-client_Warriors' Client v3.6.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1246628_warriors-client.jpg",
+    "downloadUrl": "textures/1246628_warriors-client_Warriors' Client v3.6.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Water Normals",
+    "description": "This water mod introduces waves, boat physics and immersive oceans. This mod may not be as shown depending on presets and devices.*",
+    "fileName": "1580375_water-normals_Water Normals V2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1580375_water-normals.jpg",
+    "downloadUrl": "textures/1580375_water-normals_Water Normals V2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Water Splash Animation",
+    "description": "Custom animated water splash effect, creating smooth splashes around the player for a more realistic and polished experience.",
+    "fileName": "1398368_water-splash-animation_Water splash Animation v2.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1398368_water-splash-animation.jpg",
+    "downloadUrl": "textures/1398368_water-splash-animation_Water splash Animation v2.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Waypoints+(resource pack only)",
+    "description": "Minimal waypoint texture pack: use the stick to mark player locations and deaths.",
+    "fileName": "1417966_waypoints-resource-pack_cb_Waypoint.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1417966_waypoints-resource-pack.jpg",
+    "downloadUrl": "textures/1417966_waypoints-resource-pack_cb_Waypoint.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Weather FOG | v1.0.3 Sunshine Toxic Update",
+    "description": "Are you looking for a FOG that change weather or condition in a game? well, this is you may look for, this pack change visual in-game start from dark vibe Minecraft into sandstorm.",
+    "fileName": "1382225_weather-fog_Weather FOG v1.0.3 Sunshine Toxic Update by HyperF3GamerINDO.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1382225_weather-fog.jpg",
+    "downloadUrl": "textures/1382225_weather-fog_Weather FOG v1.0.3 Sunshine Toxic Update by HyperF3GamerINDO.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Whisper 4d Skin",
+    "description": "4d Whisper Skin Texturepack with Blinking Animation + Variants",
+    "fileName": "1559187_whisper-4d-skin_Whisper.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1559187_whisper-4d-skin.jpg",
+    "downloadUrl": "textures/1559187_whisper-4d-skin_Whisper.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "White 3D Outline",
+    "description": "Replace the default black selection box with a clean white 3D outline for Minecraft Bedrock Edition. — gives every block and item a stylish glowing edge!",
+    "fileName": "1379073_white-3d-outline_White 3D Outline 1.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1379073_white-3d-outline.jpg",
+    "downloadUrl": "textures/1379073_white-3d-outline_White 3D Outline 1.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "White Outline & Full Grass",
+    "description": "This Texture Pack contains White Outline and Full Grass",
+    "fileName": "1478806_white-outline-full-grass_White Outline Full Grass v1.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1478806_white-outline-full-grass.jpg",
+    "downloadUrl": "textures/1478806_white-outline-full-grass_White Outline Full Grass v1.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "White Outline Selection+",
+    "description": "A simple texture pack that changes the block selection outline from black to white for better visibility.",
+    "fileName": "1256144_white-outline-selection_White Outline Selection+ v1.0.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1256144_white-outline-selection.jpg",
+    "downloadUrl": "textures/1256144_white-outline-selection_White Outline Selection+ v1.0.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Wild Wolves",
+    "description": "Remodels wolves to be more wild with over 340+ unique wolf variants!",
+    "fileName": "1471040_wild-wolves_wild_wolves-v1.1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1471040_wild-wolves.jpg",
+    "downloadUrl": "textures/1471040_wild-wolves_wild_wolves-v1.1.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Windows Panorama & Title",
+    "description": "This resource pack will replace the panorama and title with the same ones as in Minecraft Windows Beta",
+    "fileName": "1353417_widows-beta-panorama-title_Windows beta.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1353417_widows-beta-panorama-title.jpg",
+    "downloadUrl": "textures/1353417_widows-beta-panorama-title_Windows beta.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Windows XP Menu / Background",
+    "description": "Change your Minecraft background to a Windows XP wallpaper!",
+    "fileName": "1587536_windows-xp-menu-background_!WindowsXP-Menu 1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1587536_windows-xp-menu-background.jpg",
+    "downloadUrl": "textures/1587536_windows-xp-menu-background_!WindowsXP-Menu 1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Wing fps booster",
+    "description": "Boost your FPS and improve PvP visibility with this lightweight texture pack! This pack reduces lag and makes items smaller for clearer screen space during fights. Perfect for PvP players who want smoother gameplay and better performance on low-end devices",
+    "fileName": "1480039_wing-fps-booster_wingfpsbooster.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1480039_wing-fps-booster.jpg",
+    "downloadUrl": "textures/1480039_wing-fps-booster_wingfpsbooster.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Winter Fog Shader",
+    "description": "Make winter biomes look foggy",
+    "fileName": "1401003_winter-fog_Winter Fog v1.1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1401003_winter-fog.jpg",
+    "downloadUrl": "textures/1401003_winter-fog_Winter Fog v1.1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Winter Visual Pack",
+    "description": "Winter Visuals is a vibrant Minecraft pack that transforms your world into a cold, wintery wonderland. Featuring icy, frosty view and water, and landscapes, this pack brings the chill of winter to life with a series of stunning visual updates.",
+    "fileName": "1377675_winter-visual-pack_Winter Visuals Pack [Updated].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1377675_winter-visual-pack.jpg",
+    "downloadUrl": "textures/1377675_winter-visual-pack_Winter Visuals Pack [Updated].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Winter Wanderer for pe",
+    "description": "A hazmat diversity mod from Escape the Backrooms for pe minecraft",
+    "fileName": "1412954_winter-wanderer-for-pe_ETB. Winter Wanderer _1771142024508 (1).mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1412954_winter-wanderer-for-pe.jpg",
+    "downloadUrl": "textures/1412954_winter-wanderer-for-pe_ETB. Winter Wanderer _1771142024508 (1).mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "Witch 16x",
+    "description": "Witch 16x is a clean and smooth PvP resource pack featuring a dark cyan theme, custom armor, weapons, GUI, particles, and optimized textures for competitive gameplay. Perfect for BedWars, SkyWars, Survival, and PvP servers.",
+    "fileName": "1585090_witch-16x_witch-TG @MCAdd3719 (1).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1585090_witch-16x.jpg",
+    "downloadUrl": "textures/1585090_witch-16x_witch-TG @MCAdd3719 (1).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Witch Rework",
+    "description": "\"WitchRework\" is a resource pack that changes the model and texture of a witch and a witch's cat.",
+    "fileName": "1450884_witch-rework_witch_rework.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1450884_witch-rework.jpg",
+    "downloadUrl": "textures/1450884_witch-rework_witch_rework.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Wood Totem",
+    "description": "Replace the default Totem of Undying with beautiful 3D wooden totems inspired by Minecraft's vanilla log blocks. This resource pack includes 9 selectable wood variants through subpacks, making it perfect for Survival, Roleplay, and Vanilla+ worlds",
+    "fileName": "1630151_wood-totem_Wood Totem.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1630151_wood-totem.jpg",
+    "downloadUrl": "textures/1630151_wood-totem_Wood Totem.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "World Cup 2026 Totem | FIFA Trophy",
+    "description": "Bring the football fever into your Minecraft world! This simple yet epic texture pack replaces the boring vanilla Totem of Undying with the official 2026 FIFA World Cup Trophy",
+    "fileName": "1578591_world-cup-2026-totem-fifa-trophy_World Cup 2026 Totem Fifa Trophy.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1578591_world-cup-2026-totem-fifa-trophy.jpg",
+    "downloadUrl": "textures/1578591_world-cup-2026-totem-fifa-trophy_World Cup 2026 Totem Fifa Trophy.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "World Flags Font",
+    "description": "A font containing world flags for use in Minecraft.",
+    "fileName": "1414745_world-flags-font_World Flags Font.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1414745_world-flags-font.jpg",
+    "downloadUrl": "textures/1414745_world-flags-font_World Flags Font.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "World Porter",
+    "description": "Shows the import and export buttons for mobile users.",
+    "fileName": "1494842_world-porter_world-porter.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1494842_world-porter.jpg",
+    "downloadUrl": "textures/1494842_world-porter_world-porter.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Wraiths",
+    "description": "Welcome to another bedrock port of mine! This Pack named \"Wraiths\" was originally made by Mufinek_ for Java Edition and was ported by me to Bedrock Edition. This pack replaces zombies as wraiths!!!",
+    "fileName": "1377032_wraiths_wraiths.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1377032_wraiths.jpg",
+    "downloadUrl": "textures/1377032_wraiths_wraiths.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X Ray (ADS)",
+    "description": "X-Ray Texture pack work everywhere.",
+    "fileName": "1398434_ads-x-ray_ADS X-Ray.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1398434_ads-x-ray.jpg",
+    "downloadUrl": "textures/1398434_ads-x-ray_ADS X-Ray.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "X RAY + Night Vision",
+    "description": "A clean, achievement safe resource pack that makes ores instantly visible with a night-vision style effect in all graphics modes.",
+    "fileName": "1471319_x-ray-night-vision_X RAY + Night Vision v1.8.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1471319_x-ray-night-vision.jpg",
+    "downloadUrl": "textures/1471319_x-ray-night-vision_X RAY + Night Vision v1.8.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X RAY + Night Vision | Xray",
+    "description": "This resource pack does not disable achievements and works on servers. It adds X-Ray and Night Vision to help you find ores easily and see clearly in the dark 🔥",
+    "fileName": "1598669_x-ray-night-vision-xray_X-ray + Nightvision.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1598669_x-ray-night-vision-xray.jpg",
+    "downloadUrl": "textures/1598669_x-ray-night-vision-xray_X-ray + Nightvision.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X Ray Extra",
+    "description": "Find Ores Easily!",
+    "fileName": "1541930_x-ray-extra_X-Ray Extra.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1541930_x-ray-extra.jpg",
+    "downloadUrl": "textures/1541930_x-ray-extra_X-Ray Extra.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X ray Glow | X ray | Xray",
+    "description": "🏅 The Best X Ray Pack. it outlines & glows all ores & doesn't disable achievements & can be used in Servers.",
+    "fileName": "1304020_x-ray-works-in-original-patch-everywhere_X-Ray v1.9 Stable.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1304020_x-ray-works-in-original-patch-everywhere.jpg",
+    "downloadUrl": "textures/1304020_x-ray-works-in-original-patch-everywhere_X-Ray v1.9 Stable.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-Ray Core",
+    "description": "This Mod Lets You See Through Walls And Easily Find Ores. This Is A Resource Pack And Can Be Used On Servers (Not Recommend!)",
+    "fileName": "1466650_x-ray-core_X-Ray Core By [ BlockCraftAddons ].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1466650_x-ray-core.jpg",
+    "downloadUrl": "textures/1466650_x-ray-core_X-Ray Core By [ BlockCraftAddons ].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-Ray Enhanced",
+    "description": "An X-RAY resource pack for Minecraft Bedrock that highlights ores by making other blocks transparent using custom shaders and textures.",
+    "fileName": "1296180_x-ray-bedrock_X-RAYEnhanced.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1296180_x-ray-bedrock.jpg",
+    "downloadUrl": "textures/1296180_x-ray-bedrock_X-RAYEnhanced.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-Ray Light Version",
+    "description": "💎 X-RAY LIGHT helps you find Diamonds, Gold, Emeralds, Ancient Debris, and other valuable ores with ease. Lightweight, achievement-friendly, and optimized for Minecraft Bedrock Edition. ✨",
+    "fileName": "1591761_x-ray-light-version_X-Ray Light Version V-0.2 .mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1591761_x-ray-light-version.jpg",
+    "downloadUrl": "textures/1591761_x-ray-light-version_X-Ray Light Version V-0.2 .mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-Ray Ore finder",
+    "description": "Xray Pack helps you spot ores faster with clear, colorful ore outlines for a cleaner and easier mining experience. ⛏️",
+    "fileName": "1537010_x-ray-ore-finder_Xray_Ore_v1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1537010_x-ray-ore-finder.jpg",
+    "downloadUrl": "textures/1537010_x-ray-ore-finder_Xray_Ore_v1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-ray plus+",
+    "description": "Clean outline X-Ray texture pack for Minecraft Bedrock. Easier mining while staying survival-friendly",
+    "fileName": "1445156_x-ray-plus-plus_xray plus+ 1.5 stable.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1445156_x-ray-plus-plus.jpg",
+    "downloadUrl": "textures/1445156_x-ray-plus-plus_xray plus+ 1.5 stable.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-Ray Pluss",
+    "description": "This X-ray texture pack adds x-rays, so you can see through walls to easily locate minerals.",
+    "fileName": "1261525_x-ray-pluss_X-RAY PLUSS v1.3.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1261525_x-ray-pluss.jpg",
+    "downloadUrl": "textures/1261525_x-ray-pluss_X-RAY PLUSS v1.3.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-Ray Pro By UpCraftX",
+    "description": "X-Ray Pro makes common blocks transparent to reveal valuable ores, helping you mine faster and explore underground with ease in Minecraft Bedrock.",
+    "fileName": "1595208_x-ray-pro-by-upcraftx_X-Ray Pro.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1595208_x-ray-pro-by-upcraftx.jpg",
+    "downloadUrl": "textures/1595208_x-ray-pro-by-upcraftx_X-Ray Pro.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-Ray Texture Pack",
+    "description": "X-Ray Texture Pack by Gavti — Ultra clear ores, glowing visuals, dark caves & smooth FPS boost. Perfect for survival, mining and PvP players who want a stylish x-ray experience!",
+    "fileName": "1538035_x-ray-texture-pack-gavti_GAVTI_X-RAY_PRO.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1538035_x-ray-texture-pack-gavti.jpg",
+    "downloadUrl": "textures/1538035_x-ray-texture-pack-gavti_GAVTI_X-RAY_PRO.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-Ray Ultimate | Outlined Ores",
+    "description": "See every valuable block instantly with Ultimate X-Ray, featuring clearly outlined and glowing ores for maximum visibility. Mine smarter, locate resources faster, and never miss diamonds again.",
+    "fileName": "1488060_x-ray-ultimate-outlined-ore_X-Ray Ultimate v2.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1488060_x-ray-ultimate-outlined-ore.jpg",
+    "downloadUrl": "textures/1488060_x-ray-ultimate-outlined-ore_X-Ray Ultimate v2.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-ray with glowing ore",
+    "description": "X-Ray Pack with transparent blocks, bright visible ores and clean textures. Supports Normal, Nether & Deepslate ores. FPS friendly and optimized for MCPE/Bedrock mining. By Baku",
+    "fileName": "1539446_x-ray-with-glowing-ore-bakuthebuilder_Xray_Glowing_Ores_By_Baku.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1539446_x-ray-with-glowing-ore-bakuthebuilder.jpg",
+    "downloadUrl": "textures/1539446_x-ray-with-glowing-ore-bakuthebuilder_Xray_Glowing_Ores_By_Baku.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-ray+better",
+    "description": "A simple and clean X-Ray Resource Pack for Minecraft Bedrock Edition that makes most underground blocks invisible so you can easily find ores like diamonds, iron, gold, and more. Perfect for mining and cave exploration.",
+    "fileName": "1478699_x-ray-better_X-ray+better.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1478699_x-ray-better.jpg",
+    "downloadUrl": "textures/1478699_x-ray-better_X-ray+better.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X-RayVision",
+    "description": "A resource pack that will turn Stone, Deep Slate, and Netherrack blocks invisible, allowing you to see caves, structures, and ores.",
+    "fileName": "1470440_x-rayvision_X-RayVisionV1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1470440_x-rayvision.jpg",
+    "downloadUrl": "textures/1470440_x-rayvision_X-RayVisionV1.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "X377a",
+    "description": "A PvP texture pack in Minecraft is a pack that changes the game’s look to help players fight better. It makes weapons clearer, reduces lag, and removes extra effects so you can see and react faster in battles.",
+    "fileName": "1491171_x377a_Xx377a.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1491171_x377a.jpg",
+    "downloadUrl": "textures/1491171_x377a_Xx377a.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xali’s White Diamonds",
+    "description": "A bedrock port of Xali’s White Diamonds",
+    "fileName": "1392955_xalis-white-diamonds_Xali’s White Diamond_1764234924400.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1392955_xalis-white-diamonds.jpg",
+    "downloadUrl": "textures/1392955_xalis-white-diamonds_Xali’s White Diamond_1764234924400.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xambie's Clean Glass",
+    "description": "Tired of annoying streaks blocking your view? Clean Glass removes all distracting reflections and lines from Minecraft glass, giving your worlds a crystal-clear look.",
+    "fileName": "1605486_xambies-clean-glass_Clean Glass1.5.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1605486_xambies-clean-glass.jpg",
+    "downloadUrl": "textures/1605486_xambies-clean-glass_Clean Glass1.5.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xenic Ultra | Aggressive FPS Boost",
+    "description": "An aggressive FPS boost pack for Minecraft Bedrock that disables animations, removes visual effects, and maximizes performance for smoother gameplay on low-end devices.",
+    "fileName": "1550307_xenic-ultra-aggressive-fps-boost_Xenic_V2_by_Ash_Blast.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1550307_xenic-ultra-aggressive-fps-boost.jpg",
+    "downloadUrl": "textures/1550307_xenic-ultra-aggressive-fps-boost_Xenic_V2_by_Ash_Blast.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xenon X | Ultimate FPS Booster",
+    "description": "Xenon X is a powerful FPS booster for Minecraft Bedrock that reduces lag and delivers smoother gameplay — especially optimized for low-end devices.",
+    "fileName": "1517324_xenon-x_Xenon X.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1517324_xenon-x.jpg",
+    "downloadUrl": "textures/1517324_xenon-x_Xenon X.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xiao Reimagined Shader - Reborn",
+    "description": "Xiao Reimagined delivers stunning atmospheric lighting with purple-hued skies, golden hour sunsets, deep blue nights, and immersive volumetric fog for Vibrant Visuals mode.",
+    "fileName": "1301347_xiao-reimagined-shader_Xiao Reimagined v3.6.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1301347_xiao-reimagined-shader.jpg",
+    "downloadUrl": "textures/1301347_xiao-reimagined-shader_Xiao Reimagined v3.6.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xiao Sakura Shader V4",
+    "description": "Realistic Minecraft Bedrock shader built for Vibrant Visuals, blending cherry blossom aesthetics.",
+    "fileName": "1308435_xiao-sakura-shader_Xiao Sakura Shader v4.0.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1308435_xiao-sakura-shader.jpg",
+    "downloadUrl": "textures/1308435_xiao-sakura-shader_Xiao Sakura Shader v4.0.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xiao Visuals Shader",
+    "description": "Xiao Visuals is a cinematic shader for Minecraft Bedrock that transforms your world with warm golden sunlight, glowing pink sunsets, soft volumetric fog, reflective water.",
+    "fileName": "1313794_xiao-visuals_Xiao Visuals v3.4.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1313794_xiao-visuals.jpg",
+    "downloadUrl": "textures/1313794_xiao-visuals_Xiao Visuals v3.4.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "XiaoBoost Ultimate | All-in-One FPS Optimizer + No Lag",
+    "description": "Fully compatible with other packs & shaders! Optimizes fog, particles & sounds for max performance.",
+    "fileName": "1500471_xiaoboost-ultimate_XiaoBoost Ultimate v1.6.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1500471_xiaoboost-ultimate.jpg",
+    "downloadUrl": "textures/1500471_xiaoboost-ultimate_XiaoBoost Ultimate v1.6.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xnova Remastered",
+    "description": "First-person animation texture pack — customizable in every possible way!",
+    "fileName": "1626908_xnova-remastered_Xnova Remastered 1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1626908_xnova-remastered.jpg",
+    "downloadUrl": "textures/1626908_xnova-remastered_Xnova Remastered 1.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Xtreme Enhanced",
+    "description": "Xtreme Enhanced is designed to make your Minecraft world look sharper, brighter, and fully refreshed.",
+    "fileName": "1398400_xtreme-enhanced_Xtreme_enhanced.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1398400_xtreme-enhanced.jpg",
+    "downloadUrl": "textures/1398400_xtreme-enhanced_Xtreme_enhanced.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Yellow PvP Pack",
+    "description": "A clean, high-FPS Yellow-themed PvP texture pack featuring custom transparent dark UIs, short swords, outlined ores, and a breathtaking custom golden sky. Perfect for competitive Bedwars, SkyWars, and Duels!",
+    "fileName": "1600963_yellow-pvp-pack_Yellow pvp pack.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1600963_yellow-pvp-pack.jpg",
+    "downloadUrl": "textures/1600963_yellow-pvp-pack_Yellow pvp pack.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Yor Forger Totem",
+    "description": "Replaces the Totem of Undying with an Anime Yor Forger Totem",
+    "fileName": "1511937_yor-forger-totem_Yor_Forger_Totem_1_0_1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1511937_yor-forger-totem.jpg",
+    "downloadUrl": "textures/1511937_yor-forger-totem_Yor_Forger_Totem_1_0_1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Yoshi 4d Skin",
+    "description": "4d Yoshi Skin Texturepack with Blinking Animation + Variants",
+    "fileName": "1563241_yoshi-4d-skin_Yoshi.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1563241_yoshi-4d-skin.jpg",
+    "downloadUrl": "textures/1563241_yoshi-4d-skin_Yoshi.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "YouTuber Totems",
+    "description": "This pack adds 10 totem textures of famous minecraft related content youtubers.",
+    "fileName": "1395824_youtuber-totems_youtuber_totems.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1395824_youtuber-totems.jpg",
+    "downloadUrl": "textures/1395824_youtuber-totems_youtuber_totems.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "YSZ Crosshair Indicator",
+    "description": "This mod makes your crosshair display different when an entity is in reach like players, zombie, sheep etc.",
+    "fileName": "1593997_ysz-crosshair-indicator_Crosshair Indicator V2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1593997_ysz-crosshair-indicator.jpg",
+    "downloadUrl": "textures/1593997_ysz-crosshair-indicator_Crosshair Indicator V2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Yubi's Easter Paintings",
+    "description": "Easter is near and what about furnishing your beloved home with some cool easter Paintings? 30 Paintings are waiting for you! Some i will show, some are secret. So download and find out!",
+    "fileName": "1495552_yubis-easter-paintings_Mystic_Easter_Paintings.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1495552_yubis-easter-paintings.jpg",
+    "downloadUrl": "textures/1495552_yubis-easter-paintings_Mystic_Easter_Paintings.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Yuji Itadori Totem",
+    "description": "Replaces the Totem of Undying with an Anime Yuji Itadori Totem",
+    "fileName": "1503327_yuji-itadori-totem_Yuji_Itadori_Totem_1_0_2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1503327_yuji-itadori-totem.jpg",
+    "downloadUrl": "textures/1503327_yuji-itadori-totem_Yuji_Itadori_Totem_1_0_2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Yuji Itadori UI Inventory",
+    "description": "Adds a Yuji Itadori UI Inventory",
+    "fileName": "1504201_yuji-itadori-ui-inventory_Yuji Itadori - Black - 2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1504201_yuji-itadori-ui-inventory.jpg",
+    "downloadUrl": "textures/1504201_yuji-itadori-ui-inventory_Yuji Itadori - Black - 2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Yummysheep Shader",
+    "description": "The Shader changed water, sky, seawater, and plants, and also added animation.",
+    "fileName": "1254004_yummy-sheep-shader_Yummysheep Shader v1.34 (v26.0+).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1254004_yummy-sheep-shader.jpg",
+    "downloadUrl": "textures/1254004_yummy-sheep-shader_Yummysheep Shader v1.34 (v26.0+).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Yummysheep Shader for RTX",
+    "description": "Extended Yummysheep shader for Minecraft Bedrock RTX which is an RTX-optimized version",
+    "fileName": "1268356_yummysheep-shader-for-rtx_Yummysheep Shader RTX (26.0+).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1268356_yummysheep-shader-for-rtx.jpg",
+    "downloadUrl": "textures/1268356_yummysheep-shader-for-rtx_Yummysheep Shader RTX (26.0+).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zen Visuals",
+    "description": "This shader enhances Minecraft with improved lighting, richer colors, realistic ambience, and biome-specific atmospheres. It delivers a smoother, more vibrant visual experience while staying faithful to the game’s original style.",
+    "fileName": "1385732_zen-visuals_Zen-Visuals-v1.1.5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1385732_zen-visuals.jpg",
+    "downloadUrl": "textures/1385732_zen-visuals_Zen-Visuals-v1.1.5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ZenFps",
+    "description": "Smooth FPS boost with clean visuals, minimal design, and optimized gameplay experience.",
+    "fileName": "1512773_zenfps_ZenFps V2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1512773_zenfps.jpg",
+    "downloadUrl": "textures/1512773_zenfps_ZenFps V2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zenith Visuals",
+    "description": "Zenith Visuals delivers a premium, limitless visual experience. Featuring cinematic lighting, realistic water physics, and pro-grade color grading, it transforms Minecraft into a high-fidelity world while maintaining peak performance. 🚀✨",
+    "fileName": "1423769_zenith-visual_Zenith Visuals [ v2.1 ].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1423769_zenith-visual.jpg",
+    "downloadUrl": "textures/1423769_zenith-visual_Zenith Visuals [ v2.1 ].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ZenXveda Shaders",
+    "description": "Its A Bedrock shadder Compatible with Both Windows and Android",
+    "fileName": "1577632_zenxveda-shaders_ZenXveda shadder v-1.8.5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1577632_zenxveda-shaders.jpg",
+    "downloadUrl": "textures/1577632_zenxveda-shaders_ZenXveda shadder v-1.8.5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zephyr Water",
+    "description": "Zephyr Water adds a wide sparkle effect to sunlight reflections, instead of focusing on vertical lines",
+    "fileName": "1532595_zephyr-water_zephyr water 1.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1532595_zephyr-water.jpg",
+    "downloadUrl": "textures/1532595_zephyr-water_zephyr water 1.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zero & No Pumpkin Blur",
+    "description": "Removes the annoying carved pumpkin screen overlay when worn as a helmet. Clean full view, no more blocked vision. Lightweight, compatible with any resource pack. Works on all MCBE versions.",
+    "fileName": "1552342_zero-no-pumpkin-blur_Zero And No Pumpkin Blur.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1552342_zero-no-pumpkin-blur.jpg",
+    "downloadUrl": "textures/1552342_zero-no-pumpkin-blur_Zero And No Pumpkin Blur.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zero Particle",
+    "description": "Zero Particle Pack ⚡ Ultra clean Minecraft experience with zero distractions! Enjoy smoother gameplay, crystal-clear visuals, boosted FPS, and a stylish lag-free adventure made for PvP & survival.",
+    "fileName": "1541028_zero-particle-gavti_Zero Particle.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1541028_zero-particle-gavti.jpg",
+    "downloadUrl": "textures/1541028_zero-particle-gavti_Zero Particle.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zero Two Anime Sky",
+    "description": "Let's change your Sky to Zero Two",
+    "fileName": "1570922_zero-two-anime-sky_Zero Two Anime Sky.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1570922_zero-two-anime-sky.jpg",
+    "downloadUrl": "textures/1570922_zero-two-anime-sky_Zero Two Anime Sky.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zero Two Starry Sky UI Inventory",
+    "description": "Adds a Zero Two Starry Sky UI Inventory",
+    "fileName": "1587420_zero-two-starry-sky-ui-inventory_Zero Two Starry Sky UI Inventory - Black Edition.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1587420_zero-two-starry-sky-ui-inventory.jpg",
+    "downloadUrl": "textures/1587420_zero-two-starry-sky-ui-inventory_Zero Two Starry Sky UI Inventory - Black Edition.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zero Two Swimsuit UI Inventory",
+    "description": "Adds a Zero Two Swimsuit UI Inventory",
+    "fileName": "1514837_zero-two-swimsuit-ui-inventory_Zero Two Swimsuit - White 2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1514837_zero-two-swimsuit-ui-inventory.jpg",
+    "downloadUrl": "textures/1514837_zero-two-swimsuit-ui-inventory_Zero Two Swimsuit - White 2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zero Two Totem",
+    "description": "Replaces the Totem of Undying with an Anime Zero Two Totem",
+    "fileName": "1472105_zero-two-totem_Zero Two Totem 1.0.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1472105_zero-two-totem.jpg",
+    "downloadUrl": "textures/1472105_zero-two-totem_Zero Two Totem 1.0.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zero Two UI Inventory",
+    "description": "Adds a Zero Two UI Inventory",
+    "fileName": "1496671_zero-two-ui-inventory_Zero Two - White 2 .mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1496671_zero-two-ui-inventory.jpg",
+    "downloadUrl": "textures/1496671_zero-two-ui-inventory_Zero Two - White 2 .mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "zombie shader",
+    "description": "Zombie Shader makes your world look scary, horrifying, and terrifying, and it makes zombies in Minecraft more frightening and creepy.",
+    "fileName": "1479826_zombie-shader_zombie shader 1.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1479826_zombie-shader.jpg",
+    "downloadUrl": "textures/1479826_zombie-shader_zombie shader 1.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zoro_Animated_Ui",
+    "description": "This pack completely transforms your default start screen into a powerful, anime-inspired interface based on the legendary swordsman Roronoa Zoro.",
+    "fileName": "1518638_zoro-animated-ui_Zoro_Animated_Ui.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1518638_zoro-animated-ui.jpg",
+    "downloadUrl": "textures/1518638_zoro-animated-ui_Zoro_Animated_Ui.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Zyra visuals",
+    "description": "Ultra visual pack from zyra shaders for Minecraft bedrock",
+    "fileName": "1405886_zyra-visuals_Zyra-visuals-mc1.20.40+-v0.4.0released.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1405886_zyra-visuals.jpg",
+    "downloadUrl": "textures/1405886_zyra-visuals_Zyra-visuals-mc1.20.40+-v0.4.0released.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ZZZ VIBRANT VISUAL",
+    "description": "ZZZ upgrades your vibrant visuals to be warmer and more dynamic without lag, like using a shader.",
+    "fileName": "1452942_zzz-vs-zc_zzz (Vibrant Visual) 1.7.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1452942_zzz-vs-zc.jpg",
+    "downloadUrl": "textures/1452942_zzz-vs-zc_zzz (Vibrant Visual) 1.7.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ý Better Low Fire's",
+    "description": "Make all Fire better and lower",
+    "fileName": "1574980_ybetter-lowfires_Better Low Fire's v2.0.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1574980_ybetter-lowfires.jpg",
+    "downloadUrl": "textures/1574980_ybetter-lowfires_Better Low Fire's v2.0.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ý Better Outline Ores",
+    "description": "Gives an outline on all ores in Minecraft Bedrock so that mining becomes much easier, with no lag!",
+    "fileName": "1594025_better-outline-ores_Better-Outline-Ores v1.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1594025_better-outline-ores.jpg",
+    "downloadUrl": "textures/1594025_better-outline-ores_Better-Outline-Ores v1.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ý Better Slot Highlight",
+    "description": "Better and clearer slot highlight, with multiple colors to choose from!",
+    "fileName": "1578438_ybetter-slot-highlight_Better-Slot-Highlight v1.5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1578438_ybetter-slot-highlight.jpg",
+    "downloadUrl": "textures/1578438_ybetter-slot-highlight_Better-Slot-Highlight v1.5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ý Custom Background / Panorama",
+    "description": "With this pack you can easily change the Minecraft Bedrock background/panorama according to taste!",
+    "fileName": "1581581_ycustom-background_Custom-Background v1.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1581581_ycustom-background.jpg",
+    "downloadUrl": "textures/1581581_ycustom-background_Custom-Background v1.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ý Keep Panorama",
+    "description": "This pack will help keep the Minecraft Bedrock panorama!",
+    "fileName": "1588652_ykeep-panorama_Keep-Panorama v1.0.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1588652_ykeep-panorama.jpg",
+    "downloadUrl": "textures/1588652_ykeep-panorama_Keep-Panorama v1.0.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ý Remove Water & Lava Fog",
+    "description": "This pack will remove fog in water and lava so it will make vision much clearer! Exploration in oceans, and searching for ores (Ancient debris, Diamond, etc.) will become very easy!",
+    "fileName": "1605697_yremove-water-lava-fog_Remove-Water Lava-Fog v1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1605697_yremove-water-lava-fog.jpg",
+    "downloadUrl": "textures/1605697_yremove-water-lava-fog_Remove-Water Lava-Fog v1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "† ANUBIS † Client PvP",
+    "description": "† ANUBIS † Client is a 16x PvP & BedWars pack for Bedrock (Render Dragon). Features Dark UI, short swords, and a purple theme. Optimized for high FPS and clean visuals. Perfect for competitive play!",
+    "fileName": "1452205_anubis-client-pvp_ANUBIS V1.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1452205_anubis-client-pvp.jpg",
+    "downloadUrl": "textures/1452205_anubis-client-pvp_ANUBIS V1.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "†VENOM† Client PvP",
+    "description": "VENOM – PvP Pack: Clean HUD, functional buttons, Short Tools, Saturation display, 2 modes (Better Experience & PvP), no particles. Lightweight & compatible with other packs.",
+    "fileName": "1465004_venom_VENOM V5.7.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1465004_venom.jpg",
+    "downloadUrl": "textures/1465004_venom_VENOM V5.7.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "⏳ ZEPHYR SHADER",
+    "description": "This shader is a lightweight version of Zephyr Shader, where all visuals look dynamic and also horror-themed.",
+    "fileName": "1446165_zephyr-shader_zephyr shader 1.10.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1446165_zephyr-shader.jpg",
+    "downloadUrl": "textures/1446165_zephyr-shader_zephyr shader 1.10.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "⚡ Damage Impact",
+    "description": "A stylish damage effect that adds a dynamic visual impact when you take damage.",
+    "fileName": "1640349_damage-impact_⚡ Damage Impact-TG @MCAdd3719 .mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "",
+    "downloadUrl": "textures/1640349_damage-impact_⚡ Damage Impact-TG @MCAdd3719 .mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "⚡ ZEU7 Shader (Zephyr)",
+    "description": "Zeu7 Shader (Zephyr) makes your world look energetic, magical, and electrical. This shader works on all devices that support VV.",
+    "fileName": "1469880_zeu7-shader-zephyr_ZEU7 Shader 1.9.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1469880_zeu7-shader-zephyr.jpg",
+    "downloadUrl": "textures/1469880_zeu7-shader-zephyr_ZEU7 Shader 1.9.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "✦ Zero Deferred ✦",
+    "description": "Zero Deferred It's back with new improvements",
+    "fileName": "1412251_zero-deferred-shader_Zero Deferred (beta) V1.1 New.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1412251_zero-deferred-shader.jpg",
+    "downloadUrl": "textures/1412251_zero-deferred-shader_Zero Deferred (beta) V1.1 New.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "✧ Zero Deferred Packs Soon✧",
+    "description": "Remember reflective grass? Well, literally, that's what it is, but with more blocks and better performance.",
+    "fileName": "1363600_eclipse-reflective-grasses_✧ Eclipse Reflective Grasses V1.0.0 ✧.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1363600_eclipse-reflective-grasses.jpg",
+    "downloadUrl": "textures/1363600_eclipse-reflective-grasses_✧ Eclipse Reflective Grasses V1.0.0 ✧.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "弥浪隐霄 FirmamentCraft Shader | RenderDragon",
+    "description": "This is a shader for Minecraft BE 1.21.110+",
+    "fileName": "1390147_firmamentcraft-shader-renderdragon_4.2High Windows.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1390147_firmamentcraft-shader-renderdragon.jpg",
+    "downloadUrl": "textures/1390147_firmamentcraft-shader-renderdragon_4.2High Windows.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🇻🇳🤝🇯🇵Visual KISIN Soft Shadows 1.26",
+    "description": "As a visual",
+    "fileName": "1517231_visual-kisin-soft-shadows_KISIN Soft Shadows.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1517231_visual-kisin-soft-shadows.jpg",
+    "downloadUrl": "textures/1517231_visual-kisin-soft-shadows_KISIN Soft Shadows.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "🌈 Luca Visual Shader (Zephyr)",
+    "description": "Luca Visual (Zephyr) makes your world look magical, lively, hype, dynamic, and pretty, making your world pop.",
+    "fileName": "1467191_luca-visual-shader-zephyr_luca visual 1.9.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1467191_luca-visual-shader-zephyr.jpg",
+    "downloadUrl": "textures/1467191_luca-visual-shader-zephyr_luca visual 1.9.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🌙 Moonlight PvP Pack",
+    "description": "A clean and stylish PvP resource pack with glowing blue and crimson visuals, custom weapons, armor, and optimized textures for smooth combat.",
+    "fileName": "1620252_moonlight-pvp-pack_Moonlight TG @MCAdd3719.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1620252_moonlight-pvp-pack.jpg",
+    "downloadUrl": "textures/1620252_moonlight-pvp-pack_Moonlight TG @MCAdd3719.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🌸 Monika Pink PvP Pack 🌸",
+    "description": "🌸 Monika Pink PvP Pack 🌸 A beautiful pink-themed Minecraft Bedrock PvP texture pack inspired by Monika! Designed for players who love clean visuals, smooth gameplay, and anime aesthetics. ✨ Features: • Pink GUI & Hotbar • Custom Pink Sword",
+    "fileName": "1571826_monika-pink-pvp-pack_Silent Voice.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1571826_monika-pink-pvp-pack.jpg",
+    "downloadUrl": "textures/1571826_monika-pink-pvp-pack_Silent Voice.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🌸 Pink Dream PvP UI Pack | Clean & Aesthetic",
+    "description": "Upgrade your Minecraft Bedrock PvP with a beautiful pink anime-inspired UI! Featuring a clean inventory, stylish icons, custom buttons, and a smooth aesthetic designed for PvP players. ✨ Clean Inventory ⚔️ Custom PvP UI",
+    "fileName": "1599306_pink-dream-pvp-ui-pack-clean-aesthetic_TG @MCAdd3719-pinked (1).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1599306_pink-dream-pvp-ui-pack-clean-aesthetic.jpg",
+    "downloadUrl": "textures/1599306_pink-dream-pvp-ui-pack-clean-aesthetic_TG @MCAdd3719-pinked (1).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🌸 Rose Blossom PvP Pack",
+    "description": "A cute pink PvP pack with a clean UI and custom textures.",
+    "fileName": "1618890_rose-blossom-pvp-pack_TG @MCAdd3719.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1618890_rose-blossom-pvp-pack.jpg",
+    "downloadUrl": "textures/1618890_rose-blossom-pvp-pack_TG @MCAdd3719.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🌸 Sakura PvP Pack",
+    "description": "A stylish Sakura-themed PvP pack with custom textures, GUI, particles, and armor for Minecraft Bedrock Edition.",
+    "fileName": "1609817_sakura-pvp-pack_TG @MCAdd3719.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1609817_sakura-pvp-pack.jpg",
+    "downloadUrl": "textures/1609817_sakura-pvp-pack_TG @MCAdd3719.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🌸 Sakury PvP Pack",
+    "description": "Pink anime-themed PvP pack with custom weapons, armor, UI, particles, and optimized textures for Minecraft Bedrock.",
+    "fileName": "1617639_sakury-pvp-pack_TG @MCAdd3719-sakury (1).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1617639_sakury-pvp-pack.jpg",
+    "downloadUrl": "textures/1617639_sakury-pvp-pack_TG @MCAdd3719-sakury (1).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🐼 Panda Black & White Pack",
+    "description": "🐼 Clean Black & White PvP Resource Pack for Minecraft Bedrock! ✨ Features: • Smooth Black & White GUI • Panda-themed textures • Clean short sword • Custom hearts & hotbar • FPS Friendly • Perfect for PvP",
+    "fileName": "1591936_panda-black-white-pack_TG @MCAdd3719 (1).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1591936_panda-black-white-pack.jpg",
+    "downloadUrl": "textures/1591936_panda-black-white-pack_TG @MCAdd3719 (1).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "💀 Constanti Shader (Zephyr)",
+    "description": "Constanti Shader (Zephyr) makes your world look more dynamic, saturated, and dreamy at night.",
+    "fileName": "1470634_constanti-shader-zephyr_constanti shader (zephyr) 1.9.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1470634_constanti-shader-zephyr.jpg",
+    "downloadUrl": "textures/1470634_constanti-shader-zephyr_constanti shader (zephyr) 1.9.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "💀 Creepypasta Shader (Zephyr)",
+    "description": "Creepypasta Shader (Zephyr) makes your world look dark, epic, horror-like, and dynamic, inspired by Silent Hill Shader.",
+    "fileName": "1466483_creepypasta-shader-zephyr_creepypasta shader (zephyr) 1.10.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1466483_creepypasta-shader-zephyr.jpg",
+    "downloadUrl": "textures/1466483_creepypasta-shader-zephyr_creepypasta shader (zephyr) 1.10.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "💗 Cotton Candy PvP Pack",
+    "description": "A cute pink-themed PvP pack with clean textures, short swords, custom armor, and smooth gameplay. Perfect for Minecraft Bedrock PvP.",
+    "fileName": "1621779_cotton-candy-pvp-pack_брбрпинк TG @MCAdd3719.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1621779_cotton-candy-pvp-pack.jpg",
+    "downloadUrl": "textures/1621779_cotton-candy-pvp-pack_брбрпинк TG @MCAdd3719.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "🔥 BS Shader (Zephyr)",
+    "description": "BS Shader (Zephyr) makes your world look realistic, rpg-look like, dynamic, and epic.., inspired by Monster Hunter Shader",
+    "fileName": "1465602_bs-shader-zephyr_bs shader 1.10.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1465602_bs-shader-zephyr.jpg",
+    "downloadUrl": "textures/1465602_bs-shader-zephyr_bs shader 1.10.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🔥40K GOD Level PvP Pack by PS Gamer (RTX)",
+    "description": "FPS Boost PvP Texture Pack with Transparent UI, Full Grass & More!",
+    "fileName": "1317875_k-god-level-pvp-pack-by-ps-gamer-rtx_PS Gamer (RTX) 40k Special Final PvP Pack.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1317875_k-god-level-pvp-pack-by-ps-gamer-rtx.jpg",
+    "downloadUrl": "textures/1317875_k-god-level-pvp-pack-by-ps-gamer-rtx_PS Gamer (RTX) 40k Special Final PvP Pack.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🔴 Itachi Uchiha 16x PvP Pack",
+    "description": "Embrace the legacy of the Uchiha Clan with Itachi Uchiha 16x PvP Pack.",
+    "fileName": "1607863_itachi-uchiha-16x-pvp-pack_Itachi Uchiha @MCAdd3719 (1).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1607863_itachi-uchiha-16x-pvp-pack.jpg",
+    "downloadUrl": "textures/1607863_itachi-uchiha-16x-pvp-pack_Itachi Uchiha @MCAdd3719 (1).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🔵Lightning Shinobi Pack 🔵",
+    "description": "Step into the world of a true shinobi and feel the power of lightning in every move. This anime-inspired PvP texture pack brings a clean, smooth, and highly optimized experience to your game.",
+    "fileName": "1525344_lightning-shinobi-pack_@𝕪𝕦𝕟𝕠𝕣𝕡_𝕩_𝕄ℂ𝕒𝕕𝕕_𝕂𝕒𝕜𝕒𝕤𝕙𝕚_128 (1).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1525344_lightning-shinobi-pack.jpg",
+    "downloadUrl": "textures/1525344_lightning-shinobi-pack_@𝕪𝕦𝕟𝕠𝕣𝕡_𝕩_𝕄ℂ𝕒𝕕𝕕_𝕂𝕒𝕜𝕒𝕤𝕙𝕚_128 (1).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🖤 Eclipse Community Pack",
+    "description": "Created by the MCAdd Community, this pack combines clean PvP textures, a stylish GUI, custom items, anime-inspired visuals, and smooth performance. Built for players who want a unique look without sacrificing visibility or FPS.",
+    "fileName": "1607615_eclipse-community-pack_TG @MCAdd3719-whiteninja.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1607615_eclipse-community-pack.jpg",
+    "downloadUrl": "textures/1607615_eclipse-community-pack_TG @MCAdd3719-whiteninja.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "🤍 Cloudy PvP Pack",
+    "description": "Fight above the clouds with a clean white & gray PvP texture pack featuring custom swords, armor, GUI, particles, and stylish icons. Designed for smooth gameplay, better visibility, and a modern aesthetic. 📥 Download: https://t.me/MCAdd3719",
+    "fileName": "1607157_cloudy-pvp-pack_TG @MCAdd3719.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1607157_cloudy-pvp-pack.jpg",
+    "downloadUrl": "textures/1607157_cloudy-pvp-pack_TG @MCAdd3719.mcpack"
+  }
+]
