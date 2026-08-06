@@ -1,0 +1,26 @@
+{
+  "newSourceRecords": 9998,
+  "oldSourceRecords": 5559,
+  "catalogRecords": 15556,
+  "duplicatesRemoved": 1,
+  "duplicateRecords": [
+    {
+      "source": "old",
+      "category": "textures",
+      "title": "P.A’s Resurrection U8",
+      "description": "This pack is simple yet detailed like my minuscule pack. Its light ,cheerful ,and easy on the eyes! Give it a go and tell me what you think below! \n\nChangelog\nFinally finished the paintings!\n*added water flow grey texture\n*added water still grey texture\nTweaked the smoker texture",
+      "fileName": "PAsResurrectionU8.mctexture",
+      "extension": ".mctexture",
+      "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/PAsResurrectionU8.jpg",
+      "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/PAsResurrectionU8.mctexture"
+    }
+  ],
+  "unsupportedRecords": [],
+  "categories": {
+    "mods": 5818,
+    "maps": 1954,
+    "textures": 2991,
+    "skins": 4756,
+    "seeds": 37
+  }
+}
