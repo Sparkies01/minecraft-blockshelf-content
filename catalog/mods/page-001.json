@@ -82,6 +82,33 @@
   },
   {
     "category": "mods",
+    "title": "28 Weeks Later",
+    "description": "As the days go by, that are difficult and scary, and the zombies can build and break down blocks.\n28 Weeks Later 28 Days Addon (28 Weeks Later 28 Days Addon, 1 week is 1 minecraft time.)\n\n1 to 2 Days: Same as existing Minecraft\n3 to 4 days: More zombies are called in. Zombies are also summoned in the light.\nDay 5: Biozombie will be summoned. Biozombie is also summoned in the light.\nDay 6: The zombie begins to break the block.\nDay 7: Zombies start installing blocks\nIn this addon, we’ve only made it seven days.",
+    "fileName": "28WeeksLateraddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/28WeeksLateraddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/28WeeksLateraddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "3d Laser Guns E1",
+    "description": "All guns are 3d when equipped in the players hand. Colors to choose from are red, blue, yellow and green. All laser guns are craftable in survival mode.\n\nChangelog\nUpdated the link so the file imports correctly. Nothing else",
+    "fileName": "3dLaserGunsE1Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/3dLaserGunsE1Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/3dLaserGunsE1Addon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "3D Lightsaber",
+    "description": "All lightsabers have different colors, strengths and effects for the one wielding them. The included colors are red, yellow, blue and green. As a whole, it’s pretty cool but there’s one downside and that is that it looks very strange in third-person. But if you can look past that then you won’t be disappointed.\nHow does it work?\nSkull and head blocks have been replaced by the lightsabers. There’s no other way to obtain them other than looting it from a mob (extremely rare) or obtaining one via the creative inventory.\nEach sword has a different attack damage as well as a different speed boost for the player who’s using it.\nLightsabers\nGreen Lightsaber\nSpeed: 1.1\nAttack Damage: 6\nYellow Lightsaber\nSpeed: 1.2\nAttack Damage: 8\nBlue Lightsaber\nSpeed: 1.3\nAttack Damage: 10\nRed Lightsaber\nSpeed: 1.4\nAttack Damage: 12",
+    "fileName": "3DLightsaberAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/3DLightsaberAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/3DLightsaberAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "[1.1.1 Hotfix] Piglin Conquest by ForeverAPigman; The Rogue Horde",
     "description": "Piglin Conquest adds many new Piglins to the game. Stop the invasions and save the Overworld!",
     "fileName": "1237865_piglin-conquest-by-foreverapigman_[1.1.1] Piglin Conquest by ForeverAPigman.mcaddon",
@@ -730,6 +757,24 @@
   },
   {
     "category": "mods",
+    "title": "A Mighty Staff",
+    "description": "This Addons gives you what you want!\nThis Addons adds 30 items, including 10 staff, all of which can be made in survival mode! \n\nChangelog\nKnown bug, guard shield sometimes can not resist a fatal blow damage for the player, the reason is temporarily unknown, I will try to repair it",
+    "fileName": "AMightyStaffAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AMightyStaffAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AMightyStaffAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "A Quiet Place 1.1.1",
+    "description": "Well with this add-on, you will have to be extra careful. This adds one new creature and one new item. It will add a lot of difficulty to survival.\nThis adds the monsters from the 2018 movie, “A Quiet Place,” also called Death Angels. They spawn very rarely in most vanilla biomes. Certain actions triggered by the player will cause them to investigate your location, but I’m not telling you those triggers because where’s the fun in that?\n\nChangelog\n(Hopefully) fixed the download file\n\nDeath Angels no longer attack each other",
+    "fileName": "AQuietPlace111.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AQuietPlace111.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AQuietPlace111.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "A random mob spawn every 30 seconds",
     "description": "A challenging Minecraft Bedrock Edition add-on where a random mob spawns near every player every 30 seconds, turning normal survival into constant chaos. Stay alert, fight unpredictable enemies, and test your skills in this intense survival experience.",
     "fileName": "1487620_a-random-mob-spawn-every-30-seconds_A random mob spawn every 30 seconds! v1.0.0 By DtA MC.mcpack",
@@ -772,6 +817,15 @@
     "extension": ".mcpack",
     "imageUrl": "mods/1538464_a-rea-pack.jpg",
     "downloadUrl": "mods/1538464_a-rea-pack_a-REA Music Pack Bedrock Final V1.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Aaron’s Long Sword",
+    "description": "It’s only a person of true Loyalty and Royalty who can lift this sword. One day there was a young boy named Aaron who managed to hold the weapon for the first time in history. His name was Aaron so that’s why it’s called Aaron’s Long Sword.\nEffects\nSpeed  4\nStrength 20\nJump Boost 4\nRegeneration 20\nFire Resistance 5\nWater Breathing 1\nNight Vision 1\nAbsorption 15 – Absorb the impact of explosion\nSlow Falling 2 – You need to restart your world if you didn\\’t see this effect",
+    "fileName": "AaronsLongSwordAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AaronsLongSwordAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AaronsLongSwordAddon.mcaddon"
   },
   {
     "category": "mods",
@@ -952,6 +1006,15 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1251595_actual-guns-addon.jpg",
     "downloadUrl": "mods/1251595_actual-guns-addon_AG2.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Actual Guns E11",
+    "description": "This addon also doesn’t replace anything in the game. meanwhile this addon is only intended for Minigames and Adventure maps to use. there is no way to get it in survival.\n\nin 1.13 it is rather good. one of the problems is a bug where remove tags don’t work with the /function command.\n\nYou can get all items by using /function getallguns\n\nChangelog\n-Added M249\n-UMP45 Now have 25 capacity\n-Fixed sounds not loaded on 1.13",
+    "fileName": "ActualGunsE11addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ActualGunsE11addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ActualGunsE11addon.mcaddon"
   },
   {
     "category": "mods",
@@ -1558,6 +1621,15 @@
   },
   {
     "category": "mods",
+    "title": "Advanced Swords 1.0.1",
+    "description": "There are eight super cool swords that you can have in your survival. Each sword varies its attack damage, and its duration. Here are the crafting recipes, attack damage, and duration of all swords, for you to craft in your survival. You will need plenty of material to craft these new amazing swords!\n Use /function advanced_swords to get every sword at once.\n\nChangelog\nBehavior and resources pack manifest updated to the 1.13 format version.\nUpdated the download link for a new shortener (Linkvertise) so you can safely download the add-on.\nAdded item names of this add-on for the following languages: Español (España), Español (México) and Português (Portugal).\nChanged the destroy time and explosion resistance from the blocks of this add-on to match the vanilla blocks.\nA player now with a sword deals one extra attack damage to add the attack damage the player has by default.",
+    "fileName": "AdvancedSwords101.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AdvancedSwords101.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AdvancedSwords101.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Advanced Tree Capitator",
     "description": "Cut a long/wood to cut down the whole tree at once [Achivments Friendly]",
     "fileName": "1602326_advanced-tree-capitator_Advanced Tree Capitator.mcaddon",
@@ -1603,6 +1675,33 @@
   },
   {
     "category": "mods",
+    "title": "AdvancedCraft",
+    "description": "Have you ever wanted more things?\nSwords, items, food, blocks and more.\nIf you like it you’ll probably want to try this addon.\nAlso this is my first one submitted to MCPEDL!\n\nChangelog\nChanged Brief Introduction Title.\n\nNo changes in the mod for now...",
+    "fileName": "AdvancedCraftAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AdvancedCraftAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AdvancedCraftAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Advanchat",
+    "description": "That you can use to autocomplete commands and resend previous sent messages, just like you would on a keyboard. That’s a great addition for mobile players!\nHow to Use\nThree new buttons are added: Previous Message, Next Message and Autocomplete.\nTap the ↑ button to resend the previous sent message.\nTap the ↓ button to resend the next sent message.\nTap the ↹ button to autocomplete a command.",
+    "fileName": "AdvanchatAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AdvanchatAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AdvanchatAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Advanchat 1.0.0",
+    "description": "That you can use to autocomplete commands and resend previous sent messages, just like you would on a keyboard. That’s a great addition for mobile players\n\nChangelog\nHave an idea to improve the pack? Found a bug that you want fixed? Or encounter an issue you need help with? Let me know here!\nThis update includes the following changes:\nAutocompletion for command blocks.\nAspect improvements.",
+    "fileName": "Advanchat100.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/Advanchat100.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/Advanchat100.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Advaria: Death Run",
     "description": "A chaotic Minecraft Bedrock minigame based on the viral challenge: If the Runner dies, everyone loses! Features custom UIs, multi-language support (EN/ES/PT), and dynamic text goals. (1+ players, ideal for 2+)",
     "fileName": "1599801_advaria-death-run_Advaria Death Run.mcaddon",
@@ -1630,12 +1729,39 @@
   },
   {
     "category": "mods",
+    "title": "Adventure Robot V2",
+    "description": "The AdventureRobot is equipped with a huge missile launches which it uses to shoots at its enemies. The robot design is absolutely amazing too!\nHow does it work?\nThe AdventureRobot replaces the stray mob. That means it can spawn both in the Overworld and in the Nether. However, their spawn rate is quite low compared to other mobs. They are always friendly toward players and will never attack you. You can use a Key (Stick) to unlock / lock them.\n\nChangelog\nCustom Shooter Update:\n\nNew sounds\nCustom Shooter (shoot anywhere by using the remote)\nNew items\nRemote (Fishing Rod)\nKey (Stick)\nNew mode: locked / unlocked mode (use Key stick change modes)\nOther improvements",
+    "fileName": "AdventureRobotV2Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AdventureRobotV2Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AdventureRobotV2Addon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Adventure Time V4.1",
+    "description": "Well now with an addon of a very famous and well-known series called Adventure Time What adds this addon? Characters Finn the human (Stray) Jake (Wither skeleton) -Bmo (Husk)",
+    "fileName": "AdventureTimeV41.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AdventureTimeV41.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AdventureTimeV41.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Adventurer's Arsenal",
     "description": "Expand exploration with new ores, structures, armor and powerful amulets!",
     "fileName": "1486596_adventurers-arsenal_Adventurer's Arsenal.mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1486596_adventurers-arsenal.jpg",
     "downloadUrl": "mods/1486596_adventurers-arsenal_Adventurer's Arsenal.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "AdventureRobot",
+    "description": "This addon implements a really cool mech suit robot which can be used by the player as a vehicle to more easily and safer get around in Minecraft. The AdventureRobot is equipped with a huge missile launches which it uses to shoots at its enemies. The robot design is absolutely amazing too!\nThe AdventureRobot replaces the stray mob. That means it can spawn both in the Overworld and in the Nether. However, their spawn rate is quite low compared to other mobs. They will never attack a player and you can ride them similarly to a horse (but with no taming required)\nTo start shooting up stuff you will first need to find some hostile mobs and then the robot will do the rest for you. It automatically detects hostile mobs and then eliminates them.\nGeneral AdventureRobot Features\n\nReplaces stray\nReplaces fireball, stray spawn egg\nHealth: 250 hearts\nFights for the player (all monsters including bosses like the wither boss and the ender dragon)\nRideable and controlable (similar to a horse)\nShoots fireballs\nImmune to fire\nCustom sounds",
+    "fileName": "AdventureRobot.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AdventureRobot.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AdventureRobot.mcaddon"
   },
   {
     "category": "mods",
@@ -2350,6 +2476,33 @@
   },
   {
     "category": "mods",
+    "title": "Amazing Mobs",
+    "description": "The Amazing Mobs Addon replaces eight mobs in Minecraft Pocket Edition with some of the most amazing mythological creatures. Most of them you will be able to tame and keep as your pet. And some of them, such as the scorpion, you will be able to ride like a horse. Let one of these awesome companions join you on your next adventure!\n\nLegendary Creatures\nThe Manticore (replaces the cow and mooshroom) is a mythological beast with the body of a lion and a tail of a scorpion. The adult ones are hostile and will lash out with a poisonous attack if the player gets too close.\n\nIf you find a little one (a baby) then you can use any kind of raw meat to tame it. Continue to feed it until it has grown to full size. You can then use it as a mount and control it by the use of a stick.\n\nGiant Wolves (replace wolves) are slightly larger than a normal wolf. As an adult they are hostile and this means that you must find a baby wolf in order to tame one.\n\nThere are two types of Scorpions. The black one (replaces the cave spider) is hostile and has a venomous stinger tail which is extremely poisonous. The other one is green and neutral (replaces the normal spider). You can tame the green one with any type of raw meat.\n\nThe Medusa (replaces endermen) is another mythological creature which has venomous snakes in place of hair. Whatever you do : dont look into her eyes! She is much more dangerous than an enderman!\n\nLittle Dragons (replace bats) are extremely hostile and will spit fireballs at anything which moves.\n\nThe Ents (replace creepers) are guardians of the nature. They will attack anything which doesnt belong there. For example, zombies, skeletons and any of the above creatures will be attacked. Your tamed animals will do nothing to protect you against this magnificent creature : its simply too frightening to them.\n\nA Unicorn (replaces horses) is a legendary animal with a horn on its forehead. Besides the new look it still behaves much the same to a horse.\n\nWhat's new?\n---------------------------\nCow: Manticore\nWolves: Giant Wolves\nCave Spider: Black Scorpion\nSpider: Green Scorpion\nEndermen: Medusa\nBat: Little Dragon\nHorse: Unicorn\n---------------------------",
+    "fileName": "AmazingMobs.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AmazingMobs.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AmazingMobs.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Amazing Mobs V3",
+    "description": "The Amazing Mobs Addon replaces 10 mobs in Minecraft Pocket Edition with some of the most amazing mythological creatures. Most of them you will be able to tame and keep as your pet. And some of them, such as the scorpion, you will be able to ride like a horse. Let one of these awesome companions join you on your next adventure!\n\nLegendary Creatures\nThe Manticore (replaces the cow and mooshroom) is a mythological beast with the body of a lion and a tail of a scorpion. The adult ones are hostile and will lash out with a poisonous attack if the player gets too close.\n\nTitans (replace chicken) are hostile birds which look like a big prehistoric bird or something similar to an ostrich. They are hostile and since they replace chickens their spawn rate is quite frequent.\n\nGiant Wolves (replace wolves) are slightly larger than a normal wolf. As an adult they are hostile and this means that you must find a baby wolf in order to tame one.\n\nThere are two types of Scorpions. The black one (replaces the cave spider) is hostile and has a venomous stinger tail which is extremely poisonous. The other one is green and neutral (replaces the normal spider). You can tame the green one with any type of raw meat.\n\nThe Medusa (replaces endermen) is another mythological creature which has venomous snakes in place of hair. Whatever you do : dont look into her eyes! She is much more dangerous than an enderman!\nLittle Dragons (replace bats) are extremely hostile and will spit fireballs at anything which moves.\n\nA Wyvern (replace bats) is a mythical creatures with wings and two legs. This is the same Wyvern as found in the popular Wyverns Addon. If you want to read some about the specific features for the wyvern then go to that page.\n\nThe Ents (replace creepers) are guardians of the nature. They will attack anything which doesnt belong there. For example, zombies, skeletons and any of the above creatures will be attacked. Your tamed animals will do nothing to protect you against this magnificent creature : its simply too frightening to them.\n\nA Unicorn (replaces horses) is a legendary animal with a horn on its forehead. Besides the new look it still behaves much the same to a horse.\nChangelog\n\nTitan added\nManticore, Dragon and Spiders drop meat",
+    "fileName": "AmazingMobsV3.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AmazingMobsV3.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AmazingMobsV3.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Amazing Mobs V6",
+    "description": "The Amazing Mobs Addon replaces 11 mobs in Minecraft Pocket Edition with some of the most amazing mythological creatures. Most of them you will be able to tame and keep as your pet. And some of them, such as the scorpion, you will be able to ride like a horse. Let one of these awesome companions join you on your next adventure! Changelog Added wizard",
+    "fileName": "AmazingMobsV6.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AmazingMobsV6.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AmazingMobsV6.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Amber Project",
     "description": "Explore caves and find the remnants of a long ago forgotten animals!",
     "fileName": "1474993_amber-project_Amber Legacy.mcaddon",
@@ -2512,6 +2665,15 @@
   },
   {
     "category": "mods",
+    "title": "Animacraft Animal AddOn v1.8",
+    "description": "Hopefully it will develop into an interesting addon for the concept of animal concepts in Minecraft going forward, and there will be many animals, and the behavior of animals is real. This addon can be support in versions 1.8, 1.9 and 1.10 beta\n\nChangelog:\n\nUpdate v1.7.0!\n[ FRIENDLY AND DANGER FOX ]\nNow you can tame only Red Fox at this moment\nNow Red Fox will hunting at night ( becareful ) and you can't tame them when hunting",
+    "fileName": "AnimacraftV18Addons.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AnimacraftV18Addons.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AnimacraftV18Addons.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Animal Hospital Anomaly",
     "description": "This addon is designed for Minecraft: Bedrock Edition. In this addon, I have recreated 10 Skinwalker characters from Animal Hospital Anomaly.",
     "fileName": "1612845_animal-hospital-anomaly_Animal Hospital Addon BP V1.1.3.mcaddon",
@@ -2611,6 +2773,24 @@
   },
   {
     "category": "mods",
+    "title": "Ant V5",
+    "description": "BUT what about ants that are tameable, ridable, and adorable? Yes, different story now isn’t it! Your wish (as long is it’s a wish for tameable, ridable, and adorable ants) is our command.\n\nChangelog\nMade them 'pushable' again, introduced a new tameable variant (sand-ish color, bigger, stronger, rarer), confirmed working with 1.14.,",
+    "fileName": "AntV5Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AntV5Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AntV5Addon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Ant-Man",
+    "description": "How does it work?\nMinitature Power (Arrow): The most essential features of them all is the Miniature Power. This is an item which when held in your hand (or off-hand) will turn your into a superhero ant (also known as Ant-Man).\n\nCan be added to off-hand\nCharacter shrinks\n3 damage per hit\nIncreased speed\nImmune to fire\nAbleto pass through 1 block height\nAs a shrunk person you will have some new abilities, and some of them bad, such less health but also good abilities like more agility.\nTurn into Ant-Man simply by equipping the Miniature Power item. There’s no cooldown so you will be able to swiftly change between normal, giant and miniature mode within seconds.\nGiant Power (Totem of Undying): As a giant Ant-Man you will have more strength related powers. For example, you will have an increasedattack damage and also immune to knockback resistance.\n\nCan be added to the off-hand\nCharacter becomes a giant\nAttack damage: 35\nPlayer walks slower\nImmune to fire\nKnockback resistance",
+    "fileName": "AntManAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AntManAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AntManAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Antennas & Stingers",
     "description": "A Insects Ears and tail mod",
     "fileName": "1586670_antennas-stingers_Antennas Stingers BUGFIX.mcaddon",
@@ -2630,20 +2810,20 @@
   {
     "category": "mods",
     "title": "Anti Combat Log",
-    "description": "Stops players from escaping fights by logging out — ensures fair PvP combat on Bedrock servers.",
-    "fileName": "1509481_anti-combatlog_Anti Combat System.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1509481_anti-combatlog.jpg",
-    "downloadUrl": "mods/1509481_anti-combatlog_Anti Combat System.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Anti Combat Log",
     "description": "Anti Combat Log prevents players from Combat Logging (duh) and adds features such as Anti Spawn Kill! The addon doesn't have player.json which means it is compatible with every addon!",
     "fileName": "1085614_anti-combat-log_Anti Combat Log (ACL by GamerDos) v1.7.0.mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1085614_anti-combat-log.jpg",
     "downloadUrl": "mods/1085614_anti-combat-log_Anti Combat Log (ACL by GamerDos) v1.7.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Anti Combat Log",
+    "description": "Stops players from escaping fights by logging out — ensures fair PvP combat on Bedrock servers.",
+    "fileName": "1509481_anti-combatlog_Anti Combat System.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1509481_anti-combatlog.jpg",
+    "downloadUrl": "mods/1509481_anti-combatlog_Anti Combat System.mcpack"
   },
   {
     "category": "mods",
@@ -3016,12 +3196,48 @@
   },
   {
     "category": "mods",
+    "title": "Arkcraft  V4",
+    "description": "But not only that but also an extensive amount of items that will help you and add more experience to your world\n\nChangelog\nchange of texture in the item \"escargot slime\"\nincreased the level of \"leach\" Spawn\nFixed bugs, some mobs including the pulmonoscorpius",
+    "fileName": "ArkcraftAddonV4.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ArkcraftAddonV4.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ArkcraftAddonV4.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Arkcraft  V5.3",
+    "description": "New blocks, and objects that will help make playing with your friends more fun.\n\n #Note only use the latest version of the game and in an experimental way otherwise the crafting and the complement could suffer serious errors, it is recommended to use without other add-ons that add new entities, this to avoid bugs\n\nChangelog\nFixed animations, speed of the baryonyx modified, speed of the mega raptor modified, damage of the deinonychus modified",
+    "fileName": "ArkcraftAddonV53.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ArkcraftAddonV53.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ArkcraftAddonV53.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "ArkCraft Revival - Dinosaur Addon - Fight and Tame Prehistoric and Jurassic pets!!",
     "description": "This amazing addon for Minecraft, adds dinosaurs, items, blocks and mechanics based on the famous Ark video game.",
     "fileName": "1568394_arkcraft-add-on_ArkCraft 1.5.1.mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1568394_arkcraft-add-on.jpg",
     "downloadUrl": "mods/1568394_arkcraft-add-on_ArkCraft 1.5.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Arkcraft V3",
+    "description": "But not only that but also an extensive amount of items that will help you and add more experience to your world\n\nChangelog\nArrangement of some Bugs, such as the hesperornis model is the model of another entity.\n\nRemember to download the links on the information of the items, that to know how to create them",
+    "fileName": "ArkcraftV3Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ArkcraftV3Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ArkcraftV3Addon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Arkcraft V3.3",
+    "description": "But not only that but also an extensive amount of items that will help you and add more experience to your world\nNew mobs\nNew items\n\nChangelog\nThe waters are no longer safe, because the helicoprion is coming to arkcraft.\nadded helicoprion, helicoprion shark fin, helicoprion tooth, new necklace\nnew information of dodos to collect\n3 new variants of dodos, 1.dodo cooked, 2.dodo raw, 3.dodo skeleton, you can download the information in the links",
+    "fileName": "ArkcraftV33Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ArkcraftV33Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ArkcraftV33Addon.mcaddon"
   },
   {
     "category": "mods",
@@ -3070,6 +3286,15 @@
   },
   {
     "category": "mods",
+    "title": "Armored Wolf",
+    "description": "How does it work?\nThe Armored Wolves replace the ordinary wolves in Minecraft. If you find one out in the wild then you can tame it with some bones.\nTamed wolves have five times more health than an ordinary wolf and it can also be used for things such as protection and riding.\nGive a saddle to a wolf to ride it. You can also give it a horse armor to upgrade the armor to Extra Protection.\nGeneral Armored Wolf Info\n\nWild Armored Wolf\nHealth: 10 hearts\nTame with bones\nTamed Armored Wolf\nHealth: 50 hearts\nGive saddle to ride it\nGive horse armor to upgrade armor to Extra Protection",
+    "fileName": "ArmoredWolf.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ArmoredWolf.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ArmoredWolf.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Armors & Tools Expansion [Achievement Friendly]",
     "description": "Have you ever wanted more armor and tools in Minecraft, but with a vanilla style? If so, this addon is for you! It adds various armor pieces, swords, and tools made from vanilla materials! Each one has special effects that make them unique and useful!",
     "fileName": "1465271_simple-armor-expansion_Armors and Tools EXP BP.mcpack",
@@ -3112,6 +3337,15 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1405131_arsenal-guns.jpg",
     "downloadUrl": "mods/1405131_arsenal-guns_Arsenal V1.1.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Artifacts  V2",
+    "description": "Then this add-on is for you!. This add-on adds exciting 6 artifacts that you can acquire!. It also grants you special abilities!.\n\nChangelog\nV2 Changelog\n\n-Added Ice Horn Artifact, it freezes the water around you , rather below you for you to walk in. Can only be found in Igloos.\n\n-Added Demon Horn Artifact, it turns lava around you into obsidian. Can oly be found in the Nether Fortress.",
+    "fileName": "ArtifactsAddonV2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ArtifactsAddonV2.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ArtifactsAddonV2.mcaddon"
   },
   {
     "category": "mods",
@@ -3355,6 +3589,15 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1321071_auto-companions.jpg",
     "downloadUrl": "mods/1321071_auto-companions_AutoCompanions.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Auto Completion Left",
+    "description": "Now you can with this easy to use Addon. This Addon adds 4 options-Tab, Backwards Tab, Previous Text, and Next Text\nThis addon implements four new buttons to the chat user interface and two new buttons to the expanded command block interface for Minecraft Pocket Edition which makes typing both commands and normal sentences much easier\n\nChangelog\n-The addon has been updated for the minecraft version 1.14",
+    "fileName": "AutoCompletionLeft.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/AutoCompletionLeft.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/AutoCompletionLeft.mcaddon"
   },
   {
     "category": "mods",
@@ -3808,6 +4051,15 @@
   },
   {
     "category": "mods",
+    "title": "Baby Bison",
+    "description": "New Food & Loot:\nAdult bison still drop leather, but no longer give the player raw beef upon death.\nBison will now give you strip loin steak that restore five hunger points and five MORE when cooked\nChangelog\nAdded new meat, 'Strip Loin Steak'\nAdded bison horns\nAdded a new craftable item, 'Glue Bucket'\nChanged the crafting recipe for bows\nFixed aggressive behavior for adult bison",
+    "fileName": "BabyBisonAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BabyBisonAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BabyBisonAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Baby enderman",
     "description": "There is a baby enderman",
     "fileName": "1442894_baby-enderman_baby enderman.mcaddon",
@@ -3844,6 +4096,51 @@
   },
   {
     "category": "mods",
+    "title": "Baby Player",
+    "description": "Baby Player is an addon which makes it possibility to become a baby (also known as a small person) in Minecraft Pocket Edition. The best thing is that it works for any custom skin. This is purely a visual mod as it doesnt actually change any characteristics of the player (e.g. health or strength).\nThe player player is much smaller than the ordinary player model. It works perfectly fine for custom skins. The only downside which I found by using this mod was that any item you hold in your hand looks glitched. You can still use the item but visually it looks bad.\nYoull be slightly taller than a baby villager. Quite adorable, dont you think? I know, his eyes look a bit spooky but whatever! If you want this baby skin you can get it by clicking here.\nYou could actually use this addon to turn into Ant-Man. Drink some strength and speed potions and you are soon just like him!\nBaby Mobs\n\nThis download includes an optional addon which will turn all mobs in Minecraft into babies. Even ones like the creeper will look like babies.\nImportant: This addon works only for the 0.16.0 Build 5+ beta version. Android users can get it by clicking here and the rest of you will simply have to wait for the official release of 0.16.0 to be released in October to use this modification.\n\nInstall it just the same way as you install texture packs. Installation will likely work a bit different in 0.16.0 of Minecraft PE, but if so well just add more install guides to help you out.\n\nNOTE: Please update this app before using. This Addon only works Minecraft PE 0.16.0+",
+    "fileName": "BabyPlayer.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BabyPlayer.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BabyPlayer.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Baby Yoda",
+    "description": "then you must know the cute little Baby Yoda!. If you love Baby Yoda and Minecraft then this add-on is for you!.\nThis Add-on adds Baby Yoda to the Game, you can tame it and it will help you!\nHow to spawn Baby Yoda?\n-Currently you can use the Baby Yoda Spawn Egg in the creative menu, or use command to summon Baby Yoda.\nHow to tame Baby Yoda?\n-You can tame Baby Yoda using one of his favorite food, The Soup, to be specific you need to tame him with Stew Soup.",
+    "fileName": "BabyYodaAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BabyYodaAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BabyYodaAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Baby Yoda  V2",
+    "description": "then you must know the cute little Baby Yoda!. If you love Baby Yoda and Minecraft then this add-on is for you!.\nThis Add-on adds Baby Yoda to the Game, you can tame it and it will help you!\n\nChangelog\nV2 Changelog\nYou can now heal baby yoda when he is hurt.\nHealable Items\nRabbit Stew - 10 HP\nMushroom Stew - 8 HP\nBeetroot Soup - 6 HP",
+    "fileName": "BabyYodaAddonV2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BabyYodaAddonV2.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BabyYodaAddonV2.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Baby Yoda Ad-on 3",
+    "description": "then you must know the cute little Baby Yoda!. If you love Baby Yoda and Minecraft then this add-on is for you!.\nThis Add-on adds Baby Yoda to the Game, you can tame it and it will help you!\n\nChangelog\nV3 CHANGELOG\nFIXED ATTACK ANIMATION TRIGGER\nADDED SOUP ANIMATION\nYOU CAN NOW FEED BABY YODA WITH MUSHROOM STEW AND IT HAS ANIMATIONS, HE WILL EAT FOR 20 SECONDS",
+    "fileName": "BabyYodaAdon3.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BabyYodaAdon3.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BabyYodaAdon3.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Baby Yoda U1.4.1",
+    "description": "Then you must know the cute little Baby Yoda!. If you love Baby Yoda and Minecraft then this add-on is for you!.\nThis Add-on adds Baby Yoda to the Game, you can tame it and it will help you!\n\nChangelog\nTHERE IS NO NEW FEATURES\nPLEASE SUGGEST SOME IN THE COMMENT SECTION\nADDED YOUTUBE REVIEW/ROLEPLAY",
+    "fileName": "BabyYodaU141.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BabyYodaU141.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BabyYodaU141.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Back To Basics",
     "description": "An addon geared towards slow beginnings, perfect for skyblocks! With evenly tiered sifts to ensure progress is made. Also useful towards daily on the ground use allowing access to archeological loot tables and seeds! Supports other addons!",
     "fileName": "1060926_back-to-basics-addon_Back To Basics v2.3.0.mcaddon",
@@ -3877,6 +4174,15 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/917260_backpack-plus-addon.jpg",
     "downloadUrl": "mods/917260_backpack-plus-addon_Improved Backpacks V4.3 STABLE.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Backpacks  Un1",
+    "description": "They are essentially a mobile chest which you can wear on your back while traveling around in your world. It’s great if you are out on an adventure and need somewhere to offload your blocks and items. It’s easy to wear and also easy to take off in case you need to access the storage space easily.\n\nChangelog\nUpdated backpacks add-on for 1.14 and changed how the backpacks work and made them better.",
+    "fileName": "BackpacksAddonUn1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BackpacksAddonUn1.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BackpacksAddonUn1.mcaddon"
   },
   {
     "category": "mods",
@@ -4096,6 +4402,15 @@
   },
   {
     "category": "mods",
+    "title": "Basic Machinery",
+    "description": "You can be used to help automate the production of certain items. 5 of the machines require power and 3 of them produce power.\nMachine Types\nSolar Panel – Slowly generates power for free\nCombustion Generator – Generates power by using coal on it\nDrill – Breaks blocks below when powered\nVoid Miner – Generates ores when powered\nAuto Farmer – Generates food when powered\nCrusher – Crushes cobblestone above it into ores when powered\nNuclear Generator – Quickly generates power for free\nEach machine comes in 3 different tiers, so there are 24 machines in total.\nNew Ores\nCopper Ore – Spawns similarly to iron\nUranium Ore – Spawns similarly to diamond\n\nChangelog\n+ Nuclear Generator\n+ Turrets\n+ Reworked Recipes\n+ Copper & Uranium Ore\n+ Added Advanced & Quantum Tiers",
+    "fileName": "BasicMachineryAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BasicMachineryAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BasicMachineryAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Basic Mechanics GT",
     "description": "A survival behavior addon with essential QoL mechanics: chop whole trees, mine full veins, auto-replant crops, lock containers, move storage with contents, and keep your items safe in a grave on death.",
     "fileName": "1551172_basic-mechanics-gt_Basic mechanics GT v0.0.5.mcaddon",
@@ -4120,6 +4435,24 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1380834_battle-simulator.jpg",
     "downloadUrl": "mods/1380834_battle-simulator_[V1.1] Battle Simulator.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Battle Tanks",
+    "description": "How does it work?\nAll of the tanks have different stats and you can find all of that further down on this page. It includes five different tanks and each of them will fight one another by shooting explosives.\n\nPlayers can ride and control the tanks. The tanks will randomly shoot explosives at other hostiles, e.g. other battle tanks.",
+    "fileName": "BattleTanksAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/BattleTanksAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/BattleTanksAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Baymax1",
+    "description": "Baymax is a fictional superhero which in this addon replaces the iron golem. You can get it as your companion but it is much harder said than done. Thats actually good seeing as otherwise youd simply get too overpowered. After youve gone through all of the steps of taming it you will finally have Baymax as your personal superhero bodyguard!\n\nHow to tame Baymax?\nBaymax is a new type of mob which can be spawned just the same way as if you wanted to spawn an iron golem. Youll need four iron blocks and one pumpkin. Its a neutral mob which will only attack if it is provoked.\n\nYou can tame Baymax but it requires multiple steps before it is actually useful for anything. First off youll need to upgrade it using an iron block. Once it has been upgraded it will grow slightly in size.\n\niOS / Android: Long press on the screen while holding an iron block and press Upgrade.\n\nWindows 10: Hold an iron block in your hand and right click Baymax.\n\nNext you will need to give him an armor suit (replaces the diamond horse armor).\n\nNow its time for the actual taming process. For that you will need to give Baymax an Installation Disk (replaces the Nether Star). It might require several tries before you are successful.\nOnce Baymax is tamed it will automatically follow you around and defend you against different kinds of hostility such as monsters.\n\nHealth: 100 hearts\nAttack damage: 200\nEvery Minecraft day (which is every 20 min) you can give it a normal apple and get back an enchanted apple.",
+    "fileName": "Baymax1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/Baymax1.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/Baymax1.mcaddon"
   },
   {
     "category": "mods",
@@ -4165,338 +4498,5 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1325803_beans-armed-forces.jpg",
     "downloadUrl": "mods/1325803_beans-armed-forces_Bean's Armed Forces v4.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bean's StarWars",
-    "description": "A StarWars Add-On for Minecraft Bedrock, as of now, only has a few entities, vehicles and items.",
-    "fileName": "1416523_beans-starwars_Bean's StarWars V1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1416523_beans-starwars.jpg",
-    "downloadUrl": "mods/1416523_beans-starwars_Bean's StarWars V1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Beast's Lifesteal",
-    "description": "A unique and highly configurable lifesteal addon that introduces both player challenge and interaction!",
-    "fileName": "1625315_beasts-lifesteal_Lifesteal.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1625315_beasts-lifesteal.jpg",
-    "downloadUrl": "mods/1625315_beasts-lifesteal_Lifesteal.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Become Herobrine",
-    "description": "Become Herobrine! Infinite strength, invincibility, super speed, and high jumps make you unstoppable.",
-    "fileName": "1396604_become-herobrine_Herobrine.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1396604_become-herobrine.jpg",
-    "downloadUrl": "mods/1396604_become-herobrine_Herobrine.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Advancements",
-    "description": "Java Edition has a polished advancement system with custom UIs, toasts, and progress tracking. Bedrock? “Achievements disabled” when you add an addon. This fixes that with 100+ Java-style advancements, all 132 achievements, and a great-looking UI.",
-    "fileName": "1384520_bedrock-advancements_BedrockAdvancements_v154.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1384520_bedrock-advancements.jpg",
-    "downloadUrl": "mods/1384520_bedrock-advancements_BedrockAdvancements_v154.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Arduous Journey Modpack",
-    "description": "A real Modpack for Bedrock! Dark Fantasy & Custom content",
-    "fileName": "1318418_bedrock-arduous-journey_Arduous Journey V5.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1318418_bedrock-arduous-journey.jpg",
-    "downloadUrl": "mods/1318418_bedrock-arduous-journey_Arduous Journey V5.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Banhammer",
-    "description": "The banhammer is easy to use for worlds and servers and receives regular updates",
-    "fileName": "1268676_bedrock-banhammer_Banhammer v3.1.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1268676_bedrock-banhammer.jpg",
-    "downloadUrl": "mods/1268676_bedrock-banhammer_Banhammer v3.1.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock BlockRandomizer",
-    "description": "A Minecraft Bedrock Edition addon that automatically shuffles blocks in your hotbar as you build. Perfect for creating natural-looking paths, walls, and structures with varied block palettes.",
-    "fileName": "1431780_bedrock-blockrandomizer_BedrockBlockRandomizer_v100.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1431780_bedrock-blockrandomizer.jpg",
-    "downloadUrl": "mods/1431780_bedrock-blockrandomizer_BedrockBlockRandomizer_v100.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Breaker - Achievement Friendly",
-    "description": "Bedrock Breaker adds a craftable Netherite pickaxe that breaks bedrock and other unbreakable blocks in Survival. Drops the block as an item, enchantable, repairable, and achievement friendly.",
-    "fileName": "1573009_bedrock-breaker_Bedrock-Breaker.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1573009_bedrock-breaker.jpg",
-    "downloadUrl": "mods/1573009_bedrock-breaker_Bedrock-Breaker.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "bedrock bridging",
-    "description": "auto bridging",
-    "fileName": "1415952_bedrock-bridging_A-Bedrock-bridging(A-important).mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1415952_bedrock-bridging.jpg",
-    "downloadUrl": "mods/1415952_bedrock-bridging_A-Bedrock-bridging(A-important).mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Butler Core",
-    "description": "Spend less time typing commands and more time playing with Bedrock Butler's intuitive compass menus for travel, player management, recovery, and optional kits.",
-    "fileName": "1638289_bedrock-butler-core_Bedrock_Butler_Core_v1.1.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1638289_bedrock-butler.jpg",
-    "downloadUrl": "mods/1638289_bedrock-butler-core_Bedrock_Butler_Core_v1.1.2.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Chunk Loader [Achievement & Multiplayer Friendly]",
-    "description": "Your farms quit when you leave. ChunkLoader adds blocks that keep chunks loaded, and Farm Mode keeps mob farms dropping loot while you're off doing anything else. No babysitter needed.",
-    "fileName": "1420908_bedrock-chunk-loader_BedrockChunkLoader_v130.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1420908_bedrock-chunk-loader.jpg",
-    "downloadUrl": "mods/1420908_bedrock-chunk-loader_BedrockChunkLoader_v130.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Chunk Protect",
-    "description": "Protect your Minecraft Bedrock builds chunk-by-chunk! Easy menu interface, see protected areas with glowing particles, manage player permissions, and safeguard your creations from griefing.",
-    "fileName": "1393633_bedrock-chunk-protect_BedrockChunkProtect_v202.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1393633_bedrock-chunk-protect.jpg",
-    "downloadUrl": "mods/1393633_bedrock-chunk-protect_BedrockChunkProtect_v202.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Chunk Visualizer",
-    "description": "A lightweight addon that lets you visualize chunk boundaries by simply holding a specially named compass. Perfect for builders, technical players, and anyone who needs to understand chunk alignment in their world.",
-    "fileName": "1396044_bedrock-chunk-visualizer_BedrockChunkVisualizer_v111.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1396044_bedrock-chunk-visualizer.jpg",
-    "downloadUrl": "mods/1396044_bedrock-chunk-visualizer_BedrockChunkVisualizer_v111.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Clans+",
-    "description": "A powerful yet lightweight team system that brings structured multiplayer to Minecraft Bedrock Edition. Manage teams with ease using UI menus, permissions, and persistent data designed for PvP and survival worlds.",
-    "fileName": "1516585_bedrock-clans_MyTeamAddon.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1516585_bedrock-clans.jpg",
-    "downloadUrl": "mods/1516585_bedrock-clans_MyTeamAddon.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Crops [FIXES]",
-    "description": "This add-on adds ore plants and other Minecraft items, allowing you to grow resources in a practical way. All seeds can be created in-game. Explore a new way of obtaining materials!",
-    "fileName": "1144666_bedrock-crops-addon_BedrockCrops-v1.3.6.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1144666_bedrock-crops-addon.jpg",
-    "downloadUrl": "mods/1144666_bedrock-crops-addon_BedrockCrops-v1.3.6.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Dynamic Light",
-    "description": "dynamic light addon makes your torch shiny in hand",
-    "fileName": "1423614_bedrock-dynamic-light_bedrock dynamic light 2.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1423614_bedrock-dynamic-light.jpg",
-    "downloadUrl": "mods/1423614_bedrock-dynamic-light_bedrock dynamic light 2.0.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Energistics",
-    "description": "Expands Bedrock with energistics! Adds many machines to Minecraft, with custom UI. Powered by Bedrock Energistics Core.",
-    "fileName": "1032810_bedrock-energistics_bedrock_energistics_v0.14.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1032810_bedrock-energistics.jpg",
-    "downloadUrl": "mods/1032810_bedrock-energistics_bedrock_energistics_v0.14.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Energistics Core",
-    "description": "APIs for creating tech add-ons.",
-    "fileName": "1087851_bedrock-energistics-core_bedrock_energistics_core_v0.11.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1087851_bedrock-energistics-core.jpg",
-    "downloadUrl": "mods/1087851_bedrock-energistics-core_bedrock_energistics_core_v0.11.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Essentials+",
-    "description": "This adds popular add-ons like Tree Capitator and Vein Miner. An all in one mod for Bedrock Edition.",
-    "fileName": "1285412_bedrock-essentials_Bedrock Essentials+ 1.8.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1285412_bedrock-essentials.jpg",
-    "downloadUrl": "mods/1285412_bedrock-essentials_Bedrock Essentials+ 1.8.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Everywhere!!",
-    "description": "Prepare yourself for the ultimate survival test where your eyes are your greatest enemy. In this hardcore challenge, looking at the world isn't just an observation—it’s a permanent transformation. What you see is what you lose.",
-    "fileName": "1466269_bedrock-everywhere_Bedrock Everywhere.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1466269_bedrock-everywhere.jpg",
-    "downloadUrl": "mods/1466269_bedrock-everywhere_Bedrock Everywhere.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Lockout",
-    "description": "Race friends or the clock in this competitive bingo minigame with randomized tasks and customizable match rules.",
-    "fileName": "1597759_bedrock-lockout_lockout_v.1.2.3.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1597759_bedrock-lockout.jpg",
-    "downloadUrl": "mods/1597759_bedrock-lockout_lockout_v.1.2.3.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Pedestals [FIXES]",
-    "description": "An add-on that adds magical pedestals! Come and enjoy the features.",
-    "fileName": "1246879_bedrock-pedestals_Bedrock-Pedestals-v1.0.2-r.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1246879_bedrock-pedestals.jpg",
-    "downloadUrl": "mods/1246879_bedrock-pedestals_Bedrock-Pedestals-v1.0.2-r.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Perfected - Survival Expansion",
-    "description": "Wide range survival expansion ranging from new biomes, new structures, new mobs, new mechanics, QoL, and many more!",
-    "fileName": "1325218_bedrock-perfected_Bedrock Perfected - Better Birch.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1325218_bedrock-perfected.jpg",
-    "downloadUrl": "mods/1325218_bedrock-perfected_Bedrock Perfected - Better Birch.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Performance Optimizer",
-    "description": "Optimizes the game without making your visuals low quality. Has Config settings",
-    "fileName": "1337587_bedrock-performance-optimizer_Performance Optimizer v2.6.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1337587_bedrock-performance-optimizer.jpg",
-    "downloadUrl": "mods/1337587_bedrock-performance-optimizer_Performance Optimizer v2.6.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Performance Suite",
-    "description": "All-in-one performance toolkit for Minecraft Bedrock with Smart ClearLag, automatic mob control, TPS monitoring, diagnostics and configurable protection systems.",
-    "fileName": "1623514_bedrock-performance-suite_Bedrock_Performance_Suite_v1.0.0_Public.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1623514_bedrock-performance-suite.jpg",
-    "downloadUrl": "mods/1623514_bedrock-performance-suite_Bedrock_Performance_Suite_v1.0.0_Public.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Reimagined v1.0.95",
-    "description": "Explore a reimagined Minecraft Bedrock experience with a new gameplay loop; defeat bosses to get to the end. Use magic, new weapons and tools, and your skill to defeat the game!",
-    "fileName": "1480182_bedrock-reimagined_Bedrock_Reimagined_v1.0.95.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1480182_bedrock-reimagined.jpg",
-    "downloadUrl": "mods/1480182_bedrock-reimagined_Bedrock_Reimagined_v1.0.95.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock stasis v3.1.3",
-    "description": "Bring true Java-style Ender Pearl physics to Bedrock! This add-on lets you throw pearls directly through Nether and End portals, and create 100% reliable, cross-dimensional Stasis Chambers.",
-    "fileName": "1475537_bedrock-stasis_bedrock stasis v3.1.3.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1475537_bedrock-stasis.jpg",
-    "downloadUrl": "mods/1475537_bedrock-stasis_bedrock stasis v3.1.3.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Statistics",
-    "description": "Ever wondered exactly how many chickens you've murdered, how far you've walked, or how many hours you've poured into a world you'll probably never finish? Bedrock Statistics tracks everything!",
-    "fileName": "1349347_bedrock-statistics_BedrockStatistics_v222.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1349347_bedrock-statistics.jpg",
-    "downloadUrl": "mods/1349347_bedrock-statistics_BedrockStatistics_v222.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Statistics v1.6.2",
-    "description": "The Add-On that tracks player statistics in the form of numerical data in a Minecraft world. Similar to the statistics in-game feature presented in Java Edition.",
-    "fileName": "1226058_minecraft-statistics_statistics_v1.6.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1226058_minecraft-statistics.jpg",
-    "downloadUrl": "mods/1226058_minecraft-statistics_statistics_v1.6.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "bedrock tree capitator",
-    "description": "This add-on makes an entire tree fall when you cut down one tree.",
-    "fileName": "1423635_bedrock-tree-capitator_bedrock tree capitator 1.11.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1423635_bedrock-tree-capitator.jpg",
-    "downloadUrl": "mods/1423635_bedrock-tree-capitator_bedrock tree capitator 1.11.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "bedrock vein miner [ Achievements Friendly]",
-    "description": "Vein Miner allows you to mine quickly and satisfyingly.",
-    "fileName": "1425350_bedrock-vein-miner_bedrock vein miner 1.9.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1425350_bedrock-vein-miner.jpg",
-    "downloadUrl": "mods/1425350_bedrock-vein-miner_bedrock vein miner 1.9.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock Voice Chat",
-    "description": "A High Performance, Low Latency, Secure Voice Chat server for Minecraft Bedrock Dedicated Servers",
-    "fileName": "1445992_bedrock-voice-chat_Bedrock Voice Chat 1.0.0-beta.20.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1445992_bedrock-voice-chat.jpg",
-    "downloadUrl": "mods/1445992_bedrock-voice-chat_Bedrock Voice Chat 1.0.0-beta.20.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock World Border",
-    "description": "A comprehensive world border addon for Minecraft Bedrock Edition that prevents players from traveling beyond specified boundaries with safe teleportation back to the border edge.",
-    "fileName": "1320442_bedrock-world-border_BedrockWorldBorder_v310.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1320442_bedrock-world-border.jpg",
-    "downloadUrl": "mods/1320442_bedrock-world-border_BedrockWorldBorder_v310.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrock's Better Adventures",
-    "description": "Bedrock's Better Adventures is an add-on expanding Minecraft’s world making it less repetitive by adding many new biomes, civilisations, structures, animals or even new challenges! We are not fixated on realism but rather on fantasy and romanticism.",
-    "fileName": "1149499_better-adventures_BA_26_40_v1_4_01.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1149499_better-adventures.jpg",
-    "downloadUrl": "mods/1149499_better-adventures_BA_26_40_v1_4_01.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "BedrockBridge",
-    "description": "Have you ever wanted to connect your bedrock server to discord? Chat with your online friends, manage your server, run commands and much more... all from discord! Now you can!",
-    "fileName": "1286162_bedrockbridge-chat-stream-between-bedrock-and-discord_Bedrock-Bridge.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1286162_bedrockbridge-chat-stream-between-bedrock-and-discord.jpg",
-    "downloadUrl": "mods/1286162_bedrockbridge-chat-stream-between-bedrock-and-discord_Bedrock-Bridge.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "BedrockDeathLog",
-    "description": "A Bedrock add-on that logs and saves your last death position in any dimension you're in!",
-    "fileName": "1543645_bedrockdeathlog_BedrockDeathLog.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1543645_bedrockdeathlog.jpg",
-    "downloadUrl": "mods/1543645_bedrockdeathlog_BedrockDeathLog.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Bedrocks First Dimension",
-    "description": "Very first Minecraft bedrock mod to add a real custom dimension!",
-    "fileName": "1508807_bedrocks-first-dimension_Bedrocks First Dimension v1.2.33.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1508807_bedrocks-first-dimension.jpg",
-    "downloadUrl": "mods/1508807_bedrocks-first-dimension_Bedrocks First Dimension v1.2.33.mcaddon"
   }
 ]

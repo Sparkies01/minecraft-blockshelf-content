@@ -1,6 +1,978 @@
 [
   {
     "category": "textures",
+    "title": "Eagl's Better enhanced fog",
+    "description": "A smooth light-blue fog texture pack that enhances Minecraft’s atmosphere and visibility. Made by EaglShorts.",
+    "fileName": "1492417_eagls-better-enhanced-fog_better enhanced fog.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1492417_eagls-better-enhanced-fog.jpg",
+    "downloadUrl": "textures/1492417_eagls-better-enhanced-fog_better enhanced fog.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Easter Eggs Rename A&S",
+    "description": "This texture pack adds a pause menu hint. It lists all the named Easter eggs from the \"Actions And Stuff\" texture pack.",
+    "fileName": "1425319_easter-eggs-rename-as_EasterEggs.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1425319_easter-eggs-rename-as.jpg",
+    "downloadUrl": "textures/1425319_easter-eggs-rename-as_EasterEggs.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Easy Item Dump",
+    "description": "Easily transfer items from inventory to containers",
+    "fileName": "1514231_easy-item-dump_Easy Item Dump v1.3.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1514231_easy-item-dump.jpg",
+    "downloadUrl": "textures/1514231_easy-item-dump_Easy Item Dump v1.3.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Easy Titles",
+    "description": "A texturepack that changes the minecraft title",
+    "fileName": "1612177_easy-titles_EasyTitles1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1612177_easy-titles.jpg",
+    "downloadUrl": "textures/1612177_easy-titles_EasyTitles1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Eating Animations+",
+    "description": "Eating Animations to addons",
+    "fileName": "1456175_eating-animations-plus_EatingAnimations1.0 (2).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1456175_eating-animations-plus.jpg",
+    "downloadUrl": "textures/1456175_eating-animations-plus_EatingAnimations1.0 (2).mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "EB Shader 15-2",
+    "description": "I’ve made this page to showcase this shader because i’m not able to do so in my previous work, so you can now have a wider look on this shader.\n\nChangelog\n-tagged supported operating system and MCPE versions\n-removed inappropriate textures\n-changed some files picture\n-updated to 1.15 (beta)",
+    "fileName": "EBShader152.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EBShader152.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EBShader152.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "EB Shader U11",
+    "description": "I’ve made this page to showcase this shader because i’m not able to do so in my previous work, so you can now have a wider look on this shader. This Shader is for Minecraft (Android / iOS).\nChangelog\nI had clarified which platforms it's compatible for, which is for android and in some iOS devices.",
+    "fileName": "EBShaderU11.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EBShaderU11.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EBShaderU11.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Eclipse",
+    "description": "Eclipse - Dark Mode UI. UI-only resource pack that makes all Minecraft menus dark. Works with any texture pack.",
+    "fileName": "1562743_eclipse_Eclipse.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1562743_eclipse.jpg",
+    "downloadUrl": "textures/1562743_eclipse_Eclipse.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Eclipse Deferred",
+    "description": "Eclipse Deferred It is a Deferred specialized in the visual and striking approach",
+    "fileName": "1290462_eclipse-deferred-mcpedl_✦ Eclipse Deferred Ultra V1.5 ✦.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1290462_eclipse-deferred-mcpedl.jpg",
+    "downloadUrl": "textures/1290462_eclipse-deferred-mcpedl_✦ Eclipse Deferred Ultra V1.5 ✦.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "Eclipse RTX",
+    "description": "Eclipse RTX is a high-quality Minecraft Bedrock shader featuring realistic lighting, vibrant colors, enhanced skies, beautiful water, atmospheric effects, and smooth performance. Designed to deliver stunning visuals while staying lightweight.",
+    "fileName": "1618264_eclipse-rtx_Eclipse RTX.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1618264_eclipse-rtx.jpg",
+    "downloadUrl": "textures/1618264_eclipse-rtx_Eclipse RTX.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ECLIPSED: Complementary Edition | Vibrant Visuals",
+    "description": "ECLIPSED: Dread Edition transforms Minecraft Bedrock Deferred Graphics into a terrifying survival horror experience. It plunges your world into eternal twilight with suffocating fog, pitch-black storms, blood-red skies, and blinding PBR lighting.",
+    "fileName": "1639098_eclipsed-complementary-edition_Eclipsed_Dread_Edition.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1639098_eclipsed-complementary-edition.jpg",
+    "downloadUrl": "textures/1639098_eclipsed-complementary-edition_Eclipsed_Dread_Edition.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Eeveelutions",
+    "description": "Change the wolves for eevee and all the eeveelutions!",
+    "fileName": "1472485_eeveelutions_eeveelutions_shiny.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1472485_eeveelutions.jpg",
+    "downloadUrl": "textures/1472485_eeveelutions_eeveelutions_shiny.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Effects Overlay",
+    "description": "A resource pack that overlays the effect display screen on top of HUD so you can see effects duration during gameplay.",
+    "fileName": "1580971_effects-overlay_Effects Overlay V-1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1580971_effects-overlay.jpg",
+    "downloadUrl": "textures/1580971_effects-overlay_Effects Overlay V-1.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Ego 16x",
+    "description": "Best pvp pack 2026!!",
+    "fileName": "1560728_ego-16x_Ego_16x.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1560728_ego-16x.jpg",
+    "downloadUrl": "textures/1560728_ego-16x_Ego_16x.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Eight-Bit Texture Pack",
+    "description": "Turns your items and blocks 8-Bit!",
+    "fileName": "1527623_eight-bit-texture-pack-bedrock_8-Bit Resource Pack.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1527623_eight-bit-texture-pack-bedrock.jpg",
+    "downloadUrl": "textures/1527623_eight-bit-texture-pack-bedrock_8-Bit Resource Pack.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "Element material blocks",
+    "description": "Makes copper, iron, gold and diamond to element blocks from Minecraft Education edition. Also changes iron golems to look like they were made from element iron blocks",
+    "fileName": "1551367_element-material-blocks_Element material blocks 26.1+ v1.1 .mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1551367_element-material-blocks.jpg",
+    "downloadUrl": "textures/1551367_element-material-blocks_Element material blocks 26.1+ v1.1 .mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Elytra Wings Gragas",
+    "description": "Fly through the skies in style with 22 unique custom Elytra wing skins and models inspired by everyone's favorite League of Legends champion, Gragas!",
+    "fileName": "1617557_elytra-wings-gragas_Elytra Wings Gragas.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1617557_elytra-wings-gragas.jpg",
+    "downloadUrl": "textures/1617557_elytra-wings-gragas_Elytra Wings Gragas.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Elytra+ Fx",
+    "description": "Elytra + FX is a high-quality Minecraft resource pack that adds multiple glowing Elytra styles using a subpack system, featuring Allay, Vex, Phantom, and Dragon inspired Elytra with cinematic FX.",
+    "fileName": "1451340_elytra-fx_Elytra + Fx V_1.1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1451340_elytra-fx.jpg",
+    "downloadUrl": "textures/1451340_elytra-fx_Elytra + Fx V_1.1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Embeddium Optimizer | Smart Fps Boost",
+    "description": "Embeddium is a next-generation rendering optimization pack for Minecraft Bedrock / Render Dragon, engineered to dramatically boost FPS and eliminate stutter on any device.",
+    "fileName": "1594206_embeddium-optimizer_Embeddium Optimizer(Smart Fps Boost) v1.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1594206_embeddium-optimizer.jpg",
+    "downloadUrl": "textures/1594206_embeddium-optimizer_Embeddium Optimizer(Smart Fps Boost) v1.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Emerald to a Minecoin",
+    "description": "Change the texture of the emerald to a minecoin.",
+    "fileName": "1390296_emerald-to-a-minecoin_ETAM.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1390296_emerald-to-a-minecoin.jpg",
+    "downloadUrl": "textures/1390296_emerald-to-a-minecoin_ETAM.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Emerald UI",
+    "description": "Emerald UI gives Minecraft a complete green-themed makeover — main menu, inventory, crafting, furnace, and trading screens reskinned. Restart after activating. UI-only, zero gameplay impact.",
+    "fileName": "1581833_emerald-ui_Emerald UI.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1581833_emerald-ui.jpg",
+    "downloadUrl": "textures/1581833_emerald-ui_Emerald UI.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "EMERALD VIBRANT (KS)",
+    "description": "EMERALD VIBRANT makes your world feel warmer, pop magical and more beautiful, like a sunrise or sunset.",
+    "fileName": "1462884_emerald-vibrant-ks_emerald vibrant 0.6.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1462884_emerald-vibrant-ks.jpg",
+    "downloadUrl": "textures/1462884_emerald-vibrant-ks_emerald vibrant 0.6.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Emeralds to Rubies",
+    "description": "Makes emeralds to rubies!",
+    "fileName": "1546816_emeralds-to-rubies_Emeralds to Rubies_v1.0.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1546816_emeralds-to-rubies.jpg",
+    "downloadUrl": "textures/1546816_emeralds-to-rubies_Emeralds to Rubies_v1.0.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Emissive Entity",
+    "description": "Glow entity Texture packs.",
+    "fileName": "1578443_emissive-entity_Emissive-Entity v0.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1578443_emissive-entity.jpg",
+    "downloadUrl": "textures/1578443_emissive-entity_Emissive-Entity v0.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Emma 4d Skin",
+    "description": "4d Emma Skin Texturepack with Blinking Animation + Variants",
+    "fileName": "1568407_emma-4d-skin_Emma.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1568407_emma-4d-skin.jpg",
+    "downloadUrl": "textures/1568407_emma-4d-skin_Emma.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Emoji Totem",
+    "description": "A texture pack changing Minecraft default totems to different emojis!",
+    "fileName": "1568742_emoji-totem_Emotions_Emoji_Totems.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1568742_emoji-totem.jpg",
+    "downloadUrl": "textures/1568742_emoji-totem_Emotions_Emoji_Totems.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "Emojis! Resource Pack",
+    "description": "A lightweight resource pack for Minecraft Bedrock that adds emoji support, without disabling achievements. Compatible with servers and Realms.",
+    "fileName": "1284738_emojis-resource-pack_Emojis! V-3.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1284738_emojis-resource-pack.jpg",
+    "downloadUrl": "textures/1284738_emojis-resource-pack_Emojis! V-3.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchant Hider hud",
+    "description": "This resource pack hides enchantment details from item tooltips, showing only the item name when enchanted. Ideal for clean UI lovers or minimalist gameplay style.",
+    "fileName": "1417320_enchant-hider-hud_Enchant Hider hud.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1417320_enchant-hider-hud.jpg",
+    "downloadUrl": "textures/1417320_enchant-hider-hud_Enchant Hider hud.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchant Icons",
+    "description": "Give your minecraft more details with this enchant icons!",
+    "fileName": "1334348_enchant-icons-for-bedrock_enchant-icon-for-bedrock-1.0.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1334348_enchant-icons-for-bedrock.jpg",
+    "downloadUrl": "textures/1334348_enchant-icons-for-bedrock_enchant-icon-for-bedrock-1.0.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ENCHANTED (VIBRANT VISUAL)",
+    "description": "This pack will make your world look more enchanted and balanced at the same time.",
+    "fileName": "1449078_enchanted-vibrant-visual_enchanted (vibrant visual) 1.5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1449078_enchanted-vibrant-visual.jpg",
+    "downloadUrl": "textures/1449078_enchanted-vibrant-visual_enchanted (vibrant visual) 1.5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchanted Glint Color Pack",
+    "description": "Now, the glow of the enchantments comes in different colors that will add a magical touch to your items.",
+    "fileName": "1636938_enchanted-glint-color-pack_Enchanted Glint Color Pack.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1636938_enchanted-glint-color-pack.jpg",
+    "downloadUrl": "textures/1636938_enchanted-glint-color-pack_Enchanted Glint Color Pack.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchantment Descriptions",
+    "description": "Adds clear descriptions to every enchantment in the game — see exactly what each enchantment does right on the item tooltip. No wiki needed. Zero gameplay changes. Achievement friendly.",
+    "fileName": "1604883_enchantment-descriptions_Enchantment_Descriptions.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1604883_enchantment-descriptions.jpg",
+    "downloadUrl": "textures/1604883_enchantment-descriptions_Enchantment_Descriptions.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchantment Glint Customizer",
+    "description": "Allows you to customize the enchantment glint color and adds the option for a smoother glint.",
+    "fileName": "1385196_enchantment-glint-customizer_EnchantmentGlintCustomizer.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1385196_enchantment-glint-customizer.jpg",
+    "downloadUrl": "textures/1385196_enchantment-glint-customizer_EnchantmentGlintCustomizer.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchantment Guide",
+    "description": "Enchantment Guide Pack shows the best enchantments for tools, weapons, and armor. Hover or click items in the guide to see recommended enchantments and their uses. Works in anvil and enchantment table for easy Minecraft gameplay.",
+    "fileName": "1356124_enchantment-guide_Enchantment_Guide.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1356124_enchantment-guide.jpg",
+    "downloadUrl": "textures/1356124_enchantment-guide_Enchantment_Guide.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchantment hider",
+    "description": "Hide long enchantment names and keep your screen clean with the Enchant Hider Pack for MCPE! Perfect for PvP, survival, and smooth gameplay with a simple and minimal look.",
+    "fileName": "1538025_enchantment-hider-baku_ENCHANT HIDER PACK.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1538025_enchantment-hider-baku.jpg",
+    "downloadUrl": "textures/1538025_enchantment-hider-baku_ENCHANT HIDER PACK.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchantment Icons",
+    "description": "Enchantment Icons adds unique colored pixel-art icons next to every enchantment name in your inventory tooltips",
+    "fileName": "1496894_enchantment-icons_Enchantment Icons v1.5.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1496894_enchantment-icons.jpg",
+    "downloadUrl": "textures/1496894_enchantment-icons_Enchantment Icons v1.5.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enchantment summary tooltips",
+    "description": "Displays a short summary of enchantment function in tooltips",
+    "fileName": "1574090_enchantment-summary-tooltips_enchantmentdesc.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1574090_enchantment-summary-tooltips.jpg",
+    "downloadUrl": "textures/1574090_enchantment-summary-tooltips_enchantmentdesc.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "EnchantmentToolTipHider",
+    "description": "Clean up your Minecraft HUD with this Tooltip Hider Texture Pack! Hide long enchantment tooltips and enjoy a smoother, distraction-free gameplay experience. Perfect for PvP, videos, screenshots, and clean UI lovers.",
+    "fileName": "1545775_enchantmenttooltiphider_No_More_Dots.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1545775_enchantmenttooltiphider.jpg",
+    "downloadUrl": "textures/1545775_enchantmenttooltiphider_No_More_Dots.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "End Visual Dimension",
+    "description": "End Visual Dimension makes your world feel more dynamic and immersive with a unique End Dimension style. This shader transforms the atmosphere with mysterious purple skies, glowing lighting, and dramatic visual effects inspired by the End.",
+    "fileName": "1481560_end-visual-dimension_End Visual Dimension 1.5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1481560_end-visual-dimension.jpg",
+    "downloadUrl": "textures/1481560_end-visual-dimension_End Visual Dimension 1.5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Ender Armor",
+    "description": "This pack makes netherite armor, tools and blocks look like they're from the end.",
+    "fileName": "1438166_ender-armor_ender_armor.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1438166_ender-armor.jpg",
+    "downloadUrl": "textures/1438166_ender-armor_ender_armor.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Ender Dragon Shader (ME)",
+    "description": "Ender Dragon Shader makes your world look more magical, saturated, beautiful, and very dynamic, like ender dragon it self..",
+    "fileName": "1470857_ender-dragon-shader-me_ender dragon shader 1.7.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1470857_ender-dragon-shader-me.jpg",
+    "downloadUrl": "textures/1470857_ender-dragon-shader-me_ender dragon shader 1.7.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ender dragon Ultra",
+    "description": "Welcome to Ender Dragon Ultra, a custom visual and atmospheric resource pack built to give the ultimate boss of Minecraft the legendary, terrifying, and majestic look it truly deserves!",
+    "fileName": "1616514_ender-dragon-ultra_Render dragon Ultra.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1616514_ender-dragon-ultra.jpg",
+    "downloadUrl": "textures/1616514_ender-dragon-ultra_Render dragon Ultra.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Ender Dragon Wings Elytra",
+    "description": "This pack changes the look of an Elytra to look like an Ender Dragon's wings.",
+    "fileName": "1367410_ender-dragon-wings-elytra_ender_dragon_wings_elytra.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1367410_ender-dragon-wings-elytra.jpg",
+    "downloadUrl": "textures/1367410_ender-dragon-wings-elytra_ender_dragon_wings_elytra.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Ender Horrorfic Shader",
+    "description": "Ender Horrorfic Shader gives an Enderman-like atmosphere, where a place feels as if it has been taken over by Endermen.",
+    "fileName": "1446327_ender-horrorfic-shader_Ender Horrorfic Shader 1.9.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1446327_ender-horrorfic-shader.jpg",
+    "downloadUrl": "textures/1446327_ender-horrorfic-shader_Ender Horrorfic Shader 1.9.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Energy Shaders V3.6.1",
+    "description": "You should jsut download it and try it our for yourself. It`s totally free!\nThe most noticeable differences are for the water, skies and lighting. The combined result is astonishing as it makes the world look a bit more realistic but primarily just a more beautiful world to experience.\nChangelog\n\ntorch-color reworked (Win10)\nnew clean glass for all colors\nupdated to 1.10",
+    "fileName": "EnergyShadersV361.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EnergyShadersV361.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EnergyShadersV361.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Energy Shaders V3.7.0",
+    "description": "With better lights, shadows, fog and much more. You should just download it and try it our for yourself. It`s totally free\nChangelog\nVersion 3.7.0:\nadded Support for Minecraft 1.14 (beta) on Android, IOS and Windows 10\nnew Tone-mapping",
+    "fileName": "EnergyShadersV370.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EnergyShadersV370.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EnergyShadersV370.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced 16x - PVP texturepack",
+    "description": "Enhanced 16x enhances the designs of items and blocks which are sufficient for PVP, and populer game modes such as bedwars , skywars , etc. There are two packs one for low ends and one for higher devices",
+    "fileName": "1499018_enhanced-16x_Enhanced 16x.v.3.0.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1499018_enhanced-16x.jpg",
+    "downloadUrl": "textures/1499018_enhanced-16x_Enhanced 16x.v.3.0.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced craft",
+    "description": "This mod make game more realistic",
+    "fileName": "1566921_enhanced-craft_ENHANCED CRAFT version 1.1 .mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1566921_enhanced-craft.jpg",
+    "downloadUrl": "textures/1566921_enhanced-craft_ENHANCED CRAFT version 1.1 .mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced Endermans",
+    "description": "With these endermans, minecraft will become fantastic!",
+    "fileName": "1376080_enhanced-endermans_enhanced_endermans-exp.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1376080_enhanced-endermans.jpg",
+    "downloadUrl": "textures/1376080_enhanced-endermans_enhanced_endermans-exp.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced Fog",
+    "description": "Enhanced Fog adds sunrays and cinematic fog to Minecraft Bedrock For Vibrant Visuals.",
+    "fileName": "1440835_enhanced-fog_Enhanced Fog v2.2.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1440835_enhanced-fog.jpg",
+    "downloadUrl": "textures/1440835_enhanced-fog_Enhanced Fog v2.2.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced Frogs",
+    "description": "Make the frogs look better",
+    "fileName": "1467939_enhanced-frogs_enhanced_frogs.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1467939_enhanced-frogs.jpg",
+    "downloadUrl": "textures/1467939_enhanced-frogs_enhanced_frogs.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced FX",
+    "description": "Adds many minor visual enhancements, name tag easter eggs, and quality of life changes.",
+    "fileName": "1364381_enhanced-fx_EnhancedFX.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1364381_enhanced-fx.jpg",
+    "downloadUrl": "textures/1364381_enhanced-fx_EnhancedFX.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced Grass",
+    "description": "Enhanced Grass brings a fresh visual upgrade to Minecraft by improving grass colors with balanced saturation and smooth shading, all while staying true to the vanilla aesthetic. The world feels greener, cleaner.",
+    "fileName": "1406384_enhanced-grass_Enhanced_grass.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1406384_enhanced-grass.jpg",
+    "downloadUrl": "textures/1406384_enhanced-grass_Enhanced_grass.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced Point Lights Color REMASTERED",
+    "description": "Make Your Game Full Immersive Point Lights Color With This Pack",
+    "fileName": "1530663_enhanced-point-lights-color-remastered_Enhanced Point Lights Color REMASTERED By VexaMC.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1530663_enhanced-point-lights-color-remastered.jpg",
+    "downloadUrl": "textures/1530663_enhanced-point-lights-color-remastered_Enhanced Point Lights Color REMASTERED By VexaMC.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced Potion Bottles",
+    "description": "Enhanced Potion Bottles",
+    "fileName": "1348609_enhanced-potion-bottles_Enhanced_Potion_Bottles.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1348609_enhanced-potion-bottles.jpg",
+    "downloadUrl": "textures/1348609_enhanced-potion-bottles_Enhanced_Potion_Bottles.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced Spears v3",
+    "description": "Add more variety spear texture - 2D to 3D - [now support Action & Stuff]",
+    "fileName": "1368658_enhanced-spears_enhanced-spear-v3.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1368658_enhanced-spears.jpg",
+    "downloadUrl": "textures/1368658_enhanced-spears_enhanced-spear-v3.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Enhanced Vibrant Visuals | Official",
+    "description": "Enhances the default Vibrant Visuals with richer atmospherics, volumetric fog, PBR textures, lighting, and particles.",
+    "fileName": "1469501_enhanced-vibrant-visuals-official_Enhanced Vibrant Visuals v1.8.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1469501_enhanced-vibrant-visuals-official.jpg",
+    "downloadUrl": "textures/1469501_enhanced-vibrant-visuals-official_Enhanced Vibrant Visuals v1.8.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "EnhancedEndPortal",
+    "description": "Enhanced the visual on the End Portal",
+    "fileName": "1612735_enhancedendportal_EnhancedEndPortalV1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1612735_enhancedendportal.jpg",
+    "downloadUrl": "textures/1612735_enhancedendportal_EnhancedEndPortalV1.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Equinox RD Official",
+    "description": "Equinox RD is a balanced shader for Minecraft Bedrock Edition designed to enhance the game's visuals while maintaining smooth performance on a wide range of devices.",
+    "fileName": "1613698_equinox-rd-official_Equinox RD v2.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1613698_equinox-rd-official.jpg",
+    "downloadUrl": "textures/1613698_equinox-rd-official_Equinox RD v2.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Erika Itsumi Totem",
+    "description": "Replaces the Totem of Undying with an Anime Erika Itsumi Totem",
+    "fileName": "1487853_erika-itsumi-totem_Erika_Itsumi_Totem_1_0_2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1487853_erika-itsumi-totem.jpg",
+    "downloadUrl": "textures/1487853_erika-itsumi-totem_Erika_Itsumi_Totem_1_0_2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Error Screen Hud Fix",
+    "description": "A gui resource pack that aims to fix the missing texture error on the hud for old pvp texture packs.",
+    "fileName": "1549031_error-screen-hud-fix_ErrorScreenHudFix.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1549031_error-screen-hud-fix.jpg",
+    "downloadUrl": "textures/1549031_error-screen-hud-fix_ErrorScreenHudFix.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ESBE 2G Shader",
+    "description": "You don’t have to preparation powerful device (iPhone 5s is enough to).\nEnjoy your beautiful world!\n\nFeatures\nLightweight depiction\nTone map using NTSC weighted average method\nwaving leaves & water reflection depiction\nSparkling stars, Enhanced dusk\nBeautiful clouds & aurora\nBrightness varies depending on the direction\nCompatible with both Mobile and PC(Win10)\nNo useless code",
+    "fileName": "ESBE2GShader.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESBE2GShader.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESBE2GShader.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "ESBE 2G Shader 3.0",
+    "description": "You don’t have to preparation powerful device (iPhone 5s is enough to).\nEnjoy your beautiful world!\nChangelog\nv3.0\nremade water. now the water is affected by sky color.\nAdjusted day and sunset color.",
+    "fileName": "ESBE2GShader30.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESBE2GShader30.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESBE2GShader30.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "ESBE 2G Shader 42",
+    "description": "You don’t have to preparation powerful device (iPhone 5s is enough to).\n\nEnjoy your beautiful world!\nv4.2\nsome bug fixes\n\nSun & moon are no longer shown in the rain\nRemaded the moon\nReduced lag\nprepared for future updates\n\nThanks to ASOwnerYT for proofreading English :)",
+    "fileName": "ESBE2GShader42.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESBE2GShader42.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESBE2GShader42.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "ESBE 2G Shader V3.2",
+    "description": "You don’t have to preparation powerful device\n\nv3.2 \nbug fixes\n\nwaves are no more chase you\nunder water view is no more disturbed\nimproved performance of leaves\nmade water waves correct\nsome improvements of flat shading\nworks on some devices that has not been worked…may be…",
+    "fileName": "ESBE2GShaderV32.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESBE2GShaderV32.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESBE2GShaderV32.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "ESBE 2G Shader V4",
+    "description": "You don’t have to preparation powerful device (iPhone 5s is enough to).\nEnjoy your beautiful world!\n\nChangelog\nv4.0\nRemade water!\nCloud reflection improvement\nUnderwater ripples improvement\nNow cloud magnification is more natural\nReduce file size",
+    "fileName": "ESBE2GShaderV4.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESBE2GShaderV4.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESBE2GShaderV4.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "ESBE 2G v4.1",
+    "description": "You don’t have to preparation powerful device (iPhone 5s is enough to).\nEnjoy your beautiful world!\n\nChangelog\nNew sun&moon, Bug fixes\nsnow biome leaves will /time set noon longer be detected as water\n(more compatibility with other resource packs\ncode rendered sun&moon\n(you can switch to texture render in pack setting\nnow leaves waves does not depend on the field of view\nno more cursed leaves in structure block\nimage of description ui is now correct\nadjusted water of nether, the_end & swamp\nclean up some codes",
+    "fileName": "ESBE2Gv41.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESBE2Gv41.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESBE2Gv41.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Esdeath Totem",
+    "description": "Replaces the Totem of Undying with an Anime Esdeath Totem",
+    "fileName": "1498737_esdeath-totem_Esdeath_Totem_1_0_2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1498737_esdeath-totem.jpg",
+    "downloadUrl": "textures/1498737_esdeath-totem_Esdeath_Totem_1_0_2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ESP For 1.21+",
+    "description": "ESP HACK for MCPE v26+ 🔥",
+    "fileName": "1568534_esp-hack_ESP v26+.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1568534_esp-hack.jpg",
+    "downloadUrl": "textures/1568534_esp-hack_ESP v26+.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Essential for pvp",
+    "description": "Essential texture pack 1.21.130+ to fix minecraft and make it more clear",
+    "fileName": "1438726_essential_Essential pack 1.21.130+.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1438726_essential.jpg",
+    "downloadUrl": "textures/1438726_essential_Essential pack 1.21.130+.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Estatuas de Yutubers",
+    "description": "Spanish YouTubers Statues replaces Armor Stands with statues of popular Spanish-speaking Minecraft YouTubers. Decorate your world, server, or Realm with your favorite creators using this simple texture pack.",
+    "fileName": "1604324_estatuas-de-yutubers_Estatuas_de_Youtubers_By_RG42X.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1604324_estatuas-de-yutubers.jpg",
+    "downloadUrl": "textures/1604324_estatuas-de-yutubers_Estatuas_de_Youtubers_By_RG42X.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "ESTN Shaders 0.9.5b",
+    "description": "So I decided to try to replicate it somehow through textures and shaders, but soon it came to its own style. But of course I still want to continue trying to replicate the pack, currently, I don’t have enough time to try to replicate the textures, but you can help replicate the pack by joining me on Discord. The more people contributing this pack, the faster it’ll be finished.\n\nChangelog\n-Updated description\n-Added a new download link (in case the other fails)",
+    "fileName": "ESTNShaders095b.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESTNShaders095b.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESTNShaders095b.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "ESTN Shaders 1.0.2b",
+    "description": "So I decided to try to replicate it somehow through textures and shaders, but soon it came to its own style.\n\nChangelog\n-Fixed manifest error\n-Tone adjustments\n-Optimization adjustments\n-Fixed weird panorama",
+    "fileName": "ESTNShaders102b.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESTNShaders102b.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESTNShaders102b.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "ESTN Shaders Beta1.3.0",
+    "description": "It's a shader pack made to change your gameplay looks, like the tone of the blocks, the new sky render, water render and much more\n\nChangelog\n-Fixed the description typos the second time.....\n\n-Added a new link with their description (the main link gives more money, please use it for support \\(._.)/",
+    "fileName": "ESTNShadersBeta130.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ESTNShadersBeta130.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ESTNShadersBeta130.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "et's feed texture",
+    "description": "a simple texture pack to improve my skils",
+    "fileName": "1377668_ets-feed-texture_blue-tnt-v1-tynker-bbb761d1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1377668_ets-feed-texture.jpg",
+    "downloadUrl": "textures/1377668_ets-feed-texture_blue-tnt-v1-tynker-bbb761d1.mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "Eternity Shader for RenderDragon",
+    "description": "Hey there guys this shader is created by Wind's Scion a Shader developer for Minecraft Bedrock Edition and this is their update of eternity shader to provide you immersive experience in your game by providing realism at day and fantasy environment at ni...",
+    "fileName": "1311080_eternity-shader-for-renderdragon_Eternity Shader V1.3 Android [BETA][MB Loader or PATCH REQUIRED].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1311080_eternity-shader-for-renderdragon.jpg",
+    "downloadUrl": "textures/1311080_eternity-shader-for-renderdragon_Eternity Shader V1.3 Android [BETA][MB Loader or PATCH REQUIRED].mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Ethereal Mystic Lite Shader",
+    "description": "Ethereal Mystic Shader adds mystical lighting, atmospheric fog, vibrant colors, and cinematic skies to Minecraft Bedrock",
+    "fileName": "1479230_ethereal-mystic-shader_Ethereal Mystic Shader v1.6.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1479230_ethereal-mystic-shader.jpg",
+    "downloadUrl": "textures/1479230_ethereal-mystic-shader_Ethereal Mystic Shader v1.6.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Ethereal Shaders",
+    "description": "A Simple Vibrant Visuals Shader For Minecraft bedrock edition",
+    "fileName": "1572608_ethereal-shaders_Ethereal Shaders.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1572608_ethereal-shaders.jpg",
+    "downloadUrl": "textures/1572608_ethereal-shaders_Ethereal Shaders.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Etherveil [Shader]",
+    "description": "A performance-zero-cost Bedrock shader pack that transforms Minecraft's atmosphere with biome-tailored fog colors and distances, bringing cinematic visuals to low-end devices.",
+    "fileName": "1599583_etherveil-shader_Etherveil_Shader.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1599583_etherveil-shader.jpg",
+    "downloadUrl": "textures/1599583_etherveil-shader_Etherveil_Shader.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Eunoia Shader",
+    "description": "Eunoia Shader transforms your world’s visuals with a high-end dynamic atmosphere, realistic fog, crystal-clear mineral water, enhanced glow and shadows, and rich dynamic color grading, providing a beautiful visual experience.",
+    "fileName": "1478809_eunoia-shader_eunoia shader 1.5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1478809_eunoia-shader.jpg",
+    "downloadUrl": "textures/1478809_eunoia-shader_eunoia shader 1.5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Everbloom",
+    "description": "The Everbloom Texture Pack reimagines your world as a vibrant, natural wonderland. Featuring enhanced color palettes and seamless block transitions, it delivers a cohesive and visually stunning experience.",
+    "fileName": "1534966_everbloom-38_Everbloom Textures Pack (V0.05).mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "textures/1534966_everbloom-38.jpg",
+    "downloadUrl": "textures/1534966_everbloom-38_Everbloom Textures Pack (V0.05).mcaddon"
+  },
+  {
+    "category": "textures",
+    "title": "Evernight Dancing on Your HUD",
+    "description": "Do you, for some reason, want Evernight and other anime girls dancing on your HUD? Here it is!",
+    "fileName": "1375469_evernight-meme-hud_WhatAmIDoingWithMyLife.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1375469_evernight-meme-hud.jpg",
+    "downloadUrl": "textures/1375469_evernight-meme-hud_WhatAmIDoingWithMyLife.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Everything C418 (Music Pack)",
+    "description": "This music pack aims to bring back the classic feel of Minecraft!",
+    "fileName": "1622071_everything-c418-music-pack_Everything C418 Music Pack.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1622071_everything-c418-music-pack.jpg",
+    "downloadUrl": "textures/1622071_everything-c418-music-pack_Everything C418 Music Pack.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Everything Upside Down",
+    "description": "This is a question you probably won’t ask if you understand what this pack is about, almost 100 items have been flipped upside down.",
+    "fileName": "EverythingUpsideDown.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EverythingUpsideDown.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EverythingUpsideDown.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "EVO Shader Mod 12 Android",
+    "description": "it’s had many improvements in graphic and beautifulness like directional lighting from sun,semi-3D Cloud without lag and many more,\nChangelog\n1.Add realistic \"static\" lighting\n2.Add realistic Fog on distance\n3.Add realistic torch light color\n4.Add \"Filmic-Tonemap\" for realistic looking\n5.Add optimize color for the world\n6.Add heat fog on nether\n7.Add realistic condition on rain (fog,etc)\n8.Add realistic atmosphere sun and moon\n9.Add optimize semi-3D realistic smooth cloud\n10.Add natural blue color and smooth water on distance\n11.Add realistic in-room ambience\n12.Add adaptive torch-light near shadow\n13.Add smooh darkness on shadow\n14.Add realistic day,sunrise/sunset,night lighting\n15.Add adaptive brightness on outside when inside shadow\n16.As Always \" Find and search more :) \"",
+    "fileName": "EVOShaderMod12Android.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EVOShaderMod12Android.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EVOShaderMod12Android.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "EVO Shader Mod 12 iOS",
+    "description": "it’s had many improvements in graphic and beautifulness like directional lighting from sun,semi-3D Cloud without lag and many more,\nChangelog\n\n1.Add realistic \"static\" lighting\n2.Add realistic Fog on distance\n3.Add realistic torch light color\n4.Add \"Filmic-Tonemap\" for realistic looking\n5.Add optimize color for the world\n6.Add heat fog on nether\n7.Add realistic condition on rain (fog,etc)\n8.Add realistic atmosphere sun and moon\n9.Add optimize semi-3D realistic smooth cloud\n10.Add natural blue color and smooth water on distance\n11.Add realistic in-room ambience\n12.Add adaptive torch-light near shadow\n13.Add smooh darkness on shadow\n14.Add realistic day,sunrise/sunset,night lighting\n15.Add adaptive brightness on outside when inside shadow\n16.As Always \" Find and search more :) \"",
+    "fileName": "EVOShaderMod12iOS.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EVOShaderMod12iOS.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EVOShaderMod12iOS.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "EVO Shader Mod V1.2.1",
+    "description": "It’s had many improvements in graphic, also have directional lighting from sun,semi-3D Cloud without lag and many more\n\nChangelog\n1.Add realistic \"static\" lighting\n2.Add realistic Fog on distance\n3.Add realistic torch light color\n4.Add \"Filmic-Tonemap\" for realistic looking\n5.Add optimize color for the world\n6.Add heat fog on nether\n7.Add realistic condition on rain (fog,etc)\n8.Add realistic atmosphere sun and moon\n9.Add optimize semi-3D realistic smooth cloud\n10.Add natural blue color and smooth water on distance\n11.Add realistic in-room ambience\n12.Add adaptive torch-light near shadow\n13.Add smooh darkness on shadow\n14.Add realistic day,sunrise/sunset,night lighting\n15.Add adaptive brightness on outside when inside shadow\n16.As Always \" Find and search more :) \"",
+    "fileName": "EVOShaderModV121.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EVOShaderModV121.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EVOShaderModV121.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "EX: Mod Menu",
+    "description": "Add Simple Mod Menu to Minecraft Be/Pe",
+    "fileName": "1554490_ex-mod-menu_⋰M.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1554490_ex-mod-menu.jpg",
+    "downloadUrl": "textures/1554490_ex-mod-menu_⋰M.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "EX; Better Ui",
+    "description": "Adding some simple utilities to Minecraft Be/Pe",
+    "fileName": "1571093_ex-better-ui_⋰Better Ui-1.0.5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1571093_ex-better-ui.jpg",
+    "downloadUrl": "textures/1571093_ex-better-ui_⋰Better Ui-1.0.5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Exit Button UI",
+    "description": "Gives you a button to close the game and finally touch some grass!",
+    "fileName": "1623431_exit-button-ui_Close Button UI_v1.0.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1623431_exit-button-ui.jpg",
+    "downloadUrl": "textures/1623431_exit-button-ui_Close Button UI_v1.0.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Explorer Hotbar",
+    "description": "This pack retextures your hotbar as well as your health, hunger, armor, and heart icons.",
+    "fileName": "1481959_explorer-hotbar_explorer_hotbar.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1481959_explorer-hotbar.jpg",
+    "downloadUrl": "textures/1481959_explorer-hotbar_explorer_hotbar.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Extreme Shader | Shader",
+    "description": "Extreme Shader ,Experience ultra-realistic water, vibrant color grading, and cinematic lighting for a bold, lifelike world! enhanced sun and moon, and a truly immersive atmosphere with PBR textures",
+    "fileName": "1272636_vibrant-visuals-extreme_Vibrant Visuals Extreme v2.4.8.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1272636_vibrant-visuals-extreme.jpg",
+    "downloadUrl": "textures/1272636_vibrant-visuals-extreme_Vibrant Visuals Extreme v2.4.8.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Eye of the Fox (1.13 Texture Tweak)",
+    "description": "This texture is more akin to Minecraft Wolves than Pigs; I.E., more like the straight eyes of a predator animal than the derpy eyes of prey.",
+    "fileName": "EyeoftheFox113TextureTweak.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/EyeoftheFox113TextureTweak.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/EyeoftheFox113TextureTweak.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "ezRTX",
+    "description": "Vanilla-Style Vibrant Visuals and Ray Traced Resource Pack",
+    "fileName": "1158695_ezrtx_ezRTX.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1158695_ezrtx.jpg",
+    "downloadUrl": "textures/1158695_ezrtx_ezRTX.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "F.O.G Shader | v1.5.6 Vibrant Visual Update",
+    "description": "Are you looking for Foggy, Scarry Shader and stuff, well maybe this is for you. So, this Shader is aimed for Fog, it's not that fancy, it just looks more scary, un-vibrant, and un color and Scary.",
+    "fileName": "1392842_f-o-g-shader_F.O.G Shader v1.5.6 Vibrant Visual Update by HyperF3GamerINDO.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1392842_f-o-g-shader.jpg",
+    "downloadUrl": "textures/1392842_f-o-g-shader_F.O.G Shader v1.5.6 Vibrant Visual Update by HyperF3GamerINDO.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "F1 & F3 BUTTON - Windows Update",
+    "description": "This pack adds F1 & F3 Button to Minecraft Bedrock / Pocket Edition. F3 shows a Java-like debug screen with coords, FPS, chunks, and more, while F1 hides the HUD for clean screenshots or cinematic play.",
+    "fileName": "1335655_f1-f3-button_F1_F3_Button_v1.1.3.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1335655_f1-f3-button.jpg",
+    "downloadUrl": "textures/1335655_f1-f3-button_F1_F3_Button_v1.1.3.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "F3 BUTTON",
+    "description": "Adds a Java Edition-style F3 debug screen to Minecraft Bedrock/Pocket Edition. See FPS, position, days played, inventory counter & status, dimension info, chunk data, XP level, and more.",
+    "fileName": "1335649_f3-button_Debug_Screen_v1.1.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1335649_f3-button.jpg",
+    "downloadUrl": "textures/1335649_f3-button_Debug_Screen_v1.1.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "F8thful",
+    "description": "The Vanilla 8x8 Resource Pack",
+    "fileName": "1349067_f8thfull_F8thful - 2.25.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1349067_f8thfull.jpg",
+    "downloadUrl": "textures/1349067_f8thfull_F8thful - 2.25.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fabric Light 1.1",
+    "description": "With this shader, you can see twinkling stars, beautiful moon and sun, and water waves. Compatible with Android and IOS.\nChangelog\nThe shadow became darker\nThe brightness of the day increased\nNew sky has been adopted",
+    "fileName": "FabricLight11.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FabricLight11.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FabricLight11.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Fabric Light PE Shaders 1.2.3",
+    "description": "With this shader, you can see twinkling stars, beautiful moon and sun, and water waves. Compatible with Android and IOS.\nChangelog\nFixed an issue where shaders could not be downloaded from links",
+    "fileName": "FabricLightPEShaders123.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FabricLightPEShaders123.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FabricLightPEShaders123.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "FAHHH Mace Sounds Replacer",
+    "description": "Replaces the default mace sound with the viral “FAHHH” meme sound effect. Adds a funny and chaotic twist to your Minecraft Bedrock gameplay without changing mechanics. Works in Survival and Multiplayer.",
+    "fileName": "1461429_fahhh-mace-sounds-replacer_FAHHH Mace Sounds Replacer v1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1461429_fahhh-mace-sounds-replacer.jpg",
+    "downloadUrl": "textures/1461429_fahhh-mace-sounds-replacer_FAHHH Mace Sounds Replacer v1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fairyland PvP Pack ✨🧚",
+    "description": "Fairyland PvP Pack brings a magical pink & purple PvP experience to Minecraft Bedrock with custom swords, armor, GUI, particles, and unique fantasy-inspired textures.",
+    "fileName": "1611641_fairyland-pvp-pack_Fairyland-TG @MCAdd3719.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1611641_fairyland-pvp-pack.jpg",
+    "downloadUrl": "textures/1611641_fairyland-pvp-pack_Fairyland-TG @MCAdd3719.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Faithful Bedrock Edition – Unified Pack v3.6",
+    "description": "Unified Faithful resource pack for Minecraft Bedrock Edition.",
+    "fileName": "1425701_faithful-bedrock-edition-unified-pack-v3-6_Faithful Official_v3-6.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1425701_faithful-bedrock-edition-unified-pack-v3-6.jpg",
+    "downloadUrl": "textures/1425701_faithful-bedrock-edition-unified-pack-v3-6_Faithful Official_v3-6.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Faithful Nature",
+    "description": "Faithful Nature focused entirely on improving how the natural world looks in Minecraft Bedrock.",
+    "fileName": "1526424_faithful-nature_Faithful Nature v1.4.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1526424_faithful-nature.jpg",
+    "downloadUrl": "textures/1526424_faithful-nature_Faithful Nature v1.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fake Hardcore Heart",
+    "description": "This texture pack replaces the normal heart with the hardcore.",
+    "fileName": "1250247_fake-hardcore-heart_Fake Hardcore Heart.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1250247_fake-hardcore-heart.jpg",
+    "downloadUrl": "textures/1250247_fake-hardcore-heart_Fake Hardcore Heart.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fake Hardcore Hearts",
+    "description": "Hardcore Hearts Texture Pack (Bedrock Edition)",
+    "fileName": "1501243_hardcore-hearts-fake_Hardcore Hearts V5.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1501243_hardcore-hearts-fake.jpg",
+    "downloadUrl": "textures/1501243_hardcore-hearts-fake_Hardcore Hearts V5.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fake Hardcore Hearts (mcpe/mcbe)",
+    "description": "Changes the regular survival hearts to look like hardcore hearts.",
+    "fileName": "1553087_fake-hardcore-heart-texture-pack_Fake Hardcore Heart v1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1553087_fake-hardcore-heart-texture-pack.jpg",
+    "downloadUrl": "textures/1553087_fake-hardcore-heart-texture-pack_Fake Hardcore Heart v1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fake Hardcore Hearts v1",
+    "description": "Fake hardcore hearts!",
+    "fileName": "1613886_fake-heart-hardcore_FakeHardcore.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1613886_fake-heart-hardcore.jpg",
+    "downloadUrl": "textures/1613886_fake-heart-hardcore_FakeHardcore.mcpack"
+  },
+  {
+    "category": "textures",
     "title": "Fake obsidian Tnt",
     "description": "Fake Obsidian TNT is a Minecraft Bedrock resource pack that visually replaces the TNT block with an obsidian-styled texture. This pack only changes the appearance of TNT and does not affect gameplay or mechanics.",
     "fileName": "1446072_fake-obsidian-tnt_Fake Obsidian TNT V_1.0.1.mcpack",
@@ -169,6 +1141,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1594472_feel-the-totem.jpg",
     "downloadUrl": "textures/1594472_feel-the-totem_Feel_The_Totem_Totem.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Feluxis HD Realistic Pack B6",
+    "description": "This texture pack changes everything! An impressive realism updated for MCBE version 1.16, a texture that will leave you speechless. Enjoy!\n\nChangelog\n-NEW BLOCKS\n-MORE UPDATE\n-NEW MOBS\n-FIX FAULTS\n-IMPROVEMENT IN RESOLUTION\n- THE SKIES CHANGE FROM NIGHT TO DAY\n-Growth problem",
+    "fileName": "FeluxisHDRealisticPackB6.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FeluxisHDRealisticPackB6.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FeluxisHDRealisticPackB6.mctexture"
   },
   {
     "category": "textures",
@@ -343,6 +1324,15 @@
   },
   {
     "category": "textures",
+    "title": "Fixed Vanilla Un1",
+    "description": "Every fix included in this pack will be in the description to make it easier to keep track of what’s changed.\n\nChangelog\nv1.5.0 - The Carried Update!\nThis update brings fixes for a few things I'm sure EVERYONE has been waiting for and a bunch of things no one else must've noticed or cared...\n\nGeneral Fixes:\nChanged the way that the pack changes the quartz blocks (doesn't change anything visually, it's just for consistency);\nFixed hand bobbing animation [MCPE-54072];\nTweaked hand position [MCPE-47877];\nBee Nests and Beehives now correctly play wood sounds when placed [MCPE-53577];\nDried Kelp Blocks' bottom texture now matches the other sides [MCPE-35476];\nLowered the amount of mipmap levels (which makes the game look better);\nFixed Cactus side texture disappearing when being viewed at shallow angles [MCPE-58764];\nFixed Wolf tail being disconnected from the body when sitting [MCPE-31121];\nFixed Bee Spawn Egg texture when being moved in the inventory [MCPE-53542];\nVarious fixes related to the command completion screen:\nFixed 'lit_blast_furnace', 'lit_furnace' and 'lit_smoker' icons [MCPE-48042];\nFixed 'lava_cauldron' icon;\nFixed all 'standing_sign' and 'wall_sign' variants;\nFixed 'tripwire' icon;\nFixed 'powered_repeater' and 'unpowered_repeater' icons;\nFixed 'powered_comparator' and 'unpowered_repeater' icons;\nFixed 'potatoes' and 'carrots' icons;\nFixed 'bamboo_sapling' icon;\nThe carried Grass Block top texture now matches the sides;\nFixed Sandstone and Red Sandstone walls;\nFixed the Cake texture being incorrect in certain states [MCPE-14757].\nFixes for the Classic Resource Pack:\nThe Honey Bottle texture now matches the other bottles.",
+    "fileName": "FixedVanillaUn1.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FixedVanillaUn1.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FixedVanillaUn1.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Flags Emoji",
     "description": "This texture pack adds emoji of each country or region's flag and makes these emoji available for typing.",
     "fileName": "1256950_flags-emoji_flags_emoji_v1.2.0.mcpack",
@@ -406,12 +1396,30 @@
   },
   {
     "category": "textures",
+    "title": "Floral Crops",
+    "description": "This pack changes peonies to maize (corn), azure bluets to leeks, white tulips to lettuce, red tulips to tomatoes, and allium to red onion.",
+    "fileName": "FloralCrops.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FloralCrops.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FloralCrops.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Flow Trails",
     "description": "Gives projectiles a wave trail",
     "fileName": "1570093_flow-trails_Flow Trails V26.6.12.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1570093_flow-trails.jpg",
     "downloadUrl": "textures/1570093_flow-trails_Flow Trails V26.6.12.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Flowering Season",
+    "description": "Do you like to see these beautiful colors around you? If you are, let me introduce you the Flowering Season Texture Pack. \nThis pack will change the way you look at Minecrat by changing the color of many textures in the game into a purple and pinkcolor. Also this pack will add many new textures to the game and replace other.",
+    "fileName": "FloweringSeason.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FloweringSeason.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FloweringSeason.mctexture"
   },
   {
     "category": "textures",
@@ -448,6 +1456,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1551070_focuspvp-better-swords-short-fire-tools.jpg",
     "downloadUrl": "textures/1551070_focuspvp-better-swords-short-fire-tools_Cozy_PvP_by_Ash_Blast_and_Kush.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fog Remover",
+    "description": "Something similar is used in Optifine in Java Edition. Thus, it slightly increases your FPS.\nThe shader will allow you to see all the chunks you load without fog.",
+    "fileName": "FogRemover.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FogRemover.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FogRemover.mctexture"
   },
   {
     "category": "textures",
@@ -529,6 +1546,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1573828_force-spectator-support-ore-ui.jpg",
     "downloadUrl": "textures/1573828_force-spectator-support-ore-ui_Force Spectator Ore Ui3.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fortnite GUI RP",
+    "description": "The pack reshapes existing Minecraft Bedrock vanilla graphics user interface to Fortnite styled GUI. Fortnite is still one of the most played games these times.",
+    "fileName": "FortniteGUIRP.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FortniteGUIRP.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FortniteGUIRP.mctexture"
   },
   {
     "category": "textures",
@@ -937,12 +1963,39 @@
   },
   {
     "category": "textures",
+    "title": "Fullver Pack V21",
+    "description": "This texture does not change all blocks, items and etc. Simple blocks like Grass, Stone have not changed either.\n\nChangelog\nVersion 2.1!\n\nCorrected blocks with wrong textures\nSome Items have been added 3D versions\nVersions 1.13 & 1.14 are now supported",
+    "fileName": "FullverPackV21.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FullverPackV21.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FullverPackV21.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Funny Death Messages",
+    "description": "Despite YouTube reviews that I got, I had issues while developing add ons like this, and I eventually stopped, but now I am back with a renewed interest in the game, for starters feast your eyes upon the new death screen\nI won’t reveal anything else because I feel that I made that mistake last time, go look at the pack for yourself\n\nChangelog\nUpdated pack icon\nfixed download link\nupdated minor death messages",
+    "fileName": "FunnyDeathMessages.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FunnyDeathMessages.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FunnyDeathMessages.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "FurinaAnimatedBackground",
     "description": "Furina",
     "fileName": "1607123_furinaanimatedbackground_FurinaMenuV1_1_1_FIXED.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1607123_furinaanimatedbackground.jpg",
     "downloadUrl": "textures/1607123_furinaanimatedbackground_FurinaMenuV1_1_1_FIXED.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Fuse Realism 1.1.7",
+    "description": "I decided to create a resource pack with high resolution textures (100+ textures). All textures are in 256×256 resolution.\n\nChangelog\n-Added Magma, Tons of Items Including All The Tools And Weapons, Food And Much More!\n-Fixed A Ton Of The Textures Like Mossy Textures, Dirt, Grass, Andesite, Diorite, Granite, And The Gold And Iron Blocks!\n-Add Magma, Wet Sponge, All The Flowers, Polished Diorite, Andesite, Granite, And Ender Pearl.",
+    "fileName": "FuseRealism117.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FuseRealism117.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FuseRealism117.mctexture"
   },
   {
     "category": "textures",
@@ -982,6 +2035,33 @@
   },
   {
     "category": "textures",
+    "title": "FuseRealism Pack U",
+    "description": "I decided to create a resource pack with high resolution textures (100+ textures). All textures are in 512×512 resolution.\n\nChangelog\n\n-Changed Feature Picture\n-Added Fern, Grass\n-All Wools\n-All Ores",
+    "fileName": "FuseRealismPackU.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FuseRealismPackU.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FuseRealismPackU.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "FuseRealism V1.1.4",
+    "description": "I decided to create a resource pack with high resolution textures (100+ textures). All textures are in 512×512 resolution.\n\nChangelog\n-Added Colored Concrete Powders\n-Changed Glass Textures\n-Add Sand [i Accidentally Deleted The Sand Texture In The Past]\n-Heavily Reduced File Size 300MB --> 40MB",
+    "fileName": "FuseRealismV114.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FuseRealismV114.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FuseRealismV114.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Fuserealism V1.1.5",
+    "description": "I decided to create a resource pack with high resolution textures (100+ textures). All textures are in 512×512 resolution.\n\nChangelog\n-Added Brick, Cobblestone, Sandstone, Ice, Grass Block Side, Grass Block, Gold Block & Much More.\n-Fixed Horrible Looking Textures Like Leaves And The Logs.",
+    "fileName": "FuserealismV115.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/FuserealismV115.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/FuserealismV115.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "G-Flow Visuals",
     "description": "Lightweight Vibrant Visuals shader with cinematic god rays, real water & lava, dynamic shadows across Overworld, Nether & End.",
     "fileName": "1603622_g-flow-visuals_G-Flow Visuals 3.5.0.mcpack",
@@ -1006,6 +2086,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1347397_gabriel-wither.jpg",
     "downloadUrl": "textures/1347397_gabriel-wither_gabriel_wither_ultrakill.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Galaxy Paintings",
+    "description": "The paintings look very epic, especially at night somewhere above the ground. Also, the pictures have a resolution of up to 128 pixels per block.",
+    "fileName": "GalaxyPaintings.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/GalaxyPaintings.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/GalaxyPaintings.mctexture"
   },
   {
     "category": "textures",
@@ -1433,20 +2522,20 @@
   {
     "category": "textures",
     "title": "Glowing Ores",
-    "description": "Glowing Ores is a Minecraft texture pack that makes all ore blocks emit a glow effect. This resource pack enhances visibility of ores while mining, making them easier to spot in caves and environments without changing the core gameplay experience.",
-    "fileName": "1497292_glowing-ores-texture-pack_Glowing Ores.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1497292_glowing-ores-texture-pack.jpg",
-    "downloadUrl": "textures/1497292_glowing-ores-texture-pack_Glowing Ores.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Glowing Ores",
     "description": "Glowing Ores is a texture pack that makes all ores emit a gentle glow, making them easier to find while mining. It enhances visibility in caves while keeping the original Minecraft style.",
     "fileName": "1384052_glowing-ores-voxen-2_Glowing-Ores-v1.2.4.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1384052_glowing-ores-voxen-2.jpg",
     "downloadUrl": "textures/1384052_glowing-ores-voxen-2_Glowing-Ores-v1.2.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Glowing Ores",
+    "description": "Glowing Ores is a Minecraft texture pack that makes all ore blocks emit a glow effect. This resource pack enhances visibility of ores while mining, making them easier to spot in caves and environments without changing the core gameplay experience.",
+    "fileName": "1497292_glowing-ores-texture-pack_Glowing Ores.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "textures/1497292_glowing-ores-texture-pack.jpg",
+    "downloadUrl": "textures/1497292_glowing-ores-texture-pack_Glowing Ores.mcpack"
   },
   {
     "category": "textures",
@@ -1609,6 +2698,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1617695_glowy-ores.jpg",
     "downloadUrl": "textures/1617695_glowy-ores_Glowy_Ores.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "God Of War",
+    "description": "This resource pack has been done for a while, I just forgot to upload it. I will update it with more things from the game eventually.\nThe first thing this texture pack does is change all the names and textures of vanilla weapons to look like God Of War weapons, along with the shield.\nWeapons from left to right (If you can’t see them from the picture:\n\nBarbarian Hammer\nGod Of War (the sword)\nBlade of Olympus\nBlade of Judgement\nBlades of Chaos\nLeviathan Axe\nGuardian Shield\n\nPotential update features; \n\nMake bow look like Atreus’ bow\nMake some potions look like certain game items\nChange enchanted apple to iddun apple\nChange totem of undying to resurrection stone\nMore UI changes (If wanted)",
+    "fileName": "GodOfWar.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/GodOfWar.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/GodOfWar.mctexture"
   },
   {
     "category": "textures",
@@ -1792,6 +2890,15 @@
   },
   {
     "category": "textures",
+    "title": "Gordon Ramsays Kitchen Kit",
+    "description": "There’s no texture that you wouldn’t be able to recognize! It also makes a great pack for vanilla survival as well! ( beta is not supported for stability reasons )\n\nChangelog\n\n*redesigned stone\n*redesigned netherrack\n*tweaked dirt, grass side, mycelium, grass path, snow side, and podzol\n*redesigned all ores\n*redesigned andesite, granite, and diorite and their polished textures \n*Added items ( only a small handful of items are still being worked on but the majority are finished ) \n*removed entity 303",
+    "fileName": "GordonRamsaysKitchenKit.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/GordonRamsaysKitchenKit.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/GordonRamsaysKitchenKit.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Gorillas",
     "description": "Reject modernity, return to MONKE. Replace your pandas with a vanilla styled gorilla using this pack!",
     "fileName": "1432069_gorillas-panda-replacement_gorillas-v1.5.mcpack",
@@ -1819,12 +2926,30 @@
   },
   {
     "category": "textures",
+    "title": "Gradient Pack",
+    "description": "this texture pack is not finish yet but i upload it and see if you like it if you like it I’ll keep it up\n\nmade by GroundBeef\nThis texture pack have two Resolutions\nPure Gradient and With Texture",
+    "fileName": "GradientPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/GradientPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/GradientPack.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Grafika Shader",
     "description": "An anime-style shader pack.",
     "fileName": "1490704_grafika-shader_Grafika-v2.5.1-PRO.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1490704_grafika-shader.jpg",
     "downloadUrl": "textures/1490704_grafika-shader_Grafika-v2.5.1-PRO.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Grapeapplesauce PvP",
+    "description": "Ben helping out texture pack creators make various packs.\n\nThe Grapeapplesauce Pack features :\n-FPS Friendly (texture pack doesn’t affect FPS)\n-Clear Water\n-Low Fire\n-New Sword Handle Texture\n-Darker Iron Bars\n-Drier/De-Saturated old Cactus Texture\n-Tweaked Enchantment Table\n-New Enchanted Glint Texture (much more purple and less irritating)\n-Worn Pumpkins are Clearer\n–Purple Creepers!\n-Of course the Grapple, Golden Grapple, and Mythical Golden Grapple (a.k.a Apple, Golden Apple and Enchanted Golden Apple)\n–New Sky Texture\n-Tweaked some UI\n-New Sun & Moon Textures\n-New Breaking Block Animation\n-Tweaked Bows & Crossbows\n-Last but not the least… Bacon! (formerly known as a cooked porkchop)",
+    "fileName": "GrapeapplesaucePvP.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/GrapeapplesaucePvP.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/GrapeapplesaucePvP.mctexture"
   },
   {
     "category": "textures",
@@ -1990,6 +3115,15 @@
   },
   {
     "category": "textures",
+    "title": "Halloween Pack V1",
+    "description": "It adds autumn foliage, Halloween mobs, festive foods and many more textures.\nThis texture pack adds many textures, autumn leaves have been added, and vines are now cobwebs....",
+    "fileName": "HalloweenPackV1.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/HalloweenPackV1.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/HalloweenPackV1.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "HALLOWEEN PVP",
     "description": "This texture pack changes the textures of weapons, armor, and PVP utilities to Halloween style.",
     "fileName": "1370485_halloween-pvp_Halloween PvP Pack.mcpack",
@@ -2044,6 +3178,15 @@
   },
   {
     "category": "textures",
+    "title": "Hardcore Hearts",
+    "description": "In Hardcore Hearts there are smaller changes to the heart and armor icons.\nChangelog\nFixed the Downloads, because the Vanilla Hardcore Hearts pack replaced the enhanced version.",
+    "fileName": "HardcoreHearts.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/HardcoreHearts.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/HardcoreHearts.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Harmony Voxel shader for RenderDragon",
     "description": "So hey guys! I'm going Today I'm going to share a new Shader which supports IOS, Android and Windows 10 edition too! And no worries if you have Render dragon edition it's especially made for Renderdragon only so the name of the Shader is Harmony Voxel Sh..",
     "fileName": "1311689_harmony-voxel-shader-for-renderdragon-latest_Harmony Voxel V2.2 Android [PATCH APK OR MBL REQUIRED].mcpack",
@@ -2077,6 +3220,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1414313_harvassist.jpg",
     "downloadUrl": "textures/1414313_harvassist_HarvAssist+_v1.0.0.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Hat Heads Pack",
+    "description": "To get the hats, you can get them in the inventory and in creative mode in the head section, then equip it in the head and go!\n\nIt is important to note that you can also use these hats as decoration, since they can also be placed as a normal block.",
+    "fileName": "HatHeadsPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/HatHeadsPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/HatHeadsPack.mctexture"
   },
   {
     "category": "textures",
@@ -2122,6 +3274,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1590827_hd-controls.jpg",
     "downloadUrl": "textures/1590827_hd-controls_HD Controls V1.0.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Head Tools Pack",
+    "description": "You can use this pack on horror maps or to have fun with your friends, download it now!\nTo get the heads, you can get them in inventory and in creative mode in the main section, then equip them and play game",
+    "fileName": "HeadToolsPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/HeadToolsPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/HeadToolsPack.mctexture"
   },
   {
     "category": "textures",
@@ -2176,6 +3337,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1364570_hearts-bars.jpg",
     "downloadUrl": "textures/1364570_hearts-bars_Health Bars.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Heckin’ Chonkers Pack",
+    "description": "I’m talking the chonkiest of chonkers. If you like your mobs chonky, you’ll enjoy this pack!",
+    "fileName": "HeckinChonkersPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/HeckinChonkersPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/HeckinChonkersPack.mctexture"
   },
   {
     "category": "textures",
@@ -2530,6 +3700,15 @@
   },
   {
     "category": "textures",
+    "title": "HTRE Shader",
+    "description": "I tried the highest rated shaders on the Kindle and it lagged so much! That is why I created the HTRE Shader! I wanted a good shader with no lag at all!\n\nChangelog\nAdded a solution on how to fix the invisible bug that some of you are getting",
+    "fileName": "HTREShader.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/HTREShader.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/HTREShader.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "HUD+ Reworked",
     "description": "Are you bored with the regular HUD display and you want something new on your HUD that can make it easier for you to do something? Well, You will probably love this pack!",
     "fileName": "1240109_hud-plus-b69_HUD+ Reworked v1.10.mcpack",
@@ -2620,6 +3799,15 @@
   },
   {
     "category": "textures",
+    "title": "Hybred’s Pack",
+    "description": "I wanted the best of both worlds with no compromises, so no matter who you are you can enjoy this pack. Building, Survival, Combat!\n\nChangelog\nFixed a bug with foxes, updated the color map to be even more realistic, and fixed a bug with bambo.",
+    "fileName": "HybredsPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/HybredsPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/HybredsPack.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Hydron - Clear Water",
     "description": "A simple texture pack which makes water clearer. Now for Minecraft Bedrock",
     "fileName": "1570634_hydron_Hydron [3.1.0].mcpack",
@@ -2698,6 +3886,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1371126_icons-bedrock.jpg",
     "downloadUrl": "textures/1371126_icons-bedrock_Icons v.1.1.1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Immersive Default",
+    "description": "Connected glass, more realistic wood colors, more realistic wood logs, realistic dirt and grass, realistic iron bars, more realistic looking mobs (pigs are now more dirty) realistic looking nether (its actually scary!) Slighly improved swords, and more! Find the rest of the improvements in your own world!",
+    "fileName": "ImmersiveDefault.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ImmersiveDefault.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ImmersiveDefault.mctexture"
   },
   {
     "category": "textures",
@@ -2791,6 +3988,15 @@
   },
   {
     "category": "textures",
+    "title": "Improved Water",
+    "description": "This TexturePack/ResourcePack changes it, giving it new more transparent & clean look.\n\nChangelog\n1.0.1 Update:\nFixed 2 typos in Brief Instruction, and deleted 1 line.\nWater in deserts is now less transparent and color is more cyan.\nChanged Featured Image, Now it's not streched.",
+    "fileName": "ImprovedWater.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ImprovedWater.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ImprovedWater.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "in search of the automatic home panorama",
     "description": "A RP that adds a panorama of Brazil's most famous survival series with [Complementary Reimagined]",
     "fileName": "1366952_in-search-of-the-automatic-home-panorama_Automatic Home Panorama [2048x].mcpack",
@@ -2833,6 +4039,24 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1344337_infinity-visuals-vibrant-visuals-pack.jpg",
     "downloadUrl": "textures/1344337_infinity-visuals-vibrant-visuals-pack_Infinity Visuals V1.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "InfinityPvP Pack U14",
+    "description": "FazingBlitz created this in hopes of bringing more attention to the PvP community. This texture pack was worked on and improved by him. \nChangelog\n\nGoing to change Painting Textures in v2.0, and add more unique textures.",
+    "fileName": "InfinityPvPPackU14.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/InfinityPvPPackU14.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/InfinityPvPPackU14.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "InfinityPvP v1.6",
+    "description": "FazingBlitz created this in hopes of bringing more attention to the PvP community. This texture pack was worked on and improved by him. \nChangelog\n\nNIGHT VISION\n\n- EXP BAR CHANGES COLOR\n\n- WORLD LOADING SCREEN FIXED\n\n- HEALTH HEARTS REVAMPED\n\n- HUNGER REVAMPED\n\n- PROVIDED ZIP LINK, FOR XBOX\n\n- PROVIDED TWITTER LINK FOR SUGGESTIONS\n\n- EDITED .JSON FILES TO FIX CERTAIN BUGS\n\n- EXP BAR WILL MOST LIKELY CHANGE AGAIN, THIS IS A TEST.",
+    "fileName": "InfinityPvPv16.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/InfinityPvPv16.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/InfinityPvPv16.mctexture"
   },
   {
     "category": "textures",
@@ -2962,6 +4186,15 @@
   },
   {
     "category": "textures",
+    "title": "Invisible Hotbar Yellow",
+    "description": "It also includes a yellow square when you are using an item giving it an even better look.\nChangelog\nWe made it easier for PE players (Phone,Ipad, and more) to download this pack",
+    "fileName": "InvisibleHotbarYellow.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/InvisibleHotbarYellow.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/InvisibleHotbarYellow.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Invisible HUD",
     "description": "hides all hud at the bottom of your screen (except the hotbar). makes a fun twist for survival!",
     "fileName": "1363194_invisible-hud_invisible hud_1760201784883.mcpack",
@@ -2986,6 +4219,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1627711_invisible-item-frame-pro.jpg",
     "downloadUrl": "textures/1627711_invisible-item-frame-pro_Invisible_Item_Frame_By_Veda77.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Invisible Item Frames 1.1.3",
+    "description": "This is good if you want to put your items or blocks on display or store them in a very nice looking way. Just be careful you don’t accidentally place an Item Frame and forget where it is!",
+    "fileName": "InvisibleItemFrames113.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/InvisibleItemFrames113.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/InvisibleItemFrames113.mctexture"
   },
   {
     "category": "textures",
@@ -3016,6 +4258,15 @@
   },
   {
     "category": "textures",
+    "title": "Invisible Touch Controls V4",
+    "description": "since some players want to record from the mobile device giving an experience as if they were playing on PC, so they do not want to be seen Controls and other buttons.\n\nIt may be a simple change, but there are options to have an interface similar to that of Java Edition. These options are “Split Controls” and the “Classic Interface.”\n\nChangelog\n- Add-on page improvements\n- Final version\n- Updated gui texture\n- Texture of Invisible Chat and Pause Buttons",
+    "fileName": "InvisibleTouchControlsV4.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/InvisibleTouchControlsV4.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/InvisibleTouchControlsV4.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Iron Girl Cute",
     "description": "Transform your bulky Iron Golem into a cute 3D Anime Girl protector! High-quality model for Minecraft Bedrock 1.21 - 1.26. Survival and Creative friendly!",
     "fileName": "1486799_iron-girl-cute_iron_girl_v2_bedrock.mcpack",
@@ -3031,6 +4282,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1435124_iron-golem-to-the-heavy-weapons-guy.jpg",
     "downloadUrl": "textures/1435124_iron-golem-to-the-heavy-weapons-guy_Heavy V3.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Iron Knight  Pack",
+    "description": "This texture pack simply makes your regular, old Iron Golems into heavily-armored knights ready for combat. The Iron Knight resource pack fits perfectly on Medieval and Fantasy-themed projects. You can also this on your world to make it much more interesting.",
+    "fileName": "IronKnightPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/IronKnightPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/IronKnightPack.mctexture"
   },
   {
     "category": "textures",
@@ -3169,1334 +4429,74 @@
   },
   {
     "category": "textures",
+    "title": "Java Aspects 3.1.4",
+    "description": "It changes things such as water, fire, and lava. All of the Java Edition sounds are also included. If you’re a big fan of Java Edition, you’ll love this pack too!\nChangelog\n\nTexture Update #4 (3.1.4)\n\nUniversal:\n\nNormal quartz blocks now use the non-smooth texture on the bottom to match Java Edition\nNew Default:\n\nUpdated oak door and phantom membrane item textures\nUpdated all ores, oak door, and diorite block textures\nUpdated iron golem texture\nFixes:\n\nBells no longer crash the game for Experimental Gameplay players",
+    "fileName": "JavaAspects314.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/JavaAspects314.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/JavaAspects314.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Java Aspects 3.2.0",
+    "description": "It changes things such as water, fire, and quartz. All of the Java Edition sounds are also included. If you’re a big fan of Java Edition, you’ll love this pack too!\nChangelog\n\nThe Ominous Update (3.2.0)\nUniversal:\n-The Illager Banner is now named the Ominous Banner to match Java Edition\n-The Ominous Banner's name is now gold to match Java Edition\n-Landing sounds are no longer muted\n-Added ghast sounds from Java Edition\n-Raised the pitch limit for ghast sounds\n-Removed smithing table changes as the default now matches Java Edition\n-Spawn Fox is now \"Fox Spawn Egg\"\n-Added new splashes from 1.14.1\n  -Awesome game design right there!\n  -Ph1lza had a good run!\n  -10 years of Mining and Crafting!\nNew Default:\n-Sheared sheep now match Java Edition\n-Updated crafting table texture\n-Removed all block textures except carried and opaque leaves, carried plants, quartz block, nether bricks, crafting table, and the old stonecutter retexture\n-Removed all item textures except filled maps, command block minecart, potions, and tipped arrows\n-Removed all entity textures except sheep and tamed tuxedo cat\nProgrammer Art:\n-Opaque leaves now match Java Edition",
+    "fileName": "JavaAspects320.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/JavaAspects320.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/JavaAspects320.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Java Aspects 3.2.1",
+    "description": "It changes things such as water, fire, and quartz. All of the Java Edition sounds are also included. If you’re a big fan of Java Edition, you’ll love this pack too!\n\nChangelog\n\nThe In-Line Update (3.2.1)\nUniversal:\n-Removed seagrass block texture changes as the default now matches Java Edition (Seagrass item still doesn't match)\n-Removed lava textures as the default now matches Java Edition\n-Removed Wandering Trader, Zombie Villager, Ghast, and Ravager sounds as the default now matches Java Edition\n-Removed Witch, Zombie, Magma Cube, and Villager sounds left over from the PC GUI Pack\n-Changed the pack icon to reflect changes the pack actually makes\nNew Default:\n-Re-added the Equipment tab's texture\n-Removed Tamed Tuxedo Cat texture change as the default now matches Java Edition\nFixes:\n-Certain Settings tabs are no longer missing\n-The air punch sound is now correctly muted\nConsole Aspects has received an update keeping it up to date with Java Aspects. You can read the changelog in-game or here. The updated Feature List can be found here.",
+    "fileName": "JavaAspects321.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/JavaAspects321.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/JavaAspects321.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Java Aspects 4.0.0",
+    "description": "This texture pack was created to make Minecraft: Bedrock Edition feel, sound and look more like the original version of Minecraft called Java Edition\n\nChangelog\nThe New and Old Update (4.0.0)\n\nUniversal:\n\nAdded a large number of parity changes from the Fixed Vanilla resource pack. (Thanks, @LateLagMC!) These are:\n-Item frame breaking particles\n-Pillager texture\n-Chiseled and cut red sandstone bottom textures\n-Save and load structure block textures\n-Cat model\n-Ocelot model\n-Old villager model (before Village and Pillage, appears in Marketplace maps)\n-Pillager size\nAdjusted water coloring to more closely match Java Edition\nUnderwater view distance is now 80 instead of 100 to more closely match Java Edition\nMelon block bottoms now use the correct texture\nAdded the player drowning sound to match Java Edition (Thanks, @carlosisawsom55!)\nThe player throwing sound pitch now matches Java Edition\nAdded the sweep attack sound from Java Edition\nAdded pufferfish sounds from Java Edition (Thanks, @netongas_ng!)\nAdded potion filling and emptying sounds for cauldrons from Java Edition (Thanks, @netongas_ng!)\nDrowned, skeletons, strays, ghasts, pillagers, and the Ender Dragon now have the correct shooting sound (Thanks, @netongas_ng!)\nAdded boat sounds from Java Edition (Thanks, @netongas_ng!)\nCurrently, boat sounds don't play at all on land and only play very quietly in water. This is a game bug, not a pack bug.\nEnder dragon fireballs, wither spawning, and end portal sounds now have a \"min_distance\" of 100 blocks (Thanks, @netongas_ng!)\nThe enchantment glint now uses the pattern from Java Edition\nLevel I enchantments no longer have a I at the end of their name like Java Edition\nThe hotbar is now centered under the experience bar\nHotbar slots now have the same transparency as Java Edition\nHighlighted inventory slots are no longer outlined\nSpawn Bee is now \"Bee Spawn Egg\"\nThe message that says \"You can only sleep at night\" now says \"You can sleep only at night or during thunderstorms\" to match Java Edition\nAdded \"Ping the human!\" splash from Java Edition\nThe main menu panorama now matches Java Edition\nNew Default:\n\nAdded the dragon fireball texture from Java Edition\nAdded a number of New Default-specific parity changes from the Fixed Vanilla resource pack. (Thanks, @LateLagMC!) These are:\n-Iron ore texture\n-Normal and sticky piston textures\n-Vindicator texture\n-Old villager textures (before Village and Pillage, appears in Marketplace maps)\n-Old zombie villager textures (before Village and Pillage, appears in Marketplace maps)\nProgrammer Art:\n\nAdded the Programmer Art shield texture from Java Edition\nAdded the Programmer Art cat textures from Java Edition (including tamed variants)\nAdded the lava texture from Java Edition as the Classic Texture Pack doesn't include it\nAdded the smithing table top texture from Java Edition as the Classic Texture Pack has the wrong one (Thanks, @LateLagMC!)\nFixes:\n\nWater no longer has a rough transition between transparent and opaque when viewed from a distance\nThe lava animation now plays at the correct speed\nGhasts are no longer silent\nWither Skeleton sounds now play correctly\nLoading bars are no longer missing segments\nPack:\n\nUpdated the minimum game version required to use the pack to 1.13.0, which means this pack is no longer compatible with earlier versions\nThe custom settings tab's icon now matches the style of the Global Resources tab's icon",
+    "fileName": "JavaAspects400.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/JavaAspects400.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/JavaAspects400.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Java Aspects 4.1.0",
+    "description": "It changes things such as water, fire, and quartz. Java Edition sounds are also included. If you’re a big fan of Java Edition, you’ll love this pack too!\n\nChangelog\nThe Feedback Update (4.1.0)\n\nUniversal:\n\nRemoved the enchanted item glint change due to user feedback\nAdded the stripped spruce and dark oak log textures from Java Edition (Thanks, @LateLagMC!)\nSmoker animation is now faster and no longer fades to match Java Edition\nDrowned zombies no longer glow like Java Edition\nZombies, husks, zombie pigmen, and zombie villagers now raise their arms while chasing a target (Thanks, @netongas_ng!)",
+    "fileName": "JavaAspects410.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/JavaAspects410.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/JavaAspects410.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Java Aspects 4.2.2",
+    "description": "It changes things such as water, fire, and quartz. Java Edition sounds are also included. If you’re a big fan of Java Edition, you’ll love this pack too!\n\nChangelog\n\nLines that begin with * are features unique to Java Aspects+.\n\nUniversal:\n\n*Added underwater music from Java Edition\n*-It will play in Survival or Creative Mode\n*-Not limited to only playing underwater\n*-Play it using \"/playsound music.under_water @s\"\nChanged command messages to match Java Edition (Thanks, @netongas_ng!)\nFixes:\n\nJava Aspects longer crashes the game for players with low memory devices\nCorrected the Hoglin model's head offset\nRemoved a redundant grass top texture\nPack:\n\nSplit Java Aspects into Java Aspects and Java Aspects+\n-Normal Java Aspects has had all its commands only sounds and ambient sounds removed for size constraints\n-Java Aspects+ has all the sounds added in previous updates and the water music",
+    "fileName": "JavaAspects422.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/JavaAspects422.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/JavaAspects422.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Java Aspects V4.2.1",
+    "description": "It changes things such as water, fire, and quartz. Java Edition sounds are also included. If you’re a big fan of Java Edition, you’ll love this pack too!\nThis pack supports players who want to use New Default textures or Programmer Art textures. Adjust the pack option by selecting the gear on the resource packs screen.\n\nChangelog\nNew Default:\n\n*Added nether wart block and purpur pillar top block textures from Java Edition\n*Added diamond sword, diamond axe, diamond shovel, wooden, golden, and diamond pickaxe, and wooden, golden, and diamond hoe textures from Java Edition\n*Added diamond helmet, leggings, and boots item textures from Java Edition\nAdded bed leg textures from Java Edition (Thanks, @LateLagMC!)\nUpdated equipment tab texture with the new diamond sword texture\nFixes:\n\nZombified Piglins no longer incorrectly use their old models (1.16+)\n*Fog is now the correct color in the Nether and End (1.16+)\nBlue flame particles now appear (1.16+)\n*New Default: Carried grass is no longer missing a pixel\n\n.......",
+    "fileName": "JavaAspectsV421.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/JavaAspectsV421.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/JavaAspectsV421.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Java Attack Cooldown Indicator",
     "description": "shows java style attack cooldown Indicator (no bugs)",
     "fileName": "1583819_java-attack-cooldown-indicator_oSkullo_Java_Indicator.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1583819_java-attack-cooldown-indicator.jpg",
     "downloadUrl": "textures/1583819_java-attack-cooldown-indicator_oSkullo_Java_Indicator.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java Book Color & Style",
-    "description": "Replaces the book's bedrock interface with Java",
-    "fileName": "1371635_java-book-color-style_Book UI.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1371635_java-book-color-style.jpg",
-    "downloadUrl": "textures/1371635_java-book-color-style_Book UI.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java Chat Screen",
-    "description": "Change your chat screen to look like Java Edition!",
-    "fileName": "1392322_java-chat-screen_Java Chat Screen v1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1392322_java-chat-screen.jpg",
-    "downloadUrl": "textures/1392322_java-chat-screen_Java Chat Screen v1.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java containers",
-    "description": "this pack redesigns each container to look and function like their java counterparts",
-    "fileName": "1465730_java-containers_java-containers-v3-0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1465730_java-containers.jpg",
-    "downloadUrl": "textures/1465730_java-containers_java-containers-v3-0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java full grass",
-    "description": "🌿 Full Grass Texture Pack gives your Minecraft world a clean Java-style look with fully covered grass blocks. It makes terrain smoother, more realistic, and beautiful for survival or builds. Lightweight and optimized for Bedrock Edition.",
-    "fileName": "1536985_java-grass-bakuthebuilder_FULL_GRASS_Improved-1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1536985_java-grass-bakuthebuilder.jpg",
-    "downloadUrl": "textures/1536985_java-grass-bakuthebuilder_FULL_GRASS_Improved-1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java hitbox",
-    "description": "Java Hitbox is a clean and simple PvP texture pack that makes player hitboxes visible without F3+B. Designed for better aim, cleaner fights, and a smooth Java-style PvP experience. By Baku.",
-    "fileName": "1547559_java-hitbox-bakuthebuilder_JAVA_HITBOX_BY_BAKU_v1_6_0_colors.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1547559_java-hitbox-bakuthebuilder.jpg",
-    "downloadUrl": "textures/1547559_java-hitbox-bakuthebuilder_JAVA_HITBOX_BY_BAKU_v1_6_0_colors.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java HVB | Java Hands and View Bobbing",
-    "description": "This resource pack implements the look and size of the hands from the Java version, including holding objects such as maps in the primary and secondary hands, as well as adding the view bobbing from the Java version to provide a better experience.",
-    "fileName": "1536134_java-hvb-java-hands-and-view-bobbing_JavaHVB_v1.3.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1536134_java-hvb-java-hands-and-view-bobbing.jpg",
-    "downloadUrl": "textures/1536134_java-hvb-java-hands-and-view-bobbing_JavaHVB_v1.3.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java Item Tooltip",
-    "description": "held item tooltips display like java edition, can be set to exclude shulker!",
-    "fileName": "1147217_java-item-tooltip_Java Item Tooltip v1.2.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1147217_java-item-tooltip.jpg",
-    "downloadUrl": "textures/1147217_java-item-tooltip_Java Item Tooltip v1.2.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java Mob Shading",
-    "description": "Gives most entities darker directional shading, a Java accurate hurt overlay, and removes the orange on fire overlay.",
-    "fileName": "1121948_java-mob-shading_JavaMobShading.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1121948_java-mob-shading.jpg",
-    "downloadUrl": "textures/1121948_java-mob-shading_JavaMobShading.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java shield Indicators",
-    "description": "Java Shield Indicators brings Java-style shield feedback to Minecraft Bedrock Edition,making PvP more responsive and easier to read[very light weighted resource pack]",
-    "fileName": "1634671_java-shield-indicators_Java Shield Indicators V1.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1634671_java-shield-indicators.jpg",
-    "downloadUrl": "textures/1634671_java-shield-indicators_Java Shield Indicators V1.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java smaller totem",
-    "description": "Java like smaller totem",
-    "fileName": "1467359_java-smaller-totem_Java smaller totem.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1467359_java-smaller-totem.jpg",
-    "downloadUrl": "textures/1467359_java-smaller-totem_Java smaller totem.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java Subtitles animations",
-    "description": "This Java Subtitles texture pack changes the appearance of Minecraft 26.0.25 from the usual to look like Java and adds animation when it appears.",
-    "fileName": "1404571_java-subtitles-animations_Java Subtitles animations right.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1404571_java-subtitles-animations.jpg",
-    "downloadUrl": "textures/1404571_java-subtitles-animations_Java Subtitles animations right.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java-Like Freecam custom dummy skins",
-    "description": "Make your freecam dummy feel more like a real player. This resource pack adds customizable dummy skins for the Java-Like Freecam Add-On, allowing the dummy left behind during freecam to use different player skins instead of the default Steve texture.",
-    "fileName": "1579867_java-like-freecam-custom-dummy-skins_Freecam_Custom_Dummy_Skins_RP.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1579867_java-like-freecam-custom-dummy-skins.jpg",
-    "downloadUrl": "textures/1579867_java-like-freecam-custom-dummy-skins_Freecam_Custom_Dummy_Skins_RP.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Java-Style Handz",
-    "description": "The purpose of this resource pack is to implement the look of the hands and the vision movement of the Java version, in order to be more visually pleasing.",
-    "fileName": "1506710_java-style-handz_Java-Style Handz .mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1506710_java-style-handz.jpg",
-    "downloadUrl": "textures/1506710_java-style-handz_Java-Style Handz .mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Jax 4d Skin",
-    "description": "4d Jax Skin Texturepack with Blinking Animation + Variants",
-    "fileName": "1579264_jax-4d-skin_Jax.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1579264_jax-4d-skin.jpg",
-    "downloadUrl": "textures/1579264_jax-4d-skin_Jax.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "JEI Recipe Book Layout",
-    "description": "Change your Recipe Book layout to look like Just Enough Items (JEI)",
-    "fileName": "1354512_jei-recipe-book-layout_JEI Recipe Book v1.2.4.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1354512_jei-recipe-book-layout.jpg",
-    "downloadUrl": "textures/1354512_jei-recipe-book-layout_JEI Recipe Book v1.2.4.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "jein recipe book",
-    "description": "A layout that simulates the JEI from Minecraft Java",
-    "fileName": "1563615_jein-recipe-book_JEI Recipe Book_resource_pack_1.3.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1563615_jein-recipe-book.jpg",
-    "downloadUrl": "textures/1563615_jein-recipe-book_JEI Recipe Book_resource_pack_1.3.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Jello Dyes",
-    "description": "Turn the dye textures into awesome looking molded jello!",
-    "fileName": "1390955_jello-dyes_Jello Dyes.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1390955_jello-dyes.jpg",
-    "downloadUrl": "textures/1390955_jello-dyes_Jello Dyes.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "JellyJams",
-    "description": "Cute mobs remodel and retexture!",
-    "fileName": "1438882_jellyjams-resource-pack-bedrock-edition_jellyjams-v10.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1438882_jellyjams-resource-pack-bedrock-edition.jpg",
-    "downloadUrl": "textures/1438882_jellyjams-resource-pack-bedrock-edition_jellyjams-v10.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Jesus Christ Totem",
-    "description": "replaces the classic Totem of Immortality with a custom version of the legendary Jesus Christ skin. Survive in style and strike fear into your enemies!",
-    "fileName": "1364391_jesus-christ-totem_Jesus Christ Totem 1.2.4.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1364391_jesus-christ-totem.jpg",
-    "downloadUrl": "textures/1364391_jesus-christ-totem_Jesus Christ Totem 1.2.4.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Jibanyan 4d Skin",
-    "description": "4d Jibanyan Skin Texturepack with Blinking Animation + Variants",
-    "fileName": "1559829_jibanyan-4d-skin_Jibanyan.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1559829_jibanyan-4d-skin.jpg",
-    "downloadUrl": "textures/1559829_jibanyan-4d-skin_Jibanyan.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "JoinLeave",
-    "description": "Lazy Enhancement for Bedrock. No bloat – just colored join/leave messages. Works for you.",
-    "fileName": "1441763_joinleave_JoinLeave.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1441763_joinleave.jpg",
-    "downloadUrl": "textures/1441763_joinleave_JoinLeave.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Joker Labubu Totem",
-    "description": "🃏 Stylish Joker Labubu Totem for Minecraft Bedrock with 64x, 128x & 256x subpacks! 🎭✨",
-    "fileName": "1557368_joker-labubu-totem_Joker Labubu Totem V_1.0.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1557368_joker-labubu-totem.jpg",
-    "downloadUrl": "textures/1557368_joker-labubu-totem_Joker Labubu Totem V_1.0.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "JS' Warden Dimitrescu [2.0]",
-    "description": "This texture pack will transform the Warden mob into the \"Lady Dimitrescu\" character from Resident Evil!",
-    "fileName": "1484587_js-warden-dimitrescu-2-0_JS' Warden Dimitrescu!! [2.0].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1484587_js-warden-dimitrescu-2-0.jpg",
-    "downloadUrl": "textures/1484587_js-warden-dimitrescu-2-0_JS' Warden Dimitrescu!! [2.0].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Judy Hopps 4d Skin",
-    "description": "4d Judy Hopps Skin Texturepack with Blinking Animation + Variants",
-    "fileName": "1556139_judy-hopps-4d-skin_Judy Hoops.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1556139_judy-hopps-4d-skin.jpg",
-    "downloadUrl": "textures/1556139_judy-hopps-4d-skin_Judy Hoops.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Jujutsu Kaisen (JJK) - Yuta UI Inventory",
-    "description": "Adds a Jujutsu Kaisen - Yuta UI Inventory",
-    "fileName": "1505150_jujutsu-kaisen-jjk-yuta-ui-inventory_Yuta - White 2 .mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1505150_jujutsu-kaisen-jjk-yuta-ui-inventory.jpg",
-    "downloadUrl": "textures/1505150_jujutsu-kaisen-jjk-yuta-ui-inventory_Yuta - White 2 .mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Jujutsu Kaisen Higuruma - Totem of undying",
-    "description": "Replaces the Totem of Undying with an Anime Jujutsu Kaisen Hiromi Higuruma Totem",
-    "fileName": "1482773_jujutsu-kaisen-higuruma-totem-of-undying_One Piece Higuruma Totem 1.20.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1482773_jujutsu-kaisen-higuruma-totem-of-undying.jpg",
-    "downloadUrl": "textures/1482773_jujutsu-kaisen-higuruma-totem-of-undying_One Piece Higuruma Totem 1.20.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Jujutsu Visual Shade",
-    "description": "Jujutsu Visual Shade is a shader for *Jujutsu Kaisen* fans. This shader will enhance your visuals. It is equipped with PBR, ACE tone mapping, white balance temperature, and complex midtones. it's made for jujutsu kaisen",
-    "fileName": "1479069_jujutsu-visual-shade_Jujutsu Visual Shade 1.5.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1479069_jujutsu-visual-shade.jpg",
-    "downloadUrl": "textures/1479069_jujutsu-visual-shade_Jujutsu Visual Shade 1.5.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Julios Hide Armor",
-    "description": "The recursenpack hides the armor so that the skin is visible normally. You can choose whether the templates should also be hidden or not.",
-    "fileName": "1469467_julios-hide-armor_Hide Armor by Julios v1.0.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1469467_julios-hide-armor.jpg",
-    "downloadUrl": "textures/1469467_julios-hide-armor_Hide Armor by Julios v1.0.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Juqet Bedorck",
-    "description": "Coquet is a 16x16 simplistic resource pack designed for players who want a fresh, aesthetic look while staying completely faithful to the original vanilla style of Minecraft.",
-    "fileName": "1565239_juqetbedrock_Coquet.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1565239_juqetbedrock.jpg",
-    "downloadUrl": "textures/1565239_juqetbedrock_Coquet.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Just 3D Shields v1.0.2",
-    "description": "Just 3D Shield - Shield that can give 3d texture to your shield",
-    "fileName": "1412020_just-3d-shield_Just 3d Shields v1.0.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1412020_just-3d-shield.jpg",
-    "downloadUrl": "textures/1412020_just-3d-shield_Just 3d Shields v1.0.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Just Normal Cats",
-    "description": "This texture pack improves and modernizes the cat's texture and model. This pack also makes changes to Ocelot.",
-    "fileName": "1349732_just-normal-cats_just_normal_cats-v1.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1349732_just-normal-cats.jpg",
-    "downloadUrl": "textures/1349732_just-normal-cats_just_normal_cats-v1.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Jyls Visualizer",
-    "description": "A very good intense vibrant visuals pack that focuses on aesthetics.",
-    "fileName": "1476782_jyls-visualizer_jylsv-1.1-merged.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1476782_jyls-visualizer.jpg",
-    "downloadUrl": "textures/1476782_jyls-visualizer_jylsv-1.1-merged.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kage's optimizer",
-    "description": "Change your game fps from 10 to 60 with just 1 optimizer",
-    "fileName": "1478808_kages-optimizer_kageyama's Optimizer v1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1478808_kages-optimizer.jpg",
-    "downloadUrl": "textures/1478808_kages-optimizer_kageyama's Optimizer v1.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kaguya Shinomiya Totem",
-    "description": "Replaces the Totem of Undying with an Anime Kaguya Shinomiya Totem",
-    "fileName": "1485918_kaguya-shinomiya-totem_kaguya_shinomiya_Totem_1_0_1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1485918_kaguya-shinomiya-totem.jpg",
-    "downloadUrl": "textures/1485918_kaguya-shinomiya-totem_kaguya_shinomiya_Totem_1_0_1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Karen Visual Shader (BA)",
-    "description": "Karen Visual Shader is a beautiful shader for Bedrock that brings a warm sunset theme with a purple atmosphere, making your world pop and helping you fall in love with Minecraft instantly.",
-    "fileName": "1474039_karen-visual-shader-ba_Karen Visual Shader 1.28.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1474039_karen-visual-shader-ba.jpg",
-    "downloadUrl": "textures/1474039_karen-visual-shader-ba_Karen Visual Shader 1.28.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kasane Teto Pack | Teto's Territory",
-    "description": "Enter Teto's territory with this Teto-ish vibe texture pack",
-    "fileName": "1461881_kasane-teto-pack-tetos-territory_Kasane Teto Texture Pack.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1461881_kasane-teto-pack-tetos-territory.jpg",
-    "downloadUrl": "textures/1461881_kasane-teto-pack-tetos-territory_Kasane Teto Texture Pack.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kelp’s PvP Textures",
-    "description": "A clean and simple PvP texture pack designed to improve visibility, reduce visual clutter, and provide a smoother combat experience for Bedwars, Skywars, and other PvP gameplay.",
-    "fileName": "1624522_kelps-pvp-textures_Kelps PvP Textures.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1624522_kelps-pvp-textures.jpg",
-    "downloadUrl": "textures/1624522_kelps-pvp-textures_Kelps PvP Textures.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Khalih 16x",
-    "description": "Khalihs texture pack ported to bedrock",
-    "fileName": "1590826_khalih-16x-pvp_Khalihmortimer.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1590826_khalih-16x-pvp.jpg",
-    "downloadUrl": "textures/1590826_khalih-16x-pvp_Khalihmortimer.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Killua UI 2 Inventory",
-    "description": "Adds a Killua UI 2 Inventory",
-    "fileName": "1508852_killua-ui-2-inventory_Killua 2 - White 2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1508852_killua-ui-2-inventory.jpg",
-    "downloadUrl": "textures/1508852_killua-ui-2-inventory_Killua 2 - White 2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Killua UI Inventory",
-    "description": "Adds a Killua UI Inventory",
-    "fileName": "1490851_killua-ui-inventory_Killua - White 2 .mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1490851_killua-ui-inventory.jpg",
-    "downloadUrl": "textures/1490851_killua-ui-inventory_Killua - White 2 .mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kinetix Visuals",
-    "description": "Kinetix Visuals is a bold, high-fidelity resource pack designed to make your Minecraft world surge with energy. It bridges the gap between the classic blocks you know and a cinematic, real-world aesthetic through advanced lighting and tactile depth.",
-    "fileName": "1532545_kinetix-visuals_Kinetix VV V1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1532545_kinetix-visuals.jpg",
-    "downloadUrl": "textures/1532545_kinetix-visuals_Kinetix VV V1.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "King Cake - Rosca de Reyes Totem (Epiphany Celebration)",
-    "description": "A festive texture pack that replaces the Totem of Undying with a detailed King Cake (Rosca de Reyes) featuring custom pixel art and full compatibility with Java and Bedrock versions.",
-    "fileName": "1418343_king-cake-rosca-de-reyes-totem-epiphany_Rosca de Reyes.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1418343_king-cake-rosca-de-reyes-totem-epiphany.jpg",
-    "downloadUrl": "textures/1418343_king-cake-rosca-de-reyes-totem-epiphany_Rosca de Reyes.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "King Melchior Totem - Rey Melchior (Three Kings Day)",
-    "description": "A themed texture pack that replaces the Totem of Undying with a detailed pixel art version of King Melchior. It includes custom royal textures and is fully compatible with Minecraft Java and Bedrock editions.",
-    "fileName": "1419856_king-melchior-totem-rey-baltasar-three-kings-day_Rey Melchor Totem.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1419856_king-melchior-totem-rey-baltasar-three-kings-day.jpg",
-    "downloadUrl": "textures/1419856_king-melchior-totem-rey-baltasar-three-kings-day_Rey Melchor Totem.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "King Studios SMP (Feudal Japan)",
-    "description": "Minecraft Bedrock Server SMP Set Feudal japan join discord to be whitelisted",
-    "fileName": "1455416_mcpedl-king-studios-feudal-japan_japan Edo Period Enduring Peace re-make.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1455416_mcpedl-king-studios-feudal-japan.jpg",
-    "downloadUrl": "textures/1455416_mcpedl-king-studios-feudal-japan_japan Edo Period Enduring Peace re-make.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kinger 4d Skin",
-    "description": "4d Kinger Skin Texturepack with Blinking Animation",
-    "fileName": "1580409_kinger-4d-skin_Kinger.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1580409_kinger-4d-skin.jpg",
-    "downloadUrl": "textures/1580409_kinger-4d-skin_Kinger.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "KINS : K's Incredible Notable Shaders",
-    "description": "Do you want path-tracing for bedrock ? I provide you that !",
-    "fileName": "1365702_kins_KINS.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1365702_kins.jpg",
-    "downloadUrl": "textures/1365702_kins_KINS.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kirby 4d Skin",
-    "description": "4d Kirby Skin Texturepack with Blinking Animation",
-    "fileName": "1592830_kirby-4d-skin_Kirby.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1592830_kirby-4d-skin.jpg",
-    "downloadUrl": "textures/1592830_kirby-4d-skin_Kirby.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Klash Visuals : Deferred PBR pack",
-    "description": "My opinion about how Minecraft must look !",
-    "fileName": "1309946_klash-visuals_klash_visuals_sulfur_update.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1309946_klash-visuals.jpg",
-    "downloadUrl": "textures/1309946_klash-visuals_klash_visuals_sulfur_update.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Knives and Cleavers",
-    "description": "Redesigned swords featuring varied weapon styles, from knives to cleavers.",
-    "fileName": "1254629_knives-and-cleavers_KnivesCleavers.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1254629_knives-and-cleavers.jpg",
-    "downloadUrl": "textures/1254629_knives-and-cleavers_KnivesCleavers.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Knuckles the Echidna 4d skin",
-    "description": "4d Knuckles the Echidna Skin Texturepack with Blinking Animation",
-    "fileName": "1557188_knuckles-the-echidna-4d-skin_Knuckles the Echidna.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1557188_knuckles-the-echidna-4d-skin.jpg",
-    "downloadUrl": "textures/1557188_knuckles-the-echidna-4d-skin_Knuckles the Echidna.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Koi Menu",
-    "description": "A relaxing animated koi pond background for Minecraft’s start and settings screens.",
-    "fileName": "1481210_koi-menu_koicraft.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1481210_koi-menu.jpg",
-    "downloadUrl": "textures/1481210_koi-menu_koicraft.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Konosuba Aqua Totem",
-    "description": "Replaces the Totem of Undying with an Anime Konosuba Aqua Totem",
-    "fileName": "1472861_konosuba-aqua-totem_Konosuba Aqua Totem 1.0.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1472861_konosuba-aqua-totem.jpg",
-    "downloadUrl": "textures/1472861_konosuba-aqua-totem_Konosuba Aqua Totem 1.0.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Krypton",
-    "description": "Krypton – a high-performance optimization pack for Minecraft Bedrock that boosts FPS, reduces lag, and delivers a smoother experience without sacrificing gameplay.",
-    "fileName": "1340019_krypton-mc_Krypton v1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1340019_krypton-mc.jpg",
-    "downloadUrl": "textures/1340019_krypton-mc_Krypton v1.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kuromi Labubu Totem",
-    "description": "Replace the normal Totem of Undying with a cute and stylish Kuromi Labubu themed totem featuring dark pink aesthetics and multiple resolution subpacks for Minecraft Bedrock Edition.",
-    "fileName": "1543545_kuromi-labubu-totem_Kuromi Labubu Totem V_1.0.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1543545_kuromi-labubu-totem.jpg",
-    "downloadUrl": "textures/1543545_kuromi-labubu-totem_Kuromi Labubu Totem V_1.0.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Kurumi Tokisaki Totem",
-    "description": "Replaces the Totem of Undying with an Anime Kurumi Tokisaki Totem",
-    "fileName": "1496916_kurumi-tokisaki-totem_Kurumi_Tokisaki_Totem_1_0_1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1496916_kurumi-tokisaki-totem.jpg",
-    "downloadUrl": "textures/1496916_kurumi-tokisaki-totem_Kurumi_Tokisaki_Totem_1_0_1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "La Nature by Carrot",
-    "description": "Better, realistic rain / rain splash, ambient sounds, insects, flowers, lilypad, 3D lantern, 3D sapling, fog and way more, while staying faithful to Minecraft's style and texture. The biggest nature resource pack ever made for Bedrock.",
-    "fileName": "1229955_la-nature-by-carrot_La-Nature-by-Carrot-Alpha-1.0.88.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1229955_la-nature-by-carrot.jpg",
-    "downloadUrl": "textures/1229955_la-nature-by-carrot_La-Nature-by-Carrot-Alpha-1.0.88.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Labubu Duck Totem",
-    "description": "🦆 Cute Labubu Duck Totem for Minecraft Bedrock! This resource pack replaces the default Totem of Undying with a funny and adorable duck-themed Labubu design. Perfect for players who love aesthetic, cute, and unique textures. ✨",
-    "fileName": "1553161_labubu-duck-totem_Labubu Duck Totem V_1.0.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1553161_labubu-duck-totem.jpg",
-    "downloadUrl": "textures/1553161_labubu-duck-totem_Labubu Duck Totem V_1.0.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lag off",
-    "description": "Lag Off – FPS Booster Pack | Smooth Sky | Short Sword | Clean Transparent UI",
-    "fileName": "1522474_lag-off_lag off.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1522474_lag-off.jpg",
-    "downloadUrl": "textures/1522474_lag-off_lag off.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lag slayer",
-    "description": "\"Slay the lag and boost your frames! Lag Slayer features No Particles, Transparent UI, Short Swords, and Smooth Sky for the ultimate lag-free MCPE experience.\"",
-    "fileName": "1518538_lag-slayer_lag slayer.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1518538_lag-slayer.jpg",
-    "downloadUrl": "textures/1518538_lag-slayer_lag slayer.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lancers Vibrant Visuals Pack | Low and High End",
-    "description": "This pack aims to make the vibrant visuals better than ever imagined! With cutting edge enhancements, it transforms every image into a stunning masterpiece.",
-    "fileName": "1337271_lancers-vibrant-visuals-pack-low-and-high-end_Lancers-VV-v1.4.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1337271_lancers-vibrant-visuals-pack-low-and-high-end.jpg",
-    "downloadUrl": "textures/1337271_lancers-vibrant-visuals-pack-low-and-high-end_Lancers-VV-v1.4.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lapis Lazuli UI Pack",
-    "description": "Resource pack that adds a more attractive and saturated style to the user interface, with additional features.",
-    "fileName": "1348564_lapis-lazuli-ui-pack_Lapis Lazuli UI Pack.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1348564_lapis-lazuli-ui-pack.jpg",
-    "downloadUrl": "textures/1348564_lapis-lazuli-ui-pack_Lapis Lazuli UI Pack.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Larry cat totem of undying",
-    "description": "Turns the Totem texture into Larry the cat",
-    "fileName": "1613071_larry-cat-totem-of-undying_larry_totem.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1613071_larry-cat-totem-of-undying.jpg",
-    "downloadUrl": "textures/1613071_larry-cat-totem-of-undying_larry_totem.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Last Dance (Totem)",
-    "description": "Turn your Totem of Undying into Rugal Bernstein’s self-destruct trigger. You may not take down the Black Noah, but you’ll still cheat death, just like the most infamous boss in KOF history.",
-    "fileName": "1508077_last-dance_Bad loser.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1508077_last-dance.jpg",
-    "downloadUrl": "textures/1508077_last-dance_Bad loser.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lava alert",
-    "description": "Alert the player if theres any lava nearby while mining",
-    "fileName": "1482575_lava-alert_LavaAlert.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1482575_lava-alert.jpg",
-    "downloadUrl": "textures/1482575_lava-alert_LavaAlert.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Layla 4d Skin",
-    "description": "4d Layla Skin Texturepack with Blinking Animation + Variants",
-    "fileName": "1568409_layla-4d-skin_Layla.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1568409_layla-4d-skin.jpg",
-    "downloadUrl": "textures/1568409_layla-4d-skin_Layla.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LazShaders (Vibrant Visuals Shaders) 1.21.90+",
-    "description": "LazShaders is a Vibrant Visuals Shader made for Bedrock/Pocket edition",
-    "fileName": "1287242_lazshaders_LazShaders X Pastel by XradicalD.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1287242_lazshaders.jpg",
-    "downloadUrl": "textures/1287242_lazshaders_LazShaders X Pastel by XradicalD.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lazy Shader | Lite Shader",
-    "description": "Lazy Shader Specially designed for Low-end Devices",
-    "fileName": "1546330_lazy-shader-lite-shader_Lazy Shader v1.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1546330_lazy-shader-lite-shader.jpg",
-    "downloadUrl": "textures/1546330_lazy-shader-lite-shader_Lazy Shader v1.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LCV - Hatsune Miku Inventory",
-    "description": "This is a very nice looking Hatsune Miku Inventory",
-    "fileName": "1604794_lcv-hatsune-miku-inventory_LCV - Hatsune Miku - White Edition.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1604794_lcv-hatsune-miku-inventory.jpg",
-    "downloadUrl": "textures/1604794_lcv-hatsune-miku-inventory_LCV - Hatsune Miku - White Edition.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Leafy Azalea Bushes",
-    "description": "Changes the texture of azalea bushes to match azalea leaves.",
-    "fileName": "1623180_leafy-azalea-bushes_LeafyAzaleaBushes.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1623180_leafy-azalea-bushes.jpg",
-    "downloadUrl": "textures/1623180_leafy-azalea-bushes_LeafyAzaleaBushes.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lebanese Lira Totem",
-    "description": "Lebanese Lira 100,00 bill Totem",
-    "fileName": "1607985_lebanese-lira-totem_Lebanese Lira Totem v1.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1607985_lebanese-lira-totem.jpg",
-    "downloadUrl": "textures/1607985_lebanese-lira-totem_Lebanese Lira Totem v1.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Legacy Console Click",
-    "description": "A small resource pack that changes the click sound to the console edition one.",
-    "fileName": "1370227_legacy-console-click_Legacy Console Click.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1370227_legacy-console-click.jpg",
-    "downloadUrl": "textures/1370227_legacy-console-click_Legacy Console Click.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LEGACY NIGHT BRINGER",
-    "description": "Without vibrant it's not worth it",
-    "fileName": "1537021_legacy-visuals_Project_Spiral_NightBringer_.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1537021_legacy-visuals.jpg",
-    "downloadUrl": "textures/1537021_legacy-visuals_Project_Spiral_NightBringer_.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LEGENDARY PBR TEXTURES",
-    "description": "Realistic PBR Texture Pack For Minecraft Bedrock Edition",
-    "fileName": "1372552_legendary-pbr-texture-packs_LEGENDARY_BEDROCK_PBR_TEXTURES_v1.7_LOW.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1372552_legendary-pbr-texture-packs.jpg",
-    "downloadUrl": "textures/1372552_legendary-pbr-texture-packs_LEGENDARY_BEDROCK_PBR_TEXTURES_v1.7_LOW.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LEGENDARY RTX TEXTURE PACK | BEDROCK RTX EDITION |",
-    "description": "Realistic PBR Texture Pack For Minecraft Bedrock RTX Edition",
-    "fileName": "852331_legendary-bedrock-rtx-texture-pack_LEGENDARY_BEDROCK_RTX_TEXTURES_v1.7_LOW.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/852331_legendary-bedrock-rtx-texture-pack.jpg",
-    "downloadUrl": "textures/852331_legendary-bedrock-rtx-texture-pack_LEGENDARY_BEDROCK_RTX_TEXTURES_v1.7_LOW.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Leosibirt's Ancient Vanilla Helmets 3D",
-    "description": "Minecraft Bedrock texture pack replacing helmet models with detailed 3D designs inspired by ancient civilizations while keeping Minecraft’s vanilla feel. Supports Armor Trims and enhances helmets with immersive 3D details without changing gameplay.",
-    "fileName": "1567358_leosibirts-ancient-vanilla-helmets-3d_Leosibirt's Ancient Vanilla Helmets 3D.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1567358_leosibirts-ancient-vanilla-helmets-3d.jpg",
-    "downloadUrl": "textures/1567358_leosibirts-ancient-vanilla-helmets-3d_Leosibirt's Ancient Vanilla Helmets 3D.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lepherial SX0 16x",
-    "description": "A Blue Futuristic Knight Themed PvP Texture Pack.",
-    "fileName": "1568779_lepherial-sx0-16x_Lepherial SX0s-16x.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1568779_lepherial-sx0-16x.jpg",
-    "downloadUrl": "textures/1568779_lepherial-sx0-16x_Lepherial SX0s-16x.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LerianX Visuals",
-    "description": "LerianX Visuals is my open-sources project for Minecraft Bedrock.",
-    "fileName": "1540985_lerianx-visuals_LerianX Visuals.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1540985_lerianx-visuals.jpg",
-    "downloadUrl": "textures/1540985_lerianx-visuals_LerianX Visuals.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Levzykal's Borderless Glass",
-    "description": "Frameless glass, ideal for construction...",
-    "fileName": "1488866_levzykals-borderless-glass_Borderless glass v0.1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1488866_levzykals-borderless-glass.jpg",
-    "downloadUrl": "textures/1488866_levzykals-borderless-glass_Borderless glass v0.1.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Life-Series Armor",
-    "description": "Life-Series Inspired armor for MCBE",
-    "fileName": "1343017_life-series-armor_LifeSeriesArmor[v1.11].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1343017_life-series-armor.jpg",
-    "downloadUrl": "textures/1343017_life-series-armor_LifeSeriesArmor[v1.11].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Light Mode Ore UI",
-    "description": "Adds a nice UI to your game.",
-    "fileName": "1396294_ore-ui_Ore UI.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1396294_ore-ui.jpg",
-    "downloadUrl": "textures/1396294_ore-ui_Ore UI.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lightsaber Swords",
-    "description": "Transforms swords into striking, vibrant lightsaber blades.",
-    "fileName": "1254678_lightsaber-swords_Lightsabers.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1254678_lightsaber-swords.jpg",
-    "downloadUrl": "textures/1254678_lightsaber-swords_Lightsabers.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LikeTheTrailers+",
-    "description": "Makes Minecraft look like the trailers in all their glory, with additional features, visual enhancements, gameplay improvements, and much more! This pack was developed by @SebisTheProMC and later improved by @SebascraftMC",
-    "fileName": "1419490_likethetrailers_LikeTheTrailers+ 26.30.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1419490_likethetrailers.jpg",
-    "downloadUrl": "textures/1419490_likethetrailers_LikeTheTrailers+ 26.30.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lily Pads Plus+ Texture Pack",
-    "description": "Lily Pads in minecraft are pretty boring and this small texture pack fixes that! This texture packs adds 3d flowers to lily pads with varieties to lily pads and also adds a bunch of different varieties of lily pads as well!",
-    "fileName": "999184_fused-s-lily-pads-with-flowers-pack_Fused's + Vanilla LilyPadsPlus.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "textures/999184_fused-s-lily-pads-with-flowers-pack.jpg",
-    "downloadUrl": "textures/999184_fused-s-lily-pads-with-flowers-pack_Fused's + Vanilla LilyPadsPlus.mcaddon"
-  },
-  {
-    "category": "textures",
-    "title": "Linnea Visual",
-    "description": "Linnea Visual gives you unique visuals with a dynamic sun.",
-    "fileName": "1537276_linnea-visual_Linnea Visual 1.4.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1537276_linnea-visual.jpg",
-    "downloadUrl": "textures/1537276_linnea-visual_Linnea Visual 1.4.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Liso4ka Ultimate PVP Pack",
-    "description": "The Liso4ka Ultimate PVP Pack is a performance-tuned, visually polished texture pack built specifically for competitive Minecraft Bedrock players",
-    "fileName": "1553194_liso4ka-ultimate-pvp-pack_Liso4ka Ultimate PVP Pack V2.47 TU2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1553194_liso4ka-ultimate-pvp-pack.jpg",
-    "downloadUrl": "textures/1553194_liso4ka-ultimate-pvp-pack_Liso4ka Ultimate PVP Pack V2.47 TU2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lite FPS",
-    "description": "Ultimate optimizer for MCPE",
-    "fileName": "1379082_lite-fps_Lite FPS V3.1.6.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1379082_lite-fps.jpg",
-    "downloadUrl": "textures/1379082_lite-fps_Lite FPS V3.1.6.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lite Vibrant Visuals",
-    "description": "6gb ram phone capabel to use this shader",
-    "fileName": "1635141_lite-vibrant-visuals_Lite Vibrant Visuals.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1635141_lite-vibrant-visuals.jpg",
-    "downloadUrl": "textures/1635141_lite-vibrant-visuals_Lite Vibrant Visuals.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lithium fps booster",
-    "description": "Lithium FPS Booster is a high-performance Minecraft Bedrock texture pack that significantly improves FPS by removing unnecessary particles, lowering sword visuals, and optimizing in-game effects for smoother gameplay.",
-    "fileName": "1501335_lithium-fps-booster_Lithium FPSbooster v5.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1501335_lithium-fps-booster.jpg",
-    "downloadUrl": "textures/1501335_lithium-fps-booster_Lithium FPSbooster v5.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LithiumReverse",
-    "description": "Eliminate unnecessary rendering, calculations, and sound load to raise FPS, reduce lag, and stabilize gameplay.",
-    "fileName": "1586228_lithiumreverse_LithiumReversed(Ultimate).mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1586228_lithiumreverse.jpg",
-    "downloadUrl": "textures/1586228_lithiumreverse_LithiumReversed(Ultimate).mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Little G",
-    "description": "Gives Some Blocks nd Items a Golden Touch If Yk What I Mean",
-    "fileName": "1516684_little-g_Little_G (Bedrock).mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1516684_little-g.jpg",
-    "downloadUrl": "textures/1516684_little-g_Little_G (Bedrock).mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Little Land - Custom Paintings",
-    "description": "Early images of Little Land available on paintings in MC Bedrock",
-    "fileName": "1398901_little-land-custom-paintings_Custom Images - Little Land SMP.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1398901_little-land-custom-paintings.jpg",
-    "downloadUrl": "textures/1398901_little-land-custom-paintings_Custom Images - Little Land SMP.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Little Nightmares GUI | v1.3.4 Better UI Update",
-    "description": "Time to go, to unknow places, called The Maw, Hi there Little Nightmares fans! Do you ready for this pack? because this will surprise you, Little Nightmares GUI in Minecraft BE!",
-    "fileName": "1409414_little-nightmares-gui_Little Nightmares GUI v1.3.4 Better UI Update by HyperF3GamerINDO.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1409414_little-nightmares-gui.jpg",
-    "downloadUrl": "textures/1409414_little-nightmares-gui_Little Nightmares GUI v1.3.4 Better UI Update by HyperF3GamerINDO.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Little Nightmares II GUI | v1.1.4 Better UI Update",
-    "description": "Hello there Little Nightmares fans! now I'll bring you to the Pale City, time to stop the time loop (paradox)! but can you do it? in another Little Nightmares Submission right now it's came from Little Nightmares II Games! I hope you like it!",
-    "fileName": "1412440_little-nightmares-ii-gui-pack_Little Nightmares II GUI v1.1.4 Better UI Update.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1412440_little-nightmares-ii-gui-pack.jpg",
-    "downloadUrl": "textures/1412440_little-nightmares-ii-gui-pack_Little Nightmares II GUI v1.1.4 Better UI Update.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Little Techno",
-    "description": "A tribute to our hero Technoblade: may you rest in peace, Alex; you'll never be forgotten.",
-    "fileName": "1394942_little-techno_little_techno.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1394942_little-techno.jpg",
-    "downloadUrl": "textures/1394942_little-techno_little_techno.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lobotomy Face | v1.0.1 Vibrant Visual Update",
-    "description": "FIRE IN THE HOLE! If you ever wonder what happened if you put Geometry Dash's lobotomy face into Minecraft, well this is what you get. :) This pack changes everything environment related into the lobotomy face!",
-    "fileName": "1400179_lobotomy-face_Lobotomy Face v1.0.1 Vibrant Visual Update by HyperF3GamerINDO.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1400179_lobotomy-face.jpg",
-    "downloadUrl": "textures/1400179_lobotomy-face_Lobotomy Face v1.0.1 Vibrant Visual Update by HyperF3GamerINDO.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Logo de pausa para el OneBlock de kuroscopio",
-    "description": "for Kuro oneblock pause logo",
-    "fileName": "1635207_kuroverso-logo_aLogo de Pausa del oneblock de kuro.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1635207_kuroverso-logo.jpg",
-    "downloadUrl": "textures/1635207_kuroverso-logo_aLogo de Pausa del oneblock de kuro.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "loko's Cursors",
-    "description": "Replace Minecraft's controller pointer with more familiar cursors",
-    "fileName": "1401178_lokos-cursors_loko's Cursors-VibrantFix.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1401178_lokos-cursors.jpg",
-    "downloadUrl": "textures/1401178_lokos-cursors_loko's Cursors-VibrantFix.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Long Tools",
-    "description": "This resource pack makes tools slightly long.",
-    "fileName": "1348712_long-tools_Long_Tools.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1348712_long-tools.jpg",
-    "downloadUrl": "textures/1348712_long-tools_Long_Tools.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Look at My Skin",
-    "description": "Display your player on Hud and container screen!",
-    "fileName": "1399533_look-at-my-skin_Look at My Skin v1.0.5.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1399533_look-at-my-skin.jpg",
-    "downloadUrl": "textures/1399533_look-at-my-skin_Look at My Skin v1.0.5.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lotiif visuals",
-    "description": "Bring your Minecraft world to life with Lotiif Visuals, a stunning shader pack that transforms every block into a masterpiece!",
-    "fileName": "1380462_lotiif-visuals_LOTIIF_Visuals (NORMAL) v 0.1.3.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1380462_lotiif-visuals.jpg",
-    "downloadUrl": "textures/1380462_lotiif-visuals_LOTIIF_Visuals (NORMAL) v 0.1.3.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Low fire",
-    "description": "Lowers the fire texture for pvp and survival.",
-    "fileName": "1216817_low-fire_Low Fire V1.0.8.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "textures/1216817_low-fire.jpg",
-    "downloadUrl": "textures/1216817_low-fire_Low Fire V1.0.8.mcaddon"
-  },
-  {
-    "category": "textures",
-    "title": "Low fire (Unanimated)",
-    "description": "Removes animation and Reduces height of fire",
-    "fileName": "1459971_low-fire-unanimated_low fire (unanimated).mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1459971_low-fire-unanimated.jpg",
-    "downloadUrl": "textures/1459971_low-fire-unanimated_low fire (unanimated).mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Low Fire , Shield & Small Totem",
-    "description": "Low Fire, Shield & Small Totem",
-    "fileName": "1484824_low-fire-shield-small-totem_Low_Fire,Shield_Small_Totem.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1484824_low-fire-shield-small-totem.jpg",
-    "downloadUrl": "textures/1484824_low-fire-shield-small-totem_Low_Fire,Shield_Small_Totem.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Low fire pack by yknx",
-    "description": "make fire cover less of screen when burning",
-    "fileName": "1459315_low-fire-pack-by-yknx_low_fire.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1459315_low-fire-pack-by-yknx.jpg",
-    "downloadUrl": "textures/1459315_low-fire-pack-by-yknx_low_fire.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Low Fire!",
-    "description": "This resource pack adds a lower fire visual that is helpful in PVP or survival.",
-    "fileName": "1538615_minecraft-low-fire_low fire.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1538615_minecraft-low-fire.jpg",
-    "downloadUrl": "textures/1538615_minecraft-low-fire_low fire.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Low Fire,Small sheild and small totem",
-    "description": "🔥 Improve your PvP gameplay with this smooth Low Fire Texture Pack! Enjoy cleaner screen visibility, stylish low flames, and better combat experience for Minecraft Bedrock/MCPE.",
-    "fileName": "1537001_low-fire-for-mcpe-prakash_low_fire_small_totem_small_shield_FIXED.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1537001_low-fire-for-mcpe-prakash.jpg",
-    "downloadUrl": "textures/1537001_low-fire-for-mcpe-prakash_low_fire_small_totem_small_shield_FIXED.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Low Lag | No Animations | No Effects | No Practicles",
-    "description": "Reduce Lag for Weak Devices | Increase Fps",
-    "fileName": "1376760_fix-lag-fps-boost_mod.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1376760_fix-lag-fps-boost.jpg",
-    "downloadUrl": "textures/1376760_fix-lag-fps-boost_mod.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Low On Fire",
-    "description": "Reduces the height of the fire animation on your screen to give you a clear view during PvP fights and Nether exploration.",
-    "fileName": "1568671_lower-fire_Lower Fire.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1568671_lower-fire.jpg",
-    "downloadUrl": "textures/1568671_lower-fire_Lower Fire.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Low shield PvP",
-    "description": "A clean PvP texture pack that lowers the shield for better visibility and smoother combat experience.",
-    "fileName": "1489075_low-shield-pvp_low shield.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1489075_low-shield-pvp.jpg",
-    "downloadUrl": "textures/1489075_low-shield-pvp_low shield.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lower Shield",
-    "description": "This resource pack makes shields smaller in first-person view",
-    "fileName": "1358696_lower-shield_lowershield.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1358696_lower-shield.jpg",
-    "downloadUrl": "textures/1358696_lower-shield_lowershield.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LowFire",
-    "description": "Shrink fire, boost vision!",
-    "fileName": "1371459_lowfire_Low Fire.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1371459_lowfire.jpg",
-    "downloadUrl": "textures/1371459_lowfire_Low Fire.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LowoFault DEFINITIVE 16x",
-    "description": "LowoFault DEFINITIVE is the definitive version of my LowoFault series (unreleased). A completely custom blue-themed PvP texture pack, created from scratch. I used my very own palette based on Chr7st and Minecraft Default.",
-    "fileName": "1387647_lowofault-definitive-16x_LowoFault DEFINITIVE 16x BEDROCK.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1387647_lowofault-definitive-16x.jpg",
-    "downloadUrl": "textures/1387647_lowofault-definitive-16x_LowoFault DEFINITIVE 16x BEDROCK.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LowSparks Fps",
-    "description": "🔥 Lower Fire for Better Visibility! Includes both Normal Fire and Soul Fire with a clean low-profile design for smoother gameplay and improved FPS.",
-    "fileName": "1558412_lowsparks-fps_LowSparks Fps V_1.0.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1558412_lowsparks-fps.jpg",
-    "downloadUrl": "textures/1558412_lowsparks-fps_LowSparks Fps V_1.0.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LUCA EYE",
-    "description": "Luca Eye is a shader that combines anime and realistic styles into one.",
-    "fileName": "1493624_luca-eye_luca eye 1.12.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1493624_luca-eye.jpg",
-    "downloadUrl": "textures/1493624_luca-eye_luca eye 1.12.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lucario UI Inventory",
-    "description": "Adds a Lucario UI Inventory",
-    "fileName": "1513871_lucario-ui-inventory_Lucario - Black 2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1513871_lucario-ui-inventory.jpg",
-    "downloadUrl": "textures/1513871_lucario-ui-inventory_Lucario - Black 2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lucid Beds",
-    "description": "This pack simply adds a twist to the 16 different beds in Minecraft. \"Lucid Beds\" is a pack originally made by LucidWolf96 for Java Edition and was ported by me to Bedrock Edition.",
-    "fileName": "1373530_lucid-beds_lucid_beds-v1.0.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1373530_lucid-beds.jpg",
-    "downloadUrl": "textures/1373530_lucid-beds_lucid_beds-v1.0.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luffy Gear 5 UI Inventory",
-    "description": "Adds a Luffy Gear 5 UI Inventory",
-    "fileName": "1489191_luffy-gear-5-ui-inventory_Luffy Gear 5 Black 2 .mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1489191_luffy-gear-5-ui-inventory.jpg",
-    "downloadUrl": "textures/1489191_luffy-gear-5-ui-inventory_Luffy Gear 5 Black 2 .mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luffy Straw Hat UI Inventory",
-    "description": "Adds a Luffy Straw Hat UI Inventory",
-    "fileName": "1563489_luffy-straw-hat-ui-inventory_Luffy Straw Hat - Black.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1563489_luffy-straw-hat-ui-inventory.jpg",
-    "downloadUrl": "textures/1563489_luffy-straw-hat-ui-inventory_Luffy Straw Hat - Black.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luma Shade (Vibrant Visuals Pack)",
-    "description": "LumaShade transforms Minecraft with soft bloom, warm lighting and gentle fog for a smooth, immersive visual experience.",
-    "fileName": "1343257_luma-shade-vibrant-visuals-pack_LumaShade v2.6.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1343257_luma-shade-vibrant-visuals-pack.jpg",
-    "downloadUrl": "textures/1343257_luma-shade-vibrant-visuals-pack_LumaShade v2.6.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumen Visual",
-    "description": "Elevating Minecraft through design ✨",
-    "fileName": "1503100_lumen-visual_LumenVisual V1.9.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1503100_lumen-visual.jpg",
-    "downloadUrl": "textures/1503100_lumen-visual_LumenVisual V1.9.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumenix Prism Visuals",
-    "description": "Lumenix Prism Visuals — an ultra high-fidelity shader for Minecraft Bedrock featuring punchy color grading, dramatic volumetric skies, crystal-clear glassy water, and richer PBR surfaces, built to make every world look vivid and cinematic.",
-    "fileName": "1616033_lumenix-prism-visuals_Lumenix Prism Visuals [ v1.1 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1616033_lumenix-prism-visuals.jpg",
-    "downloadUrl": "textures/1616033_lumenix-prism-visuals_Lumenix Prism Visuals [ v1.1 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumenix Shader [ v2.2 ]",
-    "description": "Lumenix Shader adds a warm, saturated look to your world, enhancing colors, lighting and atmosphere for a richer, smoother visual experience. It creates a soft, vibrant tone that makes the game feel more alive and visually appealing.",
-    "fileName": "1417875_lumenix-shader_Lumenix Shader [ v3.6 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1417875_lumenix-shader.jpg",
-    "downloadUrl": "textures/1417875_lumenix-shader_Lumenix Shader [ v3.6 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumenix Shader Revamped",
-    "description": "Cinematic Bedrock visuals with natural water waves, God rays, biome-themed water colors, rich sky gradients, and stunning golden-hour sunsets. Built for Minecraft 1.21+.",
-    "fileName": "1559340_lumenix-shader-revamped_Lumenix Shader Revamped [ v1.0 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1559340_lumenix-shader-revamped.jpg",
-    "downloadUrl": "textures/1559340_lumenix-shader-revamped_Lumenix Shader Revamped [ v1.0 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumenix Shader Ultra",
-    "description": "Lumenix Shader Ultra enhances your world with better lighting, realistic shadows, and vibrant colors, delivering a smooth and immersive visual experience.",
-    "fileName": "1489115_lumenix-shader-ultra_Lumenix Shader Ultra [ v1.9 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1489115_lumenix-shader-ultra.jpg",
-    "downloadUrl": "textures/1489115_lumenix-shader-ultra_Lumenix Shader Ultra [ v1.9 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumina Prime",
-    "description": "Lumina Prime Shaders brings cinematic visuals to Minecraft. Featuring realistic lighting, vibrant sunsets, and crystal-clear water, it offers the perfect balance of performance and beauty. Transform every journey into a visual masterpiece.",
-    "fileName": "1430145_lumina-prime_Lumina Prime [ v2.3 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1430145_lumina-prime.jpg",
-    "downloadUrl": "textures/1430145_lumina-prime_Lumina Prime [ v2.3 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumina Prime Renewed",
-    "description": "Next-gen Minecraft shader with cinematic god rays, vivid sunsets, crystal-clear biome water, rich volumetric fog, and premium ACES color grading. Every biome, reimagined.",
-    "fileName": "1514705_lumina-prime-renewed_Lumina Prime Renewed [ v1.7 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1514705_lumina-prime-renewed.jpg",
-    "downloadUrl": "textures/1514705_lumina-prime-renewed_Lumina Prime Renewed [ v1.7 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumina Prism Visuals",
-    "description": "Lumina Prism — an ultra high-fidelity shader for Minecraft Bedrock featuring punchy color grading, dramatic volumetric skies, crystal-clear glassy water, and richer PBR surfaces, built to make every world look vivid and cinematic.",
-    "fileName": "1601053_lumina-prism-visuals_Lumina Prism visuals [ v1.3 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1601053_lumina-prism-visuals.jpg",
-    "downloadUrl": "textures/1601053_lumina-prism-visuals_Lumina Prism visuals [ v1.3 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumina Visual Shader (BA)",
-    "description": "Lumina Visual Shader is a beautiful shader for Bedrock that brings a warm sunset theme, making your world pop and making you fall in love with Minecraft instantly.",
-    "fileName": "1463730_lumina-visual-shader-bs_Lumina Visual Shader 1.8.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1463730_lumina-visual-shader-bs.jpg",
-    "downloadUrl": "textures/1463730_lumina-visual-shader-bs_Lumina Visual Shader 1.8.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumina Visuals",
-    "description": "A beautiful visual upgrade adding realistic lighting, soft shadows, and vibrant colors to Minecraft Bedrock.",
-    "fileName": "1401694_lumina-visuals-vibrant-shader_Lumina Visuals v2.3.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1401694_lumina-visuals-vibrant-shader.jpg",
-    "downloadUrl": "textures/1401694_lumina-visuals-vibrant-shader_Lumina Visuals v2.3.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luminance Shaders",
-    "description": "Luminance Shaders improves Minecraft visuals with smooth lighting, vibrant colors, soft shadows, and balanced performance for an immersive and optimized gameplay experience. ✨",
-    "fileName": "1505088_luminance-shaders_Luminance Shaders [ v1.7 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1505088_luminance-shaders.jpg",
-    "downloadUrl": "textures/1505088_luminance-shaders_Luminance Shaders [ v1.7 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luminara Visual",
-    "description": "**Luminara Visual** delivers a classic combination of clear blue skies and warm sunlight. It also features a realistic sun, making your world feel more natural, immersive, and realistic than ever before.",
-    "fileName": "1566627_luminara-visual_Luminara Visual 1.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1566627_luminara-visual.jpg",
-    "downloadUrl": "textures/1566627_luminara-visual_Luminara Visual 1.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumine Visual Shade",
-    "description": "This shader gives your world a classic, luminous, and vibrant visual style.",
-    "fileName": "1486037_lumine-visual-shade_Lumine Visual Shade 1.6.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1486037_lumine-visual-shade.jpg",
-    "downloadUrl": "textures/1486037_lumine-visual-shade_Lumine Visual Shade 1.6.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luminous Cloud",
-    "description": "Luminous Cloud will enhance your Overcube for better performance.",
-    "fileName": "1533683_luminous-cloud_luminous cloud 1.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1533683_luminous-cloud.jpg",
-    "downloadUrl": "textures/1533683_luminous-cloud_luminous cloud 1.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luminous Dreams v1.0 [RELEASE]",
-    "description": "Luminous Dreams is a Deferred Rendering pack for Minecraft Bedrock Edition",
-    "fileName": "1023716_poggy-s-luminous-dreams-deferred-renderer-shader-pack-beta_luminous-dreams-v1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1023716_poggy-s-luminous-dreams-deferred-renderer-shader-pack-beta.jpg",
-    "downloadUrl": "textures/1023716_poggy-s-luminous-dreams-deferred-renderer-shader-pack-beta_luminous-dreams-v1.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luminous Vibrant Visual (zephyr)",
-    "description": "Luminous Vibrant Visual is a shader that focuses on the visualization of the sun.",
-    "fileName": "1539191_luminous-vibrant-visual-zephyr_luminous vibrant visual 1.4.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1539191_luminous-vibrant-visual-zephyr.jpg",
-    "downloadUrl": "textures/1539191_luminous-vibrant-visual-zephyr_luminous vibrant visual 1.4.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lumora Shaders",
-    "description": "Per-biome sky, fog, and water tuning that shifts naturally through the day — cherry groves glow pink, the End sits in violet haze, sunsets burn gold across the water. Every biome gets its own mood.",
-    "fileName": "1570225_lumora-shaders_Lumora Shaders v1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1570225_lumora-shaders.jpg",
-    "downloadUrl": "textures/1570225_lumora-shaders_Lumora Shaders v1.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luna (Vibrant Visual)",
-    "description": "Luna Vibrant Visual makes your world look more balanced, warm, and saturated.",
-    "fileName": "1439636_luna-vibrant-visual_luna (vibrant visual) 2.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1439636_luna-vibrant-visual.jpg",
-    "downloadUrl": "textures/1439636_luna-vibrant-visual_luna (vibrant visual) 2.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lunac Shaders 3D 1.9.9 | RTX, Heightmaps, High - Q Lighting And Shadows",
-    "description": "Lunac Shaders 3d is a another version of The Lunac Shaders with Heightmaps and MERS textures. This PBR (Physically Based Rendering) version is much better version in terms of Details, shadows and lightning with 3d blocks.",
-    "fileName": "1325119_lunac-shaders-3d_Lunac shaders - 3D v1.9.9.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1325119_lunac-shaders-3d.jpg",
-    "downloadUrl": "textures/1325119_lunac-shaders-3d_Lunac shaders - 3D v1.9.9.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lunar fps booster | by EaglShorts",
-    "description": "Lunar FPS Booster is a lightweight Minecraft resource pack designed to improve FPS and provide smoother gameplay, especially on low-end devices.",
-    "fileName": "1503137_lunar-fps-booster_Lunar fps booster v2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1503137_lunar-fps-booster.jpg",
-    "downloadUrl": "textures/1503137_lunar-fps-booster_Lunar fps booster v2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lunar Shader",
-    "description": "Lunar Shader makes your world look more dynamic with a realistic style.",
-    "fileName": "1487812_lunar-shader_lunar shader 1.7.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1487812_lunar-shader.jpg",
-    "downloadUrl": "textures/1487812_lunar-shader_lunar shader 1.7.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "LunarX 3D",
-    "description": "EclipseX 3D enhances Minecraft Bedrock with stunning 3D Sun & Moon visuals and a powerful 3D Mace, delivering a cinematic PvP and FPS-style experience.",
-    "fileName": "1441649_lunarx-3d_LunarX 3D V_1.0.3.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1441649_lunarx-3d.jpg",
-    "downloadUrl": "textures/1441649_lunarx-3d_LunarX 3D V_1.0.3.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lunastra Visual",
-    "description": "Lunastra Shader is a shader that makes your world pop with the powerful energy of the Lunastra dragon. It enhances the atmosphere with vibrant lighting, dramatic skies, and intense colors, giving your Minecraft world a magical and fiery dragon-like aura.",
-    "fileName": "1480895_lunastra-visual_Lunastra 1.6.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1480895_lunastra-visual.jpg",
-    "downloadUrl": "textures/1480895_lunastra-visual_Lunastra 1.6.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Lunatic Visual (Zephyr)",
-    "description": "Lunatic Shader (Zephyr) makes your world look warm, dynamic, and beautiful.",
-    "fileName": "1474085_lunatic-visual-zephyr_Lunatic Visual 1.9.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1474085_lunatic-visual-zephyr.jpg",
-    "downloadUrl": "textures/1474085_lunatic-visual-zephyr_Lunatic Visual 1.9.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luth's Sensible Stairs, Slabs, and Such",
-    "description": "Tweaks to the neglected vanilla blocks that re-use textures, giving them personality while still being identifiable.",
-    "fileName": "1229837_luths-sensible-stairs-slabs-and-such_Sensible-Stairs-Slabs-and-Such-1.3.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "textures/1229837_luths-sensible-stairs-slabs-and-such.jpg",
-    "downloadUrl": "textures/1229837_luths-sensible-stairs-slabs-and-such_Sensible-Stairs-Slabs-and-Such-1.3.0.mcaddon"
-  },
-  {
-    "category": "textures",
-    "title": "Luvid Visual Refined",
-    "description": "Luvid Visuals: Refined brings a warmer, cinematic soul to your world. I’ve tuned the golden lighting, thickened the fog for better god rays, and polished the textures. It’s the same shader you love, just more immersive and professional.",
-    "fileName": "1461941_luvid-visual-refined_Luvid Visuals Refined [ v2.1 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1461941_luvid-visual-refined.jpg",
-    "downloadUrl": "textures/1461941_luvid-visual-refined_Luvid Visuals Refined [ v2.1 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luvid Visuals",
-    "description": "Luvid Visuals: A premium shader experience for Minecraft. Featuring cinematic ACES tone mapping, crystal-clear water physics, and masterfully balanced atmospheric lighting. High-end visuals meets optimized performance. The new era of clarity.",
-    "fileName": "1443764_luvid-visuals_Luvid Visuals [ v2.3 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1443764_luvid-visuals.jpg",
-    "downloadUrl": "textures/1443764_luvid-visuals_Luvid Visuals [ v2.3 ].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Luvid Visuals Ultra",
-    "description": "Cinematic fog, God rays, deep water waves & biome-themed colors. Luvid Visuals Ultra transforms your Minecraft world into a stunning visual experience.",
-    "fileName": "1568535_luvid-visuals-ultra_Luvid Visuals Ultra [ v1.3 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1568535_luvid-visuals-ultra.jpg",
-    "downloadUrl": "textures/1568535_luvid-visuals-ultra_Luvid Visuals Ultra [ v1.3 ].mcpack"
   }
 ]

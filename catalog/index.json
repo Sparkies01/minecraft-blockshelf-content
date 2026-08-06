@@ -1,9 +1,9 @@
 {
-  "total": 9998,
+  "total": 15556,
   "pageSize": 500,
   "categories": {
     "mods": {
-      "total": 5178,
+      "total": 5818,
       "pages": [
         "mods/page-001.json",
         "mods/page-002.json",
@@ -15,11 +15,12 @@
         "mods/page-008.json",
         "mods/page-009.json",
         "mods/page-010.json",
-        "mods/page-011.json"
+        "mods/page-011.json",
+        "mods/page-012.json"
       ]
     },
     "maps": {
-      "total": 1568,
+      "total": 1954,
       "pages": [
         "maps/page-001.json",
         "maps/page-002.json",
@@ -28,7 +29,7 @@
       ]
     },
     "textures": {
-      "total": 2692,
+      "total": 2991,
       "pages": [
         "textures/page-001.json",
         "textures/page-002.json",
@@ -39,10 +40,24 @@
       ]
     },
     "skins": {
-      "total": 560,
+      "total": 4756,
       "pages": [
         "skins/page-001.json",
-        "skins/page-002.json"
+        "skins/page-002.json",
+        "skins/page-003.json",
+        "skins/page-004.json",
+        "skins/page-005.json",
+        "skins/page-006.json",
+        "skins/page-007.json",
+        "skins/page-008.json",
+        "skins/page-009.json",
+        "skins/page-010.json"
+      ]
+    },
+    "seeds": {
+      "total": 37,
+      "pages": [
+        "seeds/page-001.json"
       ]
     }
   }

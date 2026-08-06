@@ -1,6 +1,870 @@
 [
   {
     "category": "mods",
+    "title": "Clear Water Texture Pack | fancy + vibrant visuals modes!",
+    "description": "The Best Clear Water Texture Pack for Minecraft Bedrock/PE. It has Underwater Night Vision, 3 - beautiful different water textures, Enhanced particles, bubbles and fog, and clear water.",
+    "fileName": "1020345_clear-water_Clear water 4.1 [virbant visuals].mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1020345_clear-water.jpg",
+    "downloadUrl": "mods/1020345_clear-water_Clear water 4.1 [virbant visuals].mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Clearchat",
+    "description": "Clearchat addon that deletes chat items completely instead of overwriting them.",
+    "fileName": "1298358_clearchat_ClearChat-addon-stable.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1298358_clearchat.jpg",
+    "downloadUrl": "mods/1298358_clearchat_ClearChat-addon-stable.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "ClearLag System",
+    "description": "Advanced ClearLag system for Minecraft Bedrock servers with automatic item cleanup, countdown timers, and lag reduction tools.",
+    "fileName": "1536943_clearlag-system_ClearLag_System.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1536943_clearlag-system.jpg",
+    "downloadUrl": "mods/1536943_clearlag-system_ClearLag_System.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Click Speed Bot",
+    "description": "Test your clicking skills with the Click Speed Bot! Measure your CPS (Clicks Per Second) with perfect accuracy,",
+    "fileName": "1201506_cps-measure-daniye_Click Speed Bot by Daniye - v1.0.7.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1201506_cps-measure-daniye.jpg",
+    "downloadUrl": "mods/1201506_cps-measure-daniye_Click Speed Bot by Daniye - v1.0.7.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Boots - [v.1.11.8]",
+    "description": "Have you ever wanted to play the Cloud Boots mod but on Minecraft Bedrock Edition, but there was no such mod or addon? Now you have a chance to play on the Cloud Boots addon and you can feel like on Minecraft Java Edition.",
+    "fileName": "996856_cloud-boots_Cloud Boots - [v.1.11.8].mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/996856_cloud-boots.jpg",
+    "downloadUrl": "mods/996856_cloud-boots_Cloud Boots - [v.1.11.8].mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Dynamic Light (API)",
+    "description": "Cloud Dynamic Light makes torches, lanterns, and totems emit light in the game and makes your gameplay simpler.",
+    "fileName": "1438440_cloud-dynamic-light-api_cloud dynamic light 1.08 bp.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1438440_cloud-dynamic-light-api.jpg",
+    "downloadUrl": "mods/1438440_cloud-dynamic-light-api_cloud dynamic light 1.08 bp.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Elementalist",
+    "description": "With Cloud Elementalist, you can use random elemental powers in your battles.",
+    "fileName": "1548737_cloud-elementalist_cloud elementalist 1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1548737_cloud-elementalist.jpg",
+    "downloadUrl": "mods/1548737_cloud-elementalist_cloud elementalist 1.1.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Food",
+    "description": "Cloud Food is a food addon that provides a variety of foods from different countries around the world.",
+    "fileName": "1556631_cloud-food_cloud food 1.01 bp.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1556631_cloud-food.jpg",
+    "downloadUrl": "mods/1556631_cloud-food_cloud food 1.01 bp.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Harvest Capitator",
+    "description": "Cloud Harvest Capitator lets you farm more efficiently and effortlessly.",
+    "fileName": "1452014_cloud-harvest-capitator_cloud harvest capitator 1.14 bp.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1452014_cloud-harvest-capitator.jpg",
+    "downloadUrl": "mods/1452014_cloud-harvest-capitator_cloud harvest capitator 1.14 bp.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud in a Bottle | Double Jump | Terraria Accessories",
+    "description": "Adds Cloud in a Bottle from Terraria: equip it in the Accessory Pouch to double jump in midair.",
+    "fileName": "1543395_cloud-in-a-bottle-double-jump-terraria-accessories_cloud-in-a-bottle-v1.1.0.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1543395_cloud-in-a-bottle-double-jump-terraria-accessories.jpg",
+    "downloadUrl": "mods/1543395_cloud-in-a-bottle-double-jump-terraria-accessories_cloud-in-a-bottle-v1.1.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Lightning",
+    "description": "In the Cloud Lightning addon, you are given a choice to gain superpowers or remain a normal human.",
+    "fileName": "1539262_cloud-lightning_cloud lightning 1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1539262_cloud-lightning.jpg",
+    "downloadUrl": "mods/1539262_cloud-lightning_cloud lightning 1.1.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Shop",
+    "description": "Cloud Shop is a better and more dynamic version of villager trading, allowing you to trade and shop anywhere as long as you have emeralds. No need to wait for villagers, no need to worry about zombies killing them—emeralds are all you need.",
+    "fileName": "1559699_cloud-shop_cloud shop 1.02.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1559699_cloud-shop.jpg",
+    "downloadUrl": "mods/1559699_cloud-shop_cloud shop 1.02.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Slayer",
+    "description": "In the Cloud Slayer addon, you can manipulate swords and customize them however you want. Not only that, each sword also has its own unique ability.",
+    "fileName": "1546889_cloud-slayer_cloud slayer 1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1546889_cloud-slayer.jpg",
+    "downloadUrl": "mods/1546889_cloud-slayer_cloud slayer 1.1.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Tree Capitator (API)",
+    "description": "Cloud Tree Capitator makes your world free from floating trees. Chop one tree block and the entire tree will fall at once.",
+    "fileName": "1438467_cloud-tree-capitator-api_cloud tree capitator 1.11 bp.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1438467_cloud-tree-capitator-api.jpg",
+    "downloadUrl": "mods/1438467_cloud-tree-capitator-api_cloud tree capitator 1.11 bp.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Vein Capitator (API)",
+    "description": "Vein Capitator allows you to mine ore instantly and break trees instantly.",
+    "fileName": "1464773_cloud-vein-capitator-api_cloud vein capitator 1.22 bp.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1464773_cloud-vein-capitator-api.jpg",
+    "downloadUrl": "mods/1464773_cloud-vein-capitator-api_cloud vein capitator 1.22 bp.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Cloud Vein Ore (API)",
+    "description": "Vein Ore allows you to mine instantly. Breaking one ore will also cause nearby ores to break.",
+    "fileName": "1438481_cloud-vein-ore-api_cloud vein ore 1.10 bp.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1438481_cloud-vein-ore-api.jpg",
+    "downloadUrl": "mods/1438481_cloud-vein-ore-api_cloud vein ore 1.10 bp.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "CobbleDrock 1.1.X — Generations 2 & 3 Update",
+    "description": "Catch, train, battle, and explore with all 386 Pokémon from Generations 1–3, strategic turn-based battles, a custom Pokédex, PC storage, mounts, Gyms, settlements, and more.",
+    "fileName": "1636748_cobbledrock_CobbleDrock-Content-1.1.1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1636748_cobbledrock.jpg",
+    "downloadUrl": "mods/1636748_cobbledrock_CobbleDrock-Content-1.1.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cobblestone Generators",
+    "description": "Adds passive, easy-to-use, and upgradable cobblestone sources to simplify resource gathering.",
+    "fileName": "1086676_cobblestone-generators_Cobblestone Generators v2.2.2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1086676_cobblestone-generators.jpg",
+    "downloadUrl": "mods/1086676_cobblestone-generators_Cobblestone Generators v2.2.2.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Coca Cola Truck",
+    "description": "The original Cola-Cola Christmas Truck advertisement comes from 1995, up to date this ad has literally gone around the world and today it is quite hard to find someone, who doesn’t know about it. So, if you’ve ever dreamed of getting into the vehicle or driving the truck, this is chance for your dream to come true, through Minecraft.",
+    "fileName": "CocaColaTruckAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CocaColaTruckAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CocaColaTruckAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cocoa Beans Expanded",
+    "description": "Turn your coca bean farm into a delicious feast with five new craftable foods that restore hunger! Achievements enabled!",
+    "fileName": "1368661_cocoa-beans-expanded_Cocoa Beans Expanded v1.2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1368661_cocoa-beans-expanded.jpg",
+    "downloadUrl": "mods/1368661_cocoa-beans-expanded_Cocoa Beans Expanded v1.2.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cocoa's Birds",
+    "description": "Adds birds to your world!",
+    "fileName": "1485549_cocoas-birds_Cocoa's_Birds_1.0.0.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1485549_cocoas-birds.jpg",
+    "downloadUrl": "mods/1485549_cocoas-birds_Cocoa's_Birds_1.0.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cocoa's Monsters",
+    "description": "Includes all of the monsters from my add-on MineRe: Survival redone",
+    "fileName": "1215662_cocoas-monsters_Cocoa's_Monsters_1.1.0.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1215662_cocoas-monsters.jpg",
+    "downloadUrl": "mods/1215662_cocoas-monsters_Cocoa's_Monsters_1.1.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "CocoaWarrior's Minecraft Redone",
+    "description": "CocoaWarrior's Minecraft Redone",
+    "fileName": "1099487_minere_MineRe_1.13.1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1099487_minere.jpg",
+    "downloadUrl": "mods/1099487_minere_MineRe_1.13.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "CodeZeiro's Whisperstone",
+    "description": "Change game modes, make yourself God mode without turning on cheats, and disabling achievements.",
+    "fileName": "1380001_codezeiros-whisperstone_CZ_Whisperstone.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1380001_codezeiros-whisperstone.jpg",
+    "downloadUrl": "mods/1380001_codezeiros-whisperstone_CZ_Whisperstone.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Codys titans",
+    "description": "Powerful titans",
+    "fileName": "1534286_codys-titans_codys_titans.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1534286_codys-titans.jpg",
+    "downloadUrl": "mods/1534286_codys-titans_codys_titans.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cogfox's Constructs",
+    "description": "A Minecraft Bedrock addon that adds new mobs that will assist in a variety of automated farming tasks",
+    "fileName": "1419620_cogfoxs-constructs_Cogfox_Cogfox_Farmer.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1419620_cogfoxs-constructs.jpg",
+    "downloadUrl": "mods/1419620_cogfoxs-constructs_Cogfox_Cogfox_Farmer.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Coin & money",
+    "description": "It have 3 types for coins gold , mixed and diamond coin / it have 6 types for money 1- 1$ 2-5$ 3-10$ 4- 50$ 5- 100$ 6- 500$",
+    "fileName": "1349345_coin-money_coins money.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1349345_coin-money.jpg",
+    "downloadUrl": "mods/1349345_coin-money_coins money.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cold Wheels [ Car ] not Hot Wheels",
+    "description": "A Future Where Cars are not Hot Wheels because they are not physical.No Friction , No Fire , No Heat. No lag , optimised for Low end device .Not Limited to just Lamborghini , design could be simple,complex, marvel , dc , anime or futuristic style .",
+    "fileName": "1351036_cold-wheels_Lancia -ColdWheels V-1.1(hotfix).mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1351036_cold-wheels.jpg",
+    "downloadUrl": "mods/1351036_cold-wheels_Lancia -ColdWheels V-1.1(hotfix).mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Coldbar Indicator",
+    "description": "Make your gameplay more immersive by add more bars such as armor toughness, extra overloaded armor, saturation and exhaustion hunger.",
+    "fileName": "1278814_coldbar-indicator_Coldbar Indicator Behavior v2.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1278814_coldbar-indicator.jpg",
+    "downloadUrl": "mods/1278814_coldbar-indicator_Coldbar Indicator Behavior v2.1.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Collect Everything!",
+    "description": "Tracks blocks, entities, biomes, and more!",
+    "fileName": "1557239_collect-everything_collect-everything-bedrock-v1.5.0.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1557239_collect-everything.jpg",
+    "downloadUrl": "mods/1557239_collect-everything_collect-everything-bedrock-v1.5.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Color Blocks",
+    "description": "Let’s add Color Blocks Addon in such a case! This addon can add colorful 4096 colored blocks to the world of Minecraft.\nBlocks\nThe color of the block is indicated on the ID and block name.\nThe block Red,Green,Blue (00 – ff) of for each 16 phases, 4,096 (16x16x16) add a block.\nMap display support\n\nCrafting cobble stones and obsidian can make “#000000 block”.",
+    "fileName": "ColorBlocksAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ColorBlocksAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ColorBlocksAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Color Blocks  1.0.1",
+    "description": "Let’s add Color Blocks Addon in such a case! This addon can add colorful 4096 colored blocks to the world of Minecraft.\n\nChangelog\nThe old version remained and was deleted.\n\nUpward compatibility of the old version is CB_Nomal_v101.mcaddon",
+    "fileName": "ColorBlocksAddon101.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ColorBlocksAddon101.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ColorBlocksAddon101.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colored Ice Blocks",
+    "description": "Adds coloured ice blocks as a new decorative transparent block.",
+    "fileName": "1420571_colored-ice-blocks_ColoredIceBlocksR.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1420571_colored-ice-blocks.jpg",
+    "downloadUrl": "mods/1420571_colored-ice-blocks_ColoredIceBlocksR.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Colored Nametags!",
+    "description": "A simple all-in-one system that lets players change, gradient, save, and reset their Minecraft Bedrock nametags using easy commands and a full list of customizable colors.",
+    "fileName": "1397616_colored-nametags_Nametag Commands!.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1397616_colored-nametags.jpg",
+    "downloadUrl": "mods/1397616_colored-nametags_Nametag Commands!.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colored planks - Dyable and Paintable",
+    "description": "Adds colored building blocks to the game.",
+    "fileName": "1205159_colored-planks_Colored planks V1.0.2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1205159_colored-planks.jpg",
+    "downloadUrl": "mods/1205159_colored-planks_Colored planks V1.0.2.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colorful Armor Bar",
+    "description": "Change the armor bar based on the armor you’re wearing! [Achievement friendly]",
+    "fileName": "1326882_colorful-armor-bar_Colorful Armor Bar v1.2.0.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1326882_colorful-armor-bar.jpg",
+    "downloadUrl": "mods/1326882_colorful-armor-bar_Colorful Armor Bar v1.2.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colorful Blocks",
+    "description": "This addon expands Minecraft’s creative options by adding blocks, slabs, stairs, walls, and fences in all 16 colors. Craft them in Survival mode using the Painting Table and the Stonecutter.",
+    "fileName": "1440495_colorful-blocks-addon-1-2_colorful_blocks_v5.1_lite_1.26.10+.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1440495_colorful-blocks-addon-1-2.jpg",
+    "downloadUrl": "mods/1440495_colorful-blocks-addon-1-2_colorful_blocks_v5.1_lite_1.26.10+.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colorful Bricks!",
+    "description": "Bored with plain red bricks? Not anymore! This mod lets you color them all, just apply the right dye and get creative! This time for... Minecraft Bedrock!",
+    "fileName": "1593189_colorful-bricks_Colorful Bricks!.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1593189_colorful-bricks.jpg",
+    "downloadUrl": "mods/1593189_colorful-bricks_Colorful Bricks!.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colorful Doors",
+    "description": "Colorful Doors adds vanilla-style doors in all 16 in-game colors. This version introduces animated doors",
+    "fileName": "1467327_colorful-doors_ColorfulDoors [1.21.100+].mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1467327_colorful-doors.jpg",
+    "downloadUrl": "mods/1467327_colorful-doors_ColorfulDoors [1.21.100+].mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "COLORFUL SEA LANTERNS ADDON (Vibrant Visuals)",
+    "description": "Adds colorful Sea Lanterns designed for Vibrant Visuals lighting.",
+    "fileName": "1510767_colorful-sea-lanterns-addon-vibrant-visuals_Colorful Sea Lanterns.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1510767_colorful-sea-lanterns-addon-vibrant-visuals.jpg",
+    "downloadUrl": "mods/1510767_colorful-sea-lanterns-addon-vibrant-visuals_Colorful Sea Lanterns.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colorful TNTs [13 colors]",
+    "description": "Change and Choose the Tnts Color in your world just by using this simple resource pack!",
+    "fileName": "1054678_colorful-tnts_Colorful Tnt Resource Pack 2.2.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1054678_colorful-tnts.jpg",
+    "downloadUrl": "mods/1054678_colorful-tnts_Colorful Tnt Resource Pack 2.2.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Colorful Trapdoors",
+    "description": "Colorful Trapdoors allows dyeing all vanilla trapdoors in the 16 vanilla colors using the new crafting table.",
+    "fileName": "1446348_colorful-trapdoors_ColorTrapdoorsV1.0.1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1446348_colorful-trapdoors.jpg",
+    "downloadUrl": "mods/1446348_colorful-trapdoors_ColorTrapdoorsV1.0.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colormatic Grass",
+    "description": "In this addon a hexadecimal color system was used, it is an old system but I have never seen anyone actually use it.\nChangelog\nYou can paint any of your grass blocks according to your dye.",
+    "fileName": "ColormaticGrassAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ColormaticGrassAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ColormaticGrassAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colosseum",
+    "description": "13 custom fighters — 8 wild mobs and 5 craftable bosses — each with unique combat style. Collect their spawners and fragments, summon a real Roman arena, and watch them turn on anyone.",
+    "fileName": "1576130_colosseum_Colosseo_v2.1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1576130_colosseum.jpg",
+    "downloadUrl": "mods/1576130_colosseum_Colosseo_v2.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colosseum Legacy",
+    "description": "10 craftable relics inspired by the fighters of the Colosseum — standalone addon for Minecraft Bedrock.",
+    "fileName": "1591199_colosseum-legacy_ColosseumLegacyAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1591199_colosseum-legacy.jpg",
+    "downloadUrl": "mods/1591199_colosseum-legacy_ColosseumLegacyAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Colourful Containers BE: Script",
+    "description": "Wanting to automate renaming your items for Colourful Containers BE? Introducing Colourful Containers BE: Script, automating all the renaming for you!",
+    "fileName": "1481814_colourful-containers-be-script_CC Script v1.1.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1481814_colourful-containers-be-script.jpg",
+    "downloadUrl": "mods/1481814_colourful-containers-be-script_CC Script v1.1.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Combat Logging Punisher",
+    "description": "Punishes people who leave while in the 15 second combat window. Every time a player leaves while in combat, 1000$ is taken away",
+    "fileName": "1516263_combat-logging-punisher_CLogAddon_v101.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1516263_combat-logging-punisher.jpg",
+    "downloadUrl": "mods/1516263_combat-logging-punisher_CLogAddon_v101.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Combat Logic",
+    "description": "Action combat for Bedrock 1.21.50+: stamina, roll/step dodge, shield parry (3s cooldown), combo ranks with faster regen, top-right HUD + 4-line action log, enemy HP labels, world difficulty ×1/×3/×5. Per-player toggles. English & Japanese.",
+    "fileName": "1563541_combat-logic_Combat Logic-1.5.0.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1563541_combat-logic.jpg",
+    "downloadUrl": "mods/1563541_combat-logic_Combat Logic-1.5.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Combat Vision",
+    "description": "Combat Vision — shows health bars when mobs/players get hit, and auto-equips a Totem of Undying to keep you protected.",
+    "fileName": "1605679_combat-vision_CombatVision.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1605679_combat-vision.jpg",
+    "downloadUrl": "mods/1605679_combat-vision_CombatVision.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "CombatLog",
+    "description": "If you hit someone, you'll be put into combat in 30 seconds! If someone leaves during this time, they'll die the next time they join!",
+    "fileName": "1482179_combatlog_CombatLog.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1482179_combatlog.jpg",
+    "downloadUrl": "mods/1482179_combatlog_CombatLog.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Combine Anything!",
+    "description": "In This Mod You Can Combine Items! After Combining They Gain Super Powers And Become OP!",
+    "fileName": "1511760_combine-anything_Combine_Items.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1511760_combine-anything.jpg",
+    "downloadUrl": "mods/1511760_combine-anything_Combine_Items.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Combine sword",
+    "description": "Combine 4 sword to make it upgrade",
+    "fileName": "1426605_combine-sword_combine sword V2_1780697083270.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1426605_combine-sword.jpg",
+    "downloadUrl": "mods/1426605_combine-sword_combine sword V2_1780697083270.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Combo King - Kill Streak Rewards",
+    "description": "Build massive kill streaks without taking damage! This addon rewards your combat skills with multiplied coins, epic visual titles, and a custom stats menu to track your highest combos.",
+    "fileName": "1613632_combo-king-kill-streak-rewards_RR Combo King.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1613632_combo-king-kill-streak-rewards.jpg",
+    "downloadUrl": "mods/1613632_combo-king-kill-streak-rewards_RR Combo King.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Combo stats hud",
+    "description": "Combo Stats HUD displays real-time Combo, CPS, and Reach while fighting. Clean PvP-focused HUD with accurate combat stats to improve tracking and gameplay performance. by Baku ⚔️🔥",
+    "fileName": "1557359_combo-stats-hud-bakuthebuilder_Combo_Stats_HUD.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1557359_combo-stats-hud-bakuthebuilder.jpg",
+    "downloadUrl": "mods/1557359_combo-stats-hud-bakuthebuilder_Combo_Stats_HUD.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Comes Alive Bedrock Edition",
+    "description": "This brand-new Comes Alive addon for Minecraft PE allows you to meet 8 different women to marry. Each has unique skills to help you on your journey, making survival much easier and more exciting!",
+    "fileName": "1258131_comes-alive-bedrock-edition_Girlfriend_Companions.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1258131_comes-alive-bedrock-edition.jpg",
+    "downloadUrl": "mods/1258131_comes-alive-bedrock-edition_Girlfriend_Companions.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Comforts Addon (Unnoficial)",
+    "description": "Comforts is a mod that adds sleeping bags and hammocks to Minecraft. These items can be used just like beds except they do not set a player's spawn point on use, safely preserving a player's spawn point at their home base",
+    "fileName": "1474190_comforts-addon-unnoficial_Comforts Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1474190_comforts-addon-unnoficial.jpg",
+    "downloadUrl": "mods/1474190_comforts-addon-unnoficial_Comforts Addon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Comicbook Crush",
+    "description": "When you punch an enemy, comic-book speech bubbles will appear on your screen, making you feel powerful like a superhero!",
+    "fileName": "ComicbookCrush.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ComicbookCrush.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ComicbookCrush.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Command & Achievements [Hardcore Compatible]",
+    "description": "Execute commands in Minecraft World without loosing achievements.",
+    "fileName": "1277546_commandandachievements_Command.Achievement-v.7.1.0.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1277546_commandandachievements.jpg",
+    "downloadUrl": "mods/1277546_commandandachievements_Command.Achievement-v.7.1.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "command /sit",
+    "description": "This mod adds the /sit command to the game, allowing players to sit on almost any object.",
+    "fileName": "1518040_command-sit_sit_26.20.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1518040_command-sit.jpg",
+    "downloadUrl": "mods/1518040_command-sit_sit_26.20.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Command Coding Essentials",
+    "description": "This addon adds many missing features to minecraft bedrock that have been missing and greatly expands what people can do with regular commands. This adds things like the glow effect, auto ignite TNT, the ability to apply knockback with commands, and more!",
+    "fileName": "1277148_command-coding-essentials_CommandCodingEssentialsv3.1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1277148_command-coding-essentials.jpg",
+    "downloadUrl": "mods/1277148_command-coding-essentials_CommandCodingEssentialsv3.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "COMMAND CRAFT",
+    "description": "The ultimate all-in-one server utility for Bedrock! Adds economy, homes, warps, kits, moderation, and dynamic floating leaderboards via chat commands.",
+    "fileName": "1482610_command-craft_COMMAND CRAFT.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1482610_command-craft.jpg",
+    "downloadUrl": "mods/1482610_command-craft_COMMAND CRAFT.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Command Remote",
+    "description": "Lets you Save, Edit, and Remove command to run anytime!",
+    "fileName": "1417160_command-remote_Command Remote.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1417160_command-remote.jpg",
+    "downloadUrl": "mods/1417160_command-remote_Command Remote.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Command Utils",
+    "description": "Adds utility commands, and also allows you to create menus with commands. Useful for those who create systems with commands.",
+    "fileName": "1555100_command-utils_CommandUtils.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1555100_command-utils.jpg",
+    "downloadUrl": "mods/1555100_command-utils_CommandUtils.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Commands Menu",
+    "description": "Run any Minecraft command from a clean in-game menu. Saves your last 20 commands for instant re-use — just tap from the history list. No cheats needed. Achievement friendly.",
+    "fileName": "1601129_commands-menu_Commands_Menu.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1601129_commands-menu.jpg",
+    "downloadUrl": "mods/1601129_commands-menu_Commands_Menu.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Commands++",
+    "description": "Add more commands, that help you build, create, edit and test a lot of different things",
+    "fileName": "1316587_dev-commands_Commands++ v14.7 beta.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1316587_dev-commands.jpg",
+    "downloadUrl": "mods/1316587_dev-commands_Commands++ v14.7 beta.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Common Sense Addon 1.7.1 (Achievements Friendly | A&S Compatible)",
+    "description": "Ever feel like Minecraft has some… weird gaps? Items that don’t really do much, or features that just don’t make sense? Well, this addon trys to fixes that",
+    "fileName": "1257289_jf-common-sense_CommonSense 1.7.1 (Trinkets ON).mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1257289_jf-common-sense.jpg",
+    "downloadUrl": "mods/1257289_jf-common-sense_CommonSense 1.7.1 (Trinkets ON).mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Common Sense: Horses V1.4.1",
+    "description": "this addon makes the experience with the game's mounts more pleasant and fun",
+    "fileName": "1306104_common-sense-horses_Common Sense Horses V1.4.1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1306104_common-sense-horses.jpg",
+    "downloadUrl": "mods/1306104_common-sense-horses_Common Sense Horses V1.4.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Compass Radial Screen UI",
+    "description": "This Add-on provides custom on-screen UI, showcasing the direction you're facing, for example, North, East, South West. This can be useful for trying to find your house or farms, just know what direction it is in!!",
+    "fileName": "1391243_compass-radial-screen-ui_Compass Radial Add-on.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1391243_compass-radial-screen-ui.jpg",
+    "downloadUrl": "mods/1391243_compass-radial-screen-ui_Compass Radial Add-on.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Compatibility with A&S 1.1",
+    "description": "Make your addons compatible with Actions and Stuff",
+    "fileName": "1312039_compatibility-with-a-s_AS Compatibility BP.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1312039_compatibility-with-a-s.jpg",
+    "downloadUrl": "mods/1312039_compatibility-with-a-s_AS Compatibility BP.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Complement Deesse UI Export",
+    "description": "IMPORTANT: this is not a official patch for Deesse UI, but can be used for export worlds.",
+    "fileName": "1551166_complement-deesse-ui-export_Export complement Deesse UI_1779521661609.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1551166_complement-deesse-ui-export.jpg",
+    "downloadUrl": "mods/1551166_complement-deesse-ui-export_Export complement Deesse UI_1779521661609.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Complete Capitator – All‑In‑One VeinMiner, TreeCapitator, CropCapitator & ShearCapitator , VeinCapitator",
+    "description": "All‑in‑One Mining & Logging Combines VeinMiner, TreeCapitator, CropCapitator and ShearCapitator in a single pack. Harvest entire ore veins, fell full trees, crop fields and shear wool/leaves with one action.",
+    "fileName": "1285869_complete-capitator-allinone-veinminer_complete_capitators_1.0.3.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1285869_complete-capitator-allinone-veinminer.jpg",
+    "downloadUrl": "mods/1285869_complete-capitator-allinone-veinminer_complete_capitators_1.0.3.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Complex Machines",
+    "description": "Unknown Technology changes your complete play style. You create complex machines and try to be as efficient as possible to create new Materials.",
+    "fileName": "1346103_unknown-technology_ComplexMachines-V1.5.5-RESOURCE.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1346103_unknown-technology.jpg",
+    "downloadUrl": "mods/1346103_unknown-technology_ComplexMachines-V1.5.5-RESOURCE.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Compound V",
+    "description": "Adds Compound V to the game!!!",
+    "fileName": "1544179_compound-v_CompoundV-V16.5.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1544179_compound-v.jpg",
+    "downloadUrl": "mods/1544179_compound-v_CompoundV-V16.5.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Compound-V Add-on {by 77Exotic77}",
+    "description": "This Add-on adds Compound-V Temp-V and V-1 there's up to 23 ability's 20 for the temp and compound 3 for the V1",
+    "fileName": "1537192_compound-v-add-on-by-77exotic77_CompoundV-1.7.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1537192_compound-v-add-on-by-77exotic77.jpg",
+    "downloadUrl": "mods/1537192_compound-v-add-on-by-77exotic77_CompoundV-1.7.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Compressy",
+    "description": "Compressy adds compressed blocks and items for almost everything, letting you store more, craft smarter, and build bigger with fewer resources.",
+    "fileName": "1387104_compressy_Compressy.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1387104_compressy.jpg",
+    "downloadUrl": "mods/1387104_compressy_Compressy.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Connected Blocks",
+    "description": "Remove the borders of individual blocks! This automatically connects the borders of the blocks in your world!",
+    "fileName": "1244240_connected-textures-optifine-ctm_Connected Blocks 2.4.4.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1244240_connected-textures-optifine-ctm.jpg",
+    "downloadUrl": "mods/1244240_connected-textures-optifine-ctm_Connected Blocks 2.4.4.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Connected Glass",
+    "description": "Addon that adds connectable glass to Minecraft Bedrock Edition",
+    "fileName": "1365178_connected-glass-addon_Connected_glass v1.1.7.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1365178_connected-glass-addon.jpg",
+    "downloadUrl": "mods/1365178_connected-glass-addon_Connected_glass v1.1.7.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Connected glass",
+    "description": "Works with every texture pack.",
+    "fileName": "1620218_cb-connected-glass_connected glass.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1620218_cb-connected-glass.jpg",
+    "downloadUrl": "mods/1620218_cb-connected-glass_connected glass.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Connected Glass - Achievement Friendly",
+    "description": "Connected Glass removes the ugly grid lines between glass blocks automatically. No crafting needed — place normal glass and it connects seamlessly. Supports all glass types and panes. Achievement friendly.",
+    "fileName": "1577436_better-connected-glass_Connected_Glass.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1577436_better-connected-glass.jpg",
+    "downloadUrl": "mods/1577436_better-connected-glass_Connected_Glass.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Conquest Structure Addon",
+    "description": "This is Addon Structure Addon for the Terradraconis Series",
+    "fileName": "1348043_conquest-structure-addon_Conquest Structure (Server Support).mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1348043_conquest-structure-addon.jpg",
+    "downloadUrl": "mods/1348043_conquest-structure-addon_Conquest Structure (Server Support).mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Consistant Drops  V0.2",
+    "description": "This makes farms be better. An easier way to judge how many items will a mob drop. And make your survival experience better.\n\nChanges:\nnow looting gives even more drops.\nnow works with cows and chicken.\nFixes:\nnow creepers when killed by a skeleton drop disc as normal.",
+    "fileName": "ConsistantDropsAddonV02.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/ConsistantDropsAddonV02.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/ConsistantDropsAddonV02.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Console Aspects",
+    "description": "A comprehensive Legacy Console parity pack for Minecraft Bedrock.",
+    "fileName": "667850_console-aspects_ConsoleAspects(6.5.0).mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/667850_console-aspects.jpg",
+    "downloadUrl": "mods/667850_console-aspects_ConsoleAspects(6.5.0).mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Construct",
+    "description": "The closest thing Bedrock has ever had to Litematica. Construct an addon that eases the survival building process & helps multiple players build together.",
+    "fileName": "1283139_construct_Construct-v1.2.0.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1283139_construct.jpg",
+    "downloadUrl": "mods/1283139_construct_Construct-v1.2.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Construction Replay | Shoot and record your builds!",
+    "description": "You can shoot and record your builds in Minecraft Bedrock now with addon. You have options to just shoot all of your builds from a third camera perspectives! Best for creators.",
+    "fileName": "1509289_construction-replay_Construction Replay v0.8 beta.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1509289_construction-replay.jpg",
+    "downloadUrl": "mods/1509289_construction-replay_Construction Replay v0.8 beta.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Construction Wan(d)'s",
+    "description": "A powerful building tool: build rapid, smart and with accuracy!",
+    "fileName": "1243038_construction-wands_Wan's Construction Wand1.4.1.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1243038_construction-wands.jpg",
+    "downloadUrl": "mods/1243038_construction-wands_Wan's Construction Wand1.4.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Consumable Apples Expansion",
+    "description": "Add 8 brand new useful Apples to any world! Consume them to get boosts and gameplay advantage.",
+    "fileName": "1117664_consumable-apples-expansion_apple-expansion_v.1.4.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1117664_consumable-apples-expansion.jpg",
+    "downloadUrl": "mods/1117664_consumable-apples-expansion_apple-expansion_v.1.4.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Conveyor belt",
+    "description": "Are you a Redsoner? Do you like technical Minecraft? Then this add-on is for you. It features new conveyor belts to make it easier to move entities around the map.",
+    "fileName": "1574625_conveyor-belt_conveyor belts v2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1574625_conveyor-belt.jpg",
+    "downloadUrl": "mods/1574625_conveyor-belt_conveyor belts v2.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Conveyor tube",
+    "description": "A conveyor tube that allows you and other mobs to quickly travel in any direction",
+    "fileName": "1231588_conveyor-tube_ConveyorTube (1.21.100+).mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1231588_conveyor-tube.jpg",
+    "downloadUrl": "mods/1231588_conveyor-tube_ConveyorTube (1.21.100+).mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cooked Loot",
+    "description": "Mob's drop cooked meat instead of raw meat",
+    "fileName": "1347978_cooked-loot_Cooked_Loot.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1347978_cooked-loot.jpg",
+    "downloadUrl": "mods/1347978_cooked-loot_Cooked_Loot.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "CookingCraftI",
+    "description": "These meals give you potion effects and others are very useful when you are hungry, the materials needed for these meals are very easy to obtain and give you very complex effects\nCrafters are very easy in this addon, in the next updates you will add backwards compatibility with other addons like Furnicraft.",
+    "fileName": "CookingCraftIAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CookingCraftIAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CookingCraftIAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Copper Gold alloy",
+    "description": "Adds copper gold alloy to get better gold tools",
+    "fileName": "1447058_copper-gold-alloy_Rose Gold Alloy 1.1.0 for 1.26.12.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1447058_copper-gold-alloy.jpg",
+    "downloadUrl": "mods/1447058_copper-gold-alloy_Rose Gold Alloy 1.1.0 for 1.26.12.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Copper Horns Reborn",
+    "description": "Copper Horns Reborn readds an item that was planned for the minecraft 1.19 \"The Wild Update\" the Copper Horn, it was essentially an alternative to the goat horn",
+    "fileName": "1168912_copper-horns-reborn-add-on_Copper_Horns_Reborn.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1168912_copper-horns-reborn-add-on.jpg",
+    "downloadUrl": "mods/1168912_copper-horns-reborn-add-on_Copper_Horns_Reborn.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Copper Plus",
+    "description": "Copper is beautiful but wait, can't you make tools or armor? How is this possible? Well, I have a solution for you with this addon.",
+    "fileName": "1034199_copper-plus_Copper Plus [RP] v1.11.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1034199_copper-plus.jpg",
+    "downloadUrl": "mods/1034199_copper-plus_Copper Plus [RP] v1.11.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Copy & Paste",
+    "description": "Copy any dropped item with a stick, then paste unlimited copies exactly where you're looking.",
+    "fileName": "1638912_copy-paste_Copy Paste 1.0.0.mcpack",
+    "extension": ".mcpack",
+    "imageUrl": "mods/1638912_copy-paste.jpg",
+    "downloadUrl": "mods/1638912_copy-paste_Copy Paste 1.0.0.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Copy & Paste Blocks",
+    "description": "Adds tools to copy and paste blocks easily in Minecraft Bedrock",
+    "fileName": "1615203_copy-paste-blocks-addon_copy_paste_blocks.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1615203_copy-paste-blocks-addon.jpg",
+    "downloadUrl": "mods/1615203_copy-paste-blocks-addon_copy_paste_blocks.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "CORDYCEPS ADDON",
+    "description": "INSPIRED IN THE LAST OF US. The world of Minecraft has fallen to the Cordyceps outbreak, and only the strongest will survive among ruins, infected creatures, and an unrelenting post-apocalyptic adventure.",
+    "fileName": "1303013_cordyceps-addon_v13.2.2ccBH.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "mods/1303013_cordyceps-addon.jpg",
+    "downloadUrl": "mods/1303013_cordyceps-addon_v13.2.2ccBH.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Cordyceps: Outbreak",
     "description": "This add-on is a kind of remaster of Cordyceps: Survival, this add-on is based off of The Last Of Us and features all of the different infected types, there are also different structure sets, items, weapons and more!",
     "fileName": "1393294_cordyceps-outbreak_CO.mcaddon",
@@ -52,6 +916,15 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1346180_cosmetic-items-for-minecraft-bedrock.jpg",
     "downloadUrl": "mods/1346180_cosmetic-items-for-minecraft-bedrock_Cosmetic Items v1.4.3.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cosmetic Snowman  (1.14+)",
+    "description": "This add-on adds 30 new variants of faces for the snow golem after shearing it.\nHow it works\nAfter shearing the pumpkin off a snow golem’s head, you’ll immediately find that the face of the snow golem has been replaced by new ones. That’s the purpose of this add-on.\n30 new and different variants are available for the snow golem\nNo other changes have been made to this entity, even though this custom entity. The behvaior still remains the same.\nChangelog\nUpdated the download link, I accidentally linked it to the \"More turrets\" add-on",
+    "fileName": "CosmeticSnowmanAddon114.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CosmeticSnowmanAddon114.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CosmeticSnowmanAddon114.mcaddon"
   },
   {
     "category": "mods",
@@ -631,6 +1504,15 @@
   },
   {
     "category": "mods",
+    "title": "Crash Team Racing  (1.8/1.9)",
+    "description": "The two karts include the Simple CTR Kart and the N. Oxide’s Kart. Use these karts to easier get around in Minecraft, or just for fun for racing around or competing against friends.\n\nHow does it work?\nTo drive one of the karts you will need to open the inventory of a kart and place a gold nugget in the empty inventory/saddle slot. Then sit on the kart and move to start drive around. All karts drop a key when killed, but it has no use for now.",
+    "fileName": "CrashTeamRacingAddon1819.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CrashTeamRacingAddon1819.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CrashTeamRacingAddon1819.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Craters & Stuff",
     "description": "All This Addon Do Is Add Craters And Stuff",
     "fileName": "1394112_craters-stuff_Craters And Stuff hotfix.mcaddon",
@@ -1126,6 +2008,24 @@
   },
   {
     "category": "mods",
+    "title": "CS Fireflies  U",
+    "description": "Fireflies will probably do the trick for you!!  They glow and flash and float about with an enigmatic aesthetic… but then the sun kills them!\nThis addon adds Fire Flies to the nights in Minecraft! All non-frozen biomes will get them and they spawn *just enough* to avoid being overdone!",
+    "fileName": "CSFirefliesAddonU.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CSFirefliesAddonU.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CSFirefliesAddonU.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "CS Fireflies V1.3",
+    "description": "Fireflies will probably do the trick for you!!  They glow and flash and float about with an enigmatic aesthetic… but then the sun kills them!\nThis addon adds Fire Flies to the nights in Minecraft! All non-frozen biomes will get them and they spawn *just enough* to avoid being overdone!\n\nChangelog\n- Fixed the download!\n- Adjusted the texture and speed for fireflies.\n- Fireflies will now sometimes drop glowstone dust upon death.",
+    "fileName": "CSFirefliesV13.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CSFirefliesV13.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CSFirefliesV13.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "CS-CARRY SYSTEM",
     "description": "CARRY SYSTEM is a Minecraft Bedrock addon that lets you carry animals, friendly mobs, players, and blocks. Perfect for Survival, Multiplayer, SMP, and Roleplay!",
     "fileName": "1620393_cs-carry-system_CS-CarrySystem v2.2.mcaddon",
@@ -1135,12 +2035,30 @@
   },
   {
     "category": "mods",
+    "title": "Cthulhu",
+    "description": "Cthulhu is an ancient creature who is thought to live in the sea, maybe neighboring Godzilla. Its a giant monster which looks similar to an octopus except that its obviously much bigger and also have wings and hands. Its been said for a long time that he would return and cause worldwide madness.. and that day is today! Its basically a boss addon which adds a new creature in-game.\n\nIt might be hard to see but Cthulhu is actually extremely huge in Minecraft. Hes most likely going to be one of the largest bosses youll fight in Minecraft.\n\nEven though they replace ghasts there is a 10% spawn chance that a squid will spawn as Cthulhu. This means that you can find him both in the Overworld and in the Nether.\nCthulhu is hostile towards players. Its primary attack is its ability to shoot blindness projectiles. These causes damage as well as a blindness effect for two seconds.\nIf you kill one then it will drop anywhere between 32 : 64 ink sacs.\n\nGeneral Cthulhu Features\n\nCthulhu replaces ghasts\nShoots ink at targets (shulker projectiles), causes 2 seconds of blindness\nHealth: 375 hearts\nDrops 32 : 64 ink sacs\nSquids have a 10% chance to become a Cthulhu when spawning",
+    "fileName": "Cthulhu.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/Cthulhu.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/Cthulhu.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "cuarentine parasites",
     "description": "pandemic, COVID-19, lethal virus), this add-on has a lot of essence",
     "fileName": "1547479_cuarentine-parasites_cuarentine parasites [B]+[R] [0.1.0.9].mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1547479_cuarentine-parasites.jpg",
     "downloadUrl": "mods/1547479_cuarentine-parasites_cuarentine parasites [B]+[R] [0.1.0.9].mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cubes Of Magic",
+    "description": "Then this add-on is for you!. This add-on adds 3 new companions for you!. They are called Cubes of Magic!.\nYou can find the spawners of the Cubes of Magic in the chest of Desert Pyramid and Jungle Pyramid. low chance.\nOr just use  the command /function cube in creative way",
+    "fileName": "CubesOfMagicAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CubesOfMagicAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CubesOfMagicAddon.mcaddon"
   },
   {
     "category": "mods",
@@ -1288,6 +2206,15 @@
   },
   {
     "category": "mods",
+    "title": "Custom Death Entities 1.0.8",
+    "description": "This addon adds new animations when the Animals, Mobs or Monsters killed by player.\nThis addon make the death animation when you kill all Animals, Mobs or Monster looks funny.\n\nChangelog\nAdd Animal Death Bodies\nRemove Blood from Animals when died",
+    "fileName": "CustomDeathEntities108.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CustomDeathEntities108.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CustomDeathEntities108.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Custom Dev Commands",
     "description": "This Project adds custom commands that make testing and developing addons easier",
     "fileName": "1354500_custom-dev-commands_custom dev commands.mcaddon",
@@ -1375,6 +2302,15 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1597503_custom-nextbot.jpg",
     "downloadUrl": "mods/1597503_custom-nextbot_Nextbot.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Custom NPC",
+    "description": "This is addon lets you add NPC (non-player characters) to your worlds. Maybe you want to add mobs to your worlds but dont want them to ever get hurt or move around. It could be useful if you are creating a storyline for a map and need NPCs for it.\n\nHow does it work in-game?\nThe NPC (non-player characters) replaces the villagers. They can be spawned by using the villager spawn and and are useful if you are creating an adventure map (or basically anywhere else) and you want to add an invincible mob which can act as part of a story.\n\nThe only customization which you can add to it in-game is its name tag. For that you will need a name tag item and an anvil block.\nIts immune to fire, lava, TNT, attack damage, void and commands. Once an NPC has been spawned there is no way to remove it. At the same time this can be useful it also means that you have to be careful on deciding where to place them.\n\nOther\nRemove a villager with a nether star\n5 different NPCs\nChangelog\n\nRemove with nether star\n5 NPCs\nName tags for naming\nInvincible",
+    "fileName": "CustomNPC.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CustomNPC.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CustomNPC.mcaddon"
   },
   {
     "category": "mods",
@@ -1513,6 +2449,15 @@
   },
   {
     "category": "mods",
+    "title": "Cute Baby Yoda",
+    "description": "The addon features a cute model type and new behaviors. Baby Yoda can even use magic to transform bowls into suspicious stew!\nBaby Yodas can be tamed with mushroom stew. However, they will only follow you around if you leash it. (Baby Yodas like to be left in their natural environment(s)!)\nChangelog\nJust moved the video/trailer up to the description instead of having it in the downloads section all the way at the bottom of the page.",
+    "fileName": "CuteBabyYodaAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CuteBabyYodaAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CuteBabyYodaAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Cute Mob Models",
     "description": "This add-on changes every mob models into cute anime mobs!",
     "fileName": "1307691_cute-mob-models_CuteMobModels-v1.0.21.mcaddon",
@@ -1528,6 +2473,24 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1313810_plushies-bedrock-unofficial.jpg",
     "downloadUrl": "mods/1313810_plushies-bedrock-unofficial_Cute Plushies V5.0.0-1.26.0+.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cuter Vanilla Sheep *Survival Friendly!*",
+    "description": "You might enjoy my resource pack! This resource pack adds a new model and texture for the sheep – which will function as normal in both survival and creative.\nChangelog:\n\nUpdated the sheep's texture at the suggestion of the community giving the sheep an even cuter face! (Gave the eyes a more \"normal\" spacing and added the tan face back in.)\n- Made it so the babies look like a smaller version of the parents instead of a smaller version with a giant head (head will no longer be bigger as a baby)\n- Feel free to leave a comment with any suggestions you think will improve this pack! I always take community suggestions into consideration.",
+    "fileName": "CuterVanillaSheepSurvivalFriendly.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CuterVanillaSheepSurvivalFriendly.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CuterVanillaSheepSurvivalFriendly.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cyan Spawn FM",
+    "description": "This addon will add new mobs, new items, new weapons and much more, yet it is still in the works phase and this is a first version(first alpha) \nMany things are still not entirely complete\nOf course, this remake are not official, but is it a “fan remake”, all the credit goes to the original creator, TheyCallMeDanger\n\nChangelog\nFixed some problems relative to the pack, Cyan Spawn N",
+    "fileName": "CyanSpawnFMAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CyanSpawnFMAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CyanSpawnFMAddon.mcaddon"
   },
   {
     "category": "mods",
@@ -1573,6 +2536,15 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1277834_xk-engine.jpg",
     "downloadUrl": "mods/1277834_xk-engine_(fix)CYBOX ONE_v3_XK_PB1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Cybox Q12S",
+    "description": "Show off your personality with a dyed motorcycle!\nThe addon was made by iMasterProX.\n• You can spawn a car with creative mode.\n• Also, You can riding that when you start. (See How to use… video)\n• Equip the key(saddle) in the car\n• Car Inventory available when you put the chest on.\n• Car has a alaways-on headlight when you start up.\n•  Support Car turn animations.\n• You can dye it with any dye!",
+    "fileName": "CyboxQ12SAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/CyboxQ12SAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/CyboxQ12SAddon.mcaddon"
   },
   {
     "category": "mods",
@@ -1630,12 +2602,39 @@
   },
   {
     "category": "mods",
+    "title": "Daewoo Tosca",
+    "description": "The resource pack was made by iMasterProX and the behavior pack was done by BetaSexy",
+    "fileName": "DaewooToscaAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DaewooToscaAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DaewooToscaAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Daewoo Tosca  1.2.0",
+    "description": "Download this add-on today to add a brand-new car to Minecraft!\nThe addon was made by iMasterProX. ( BehaSupport by BetaSexy )\n\nChangelog\n1.2.0 A more realistic car driving experience.\n1.1.1 Sounds bug fix.\n1.1.0 Add new colors, sounds, features, animations and more?\n1.0.0 First Release.",
+    "fileName": "DaewooToscaAddon120.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DaewooToscaAddon120.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DaewooToscaAddon120.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Daewoo Tosca 08-10 Vehicle with XK Engine",
     "description": "Experience the last breath of Daewoo Motor Company in this iconic midsize car.",
     "fileName": "1277866_gm-daewoo-tosca-2010_Daewoo_Tosca_v3.0.0.mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1277866_gm-daewoo-tosca-2010.jpg",
     "downloadUrl": "mods/1277866_gm-daewoo-tosca-2010_Daewoo_Tosca_v3.0.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Daewoo Tosca V1.2.4",
+    "description": "Download this add-on today to add a brand-new car to Minecraft now!\nThe addon was made by iMasterProX.\nChangelogView more\n1.2.4 Bug fix and Video link this post.\n1.2.2 Bug fix, 'Speed' Butten removed, Support for 1,15 Beta\n1.2.1 Bug fix for Traffic left model.\n1.2.0 A more realistic car driving experience.\n1.1.1 Sounds bug fix.\n1.1.0 Add new colors, sounds, features, animations and more?\n1.0.0 First realesed.",
+    "fileName": "DaewooToscaV124.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DaewooToscaV124.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DaewooToscaV124.mcaddon"
   },
   {
     "category": "mods",
@@ -1846,6 +2845,15 @@
   },
   {
     "category": "mods",
+    "title": "DarkGlade03’s Furniture",
+    "description": "Some of the furniture already have some behaviors. For example, you can sit on the chairs and use the trashcan for getting rid of items. However, more features will be added in the future. It’s great if you’re looking for new ways to decorate your home!\nChangelog\n\nChanged name for dyes (Bedside Table, Blue Stool, Red Stool, Oak Table, Oak Chair, Bird Bath, Trash Can)",
+    "fileName": "DarkGlade03sFurnitureAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DarkGlade03sFurnitureAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DarkGlade03sFurnitureAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Darkness's Debug Screen",
     "description": "Bring the iconic Java Edition debug screen experience straight to Minecraft Bedrock",
     "fileName": "1634296_darknesss-debug-screen_Darkness's Debug Screen.mcaddon",
@@ -1927,12 +2935,30 @@
   },
   {
     "category": "mods",
+    "title": "DayZ V2",
+    "description": "This addon takes some of the apocalyptic elements in DayZ which is a popular survival game for PC and brings them to Minecraft. Experience Minecraft in a post-apocalyptic styled world with more zombies and modern weapons to fight them. If you enjoy survival mode then take it to the next level with this zombie survival addon!\n\nSome of the mobs have been changed into zombies and other types of creatures which exist in the DayZ game.\n\nInfected (zombies, zombie pigmen, husks) are hostile zombies which roam the world both day and night. The Infected are both strong and fast and this makes them the most serious threat in the Overworld.\n\nSurvivors (villagers) inhabit small settlements (villages) and they are always available for trading. No one is safe anymore. The Survivors are also under constant threat by the Infected.\n\nBandits (strays, wither skeletons and skeletons) are humans who have gone hostile just to be able to survive. The Bandits are best to be avoided since they are usually equipped with an assault rifle and will shoot players on sight. Some of them have just a melee weapon though.\n\nStray Dogs (wolves) are lonely dogs who have lost their owners some time during the apocalypse. Their behavior is neutral. You can tame them with Dog Food.\n\nChangelog\nv2:\nFixed text files for the resource pack so that the names for items are correct. Example: Snowball = Throwing Knife and so on\n\nAdded Homemade Molotovs (explosive and causes fire)\n\nFixed bugs with the wolf skin\n\nAdded Dog Food which can be used to tame stray dogs (wolves). Dropped by bandits and the infected\n\nAdded Canned Food which is dropped and can also be traded. The recipe is the same as for Mushroom Stew\n\nVillagers are known as the Survivors. Survivors carry all kinds of different items which they trade. Some trade mags (arrows) and others sell armor and so on",
+    "fileName": "DayZV2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DayZV2.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DayZV2.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Dc flashpoint module",
     "description": "Based on a cartoon justice league flashpoint paradox",
     "fileName": "1611080_dc-flashpoint-module_DC-Flashpoint_0_37.mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1611080_dc-flashpoint-module.jpg",
     "downloadUrl": "mods/1611080_dc-flashpoint-module_DC-Flashpoint_0_37.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "DC Heroes",
+    "description": "Supergirl\nArrow\nGreen Lantern\nFlash\nShazam",
+    "fileName": "DCHeroesAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DCHeroesAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DCHeroesAddon.mcaddon"
   },
   {
     "category": "mods",
@@ -1960,6 +2986,24 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1309522_dead-by-daylight-add-on.jpg",
     "downloadUrl": "mods/1309522_dead-by-daylight-add-on_Dead By Daylight.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dead Outside",
+    "description": "Add new Weapons and Entities like Zombies, Mutant Bosses, Survivors..\nAll Mobs & Monsters replaced with zombies. Inspired from Resident Evil, The walking Dead & Left4Dead!\nThis addon will makes you feel like living in apocalypse situation.\nBy changing all mobs and monsters with zombies and collecting default mobs & monsters loot items from killing zombies.",
+    "fileName": "DeadOutside.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DeadOutside.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DeadOutside.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dead Outside 1.0.3",
+    "description": "All Mobs & Monsters replaced with zombies. Inspired from Resident Evil, The walking Dead & Left4Dead!\nThis addon will makes you feel like living in apocalypse situation.\n\nBy changing all mobs and monsters with zombies and collecting default mobs & monsters loot items from killing zombies.\nChangelog\n2 Guns/Firearm added to the game\nCivillian spawn rate increased\nSavior's Gang Member spawn rate increased\nSoldier 2 Entities Deleted\nSoldier and Civillian will following you when you holding foods in your hand",
+    "fileName": "DeadOutside103Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DeadOutside103Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DeadOutside103Addon.mcaddon"
   },
   {
     "category": "mods",
@@ -2014,6 +3058,24 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1506127_death-corpse-coords.jpg",
     "downloadUrl": "mods/1506127_death-corpse-coords_Death Corpse Coords v1.6.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Death Counter  0.9.3",
+    "description": "Wether if you only play survival alone or if you do challenges with your friends. In either way, a death counter is very useful. Unfortunately, there is no scoreboard command for this like in the Java version of Minecraft. That’s is why I programmed this Add-on to help you out.\n\nChangelog\nfor some reason I can only edit the display text for the files after saving everthing, so I only changed the display text",
+    "fileName": "DeathCounterAddon093.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DeathCounterAddon093.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DeathCounterAddon093.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Death Counter  v.0.9.2",
+    "description": "Wether if you only play survival alone or if you do challenges with your friends. In either way, a death counter is very useful. Unfortunately, there is no scoreboard command for this like in the Java version of Minecraft. That’s is why I programmed this Add-on to help you out.",
+    "fileName": "DeathCounterAddonv092.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DeathCounterAddonv092.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DeathCounterAddonv092.mcaddon"
   },
   {
     "category": "mods",
@@ -2242,6 +3304,15 @@
   },
   {
     "category": "mods",
+    "title": "Deer Concept",
+    "description": "In this addon, the deer are sweet, untamed animals that can be found in savannas and extreme hills, currently they drop leather and meat, but I plan to change that in the next updates.\n\nChangelog\nSpeed adjustments\nBug when walking fixed\nDescription adjustments\nBug in texture fixed",
+    "fileName": "DeerConceptAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DeerConceptAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DeerConceptAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Defence",
     "description": "Defense adds fully autonomous defense turrets to Minecraft Bedrock. Build powerful base defenses and protect yourself from hostile mobs and other players.",
     "fileName": "1611623_defence_Defence.mcaddon",
@@ -2275,6 +3346,24 @@
     "extension": ".mcpack",
     "imageUrl": "mods/993238_definitive-tree-capitator-addon.jpg",
     "downloadUrl": "mods/993238_definitive-tree-capitator-addon_Def Tree Capitator BH V4.0.0.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Delorean",
+    "description": "With this Addon you can have delorean in its normal version and its time machine version and now you can drive it in your Minecraft worlds",
+    "fileName": "DeloreanAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DeloreanAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DeloreanAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Delorean DMC 12",
+    "description": "Very detailed model, high resolution textures, glowing details and very high speed. What more do you want?",
+    "fileName": "DeloreanDMC12Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DeloreanDMC12Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DeloreanDMC12Addon.mcaddon"
   },
   {
     "category": "mods",
@@ -2377,6 +3466,15 @@
   },
   {
     "category": "mods",
+    "title": "Detailed Player Animations",
+    "description": "Running, walking & jumping now look more detailed, and the animations work for all player models & skins, multiplayer is supported!\n\nKey Features: \nCompatible with multiplayer\n5 animations: walking, sprinting, jumping, sneaky dance, crazy sprint (activated by running without jumping for 10 seconds), fishing\nWorks with all player models & skins",
+    "fileName": "DetailedPlayerAnimations.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DetailedPlayerAnimations.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DetailedPlayerAnimations.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Detailed Pokedrock (add-on for SERP Pokédrock) || V0.0.71 || Quality of life",
     "description": "A complementary add-on for SERP Pokedrock that adds various details.",
     "fileName": "1473391_detailed-pokedrock_DetailedPokedrock V0.0.71.mcaddon",
@@ -2395,12 +3493,30 @@
   },
   {
     "category": "mods",
+    "title": "DevD Lucky Block",
+    "description": "The drops from these lucky blocks range from valuable items, hordes of mobs, super enchanted items, and deadly structures, just to name a few. Moreover, I plan to continue adding drops, both from the original PC Mod and original ones.\n\nChangelog\nUpdated featured Image to include in-game content\nChecked over links",
+    "fileName": "DevDLuckyBlock.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DevDLuckyBlock.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DevDLuckyBlock.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Devil (Diablo)",
     "description": "Devil (Diablo) is a character from the Slime anime, but in this addon, Diablo is simply a devil who enjoys having fun and hunting players :)",
     "fileName": "1547821_devil-diablo_devil 1.2 BP.mcpack",
     "extension": ".mcpack",
     "imageUrl": "mods/1547821_devil-diablo.jpg",
     "downloadUrl": "mods/1547821_devil-diablo_devil 1.2 BP.mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Dewback",
+    "description": "You can tame these bois and stick a saddle on them so you can ride off into the sunset.\nDewbacks were thick-skinned reptiles native to the desert planet of Tatooine, where they were used as beasts of burden, as well as mounts for specialized sandtroopers known as Dewback troopers.",
+    "fileName": "DewbackAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DewbackAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DewbackAddon.mcaddon"
   },
   {
     "category": "mods",
@@ -2557,6 +3673,24 @@
   },
   {
     "category": "mods",
+    "title": "Dirt Bikes",
+    "description": "This addon implements dirt bikes in Minecraft Pocket Edition. The model for the bike looks very realistic and it exists as 10 different colors. The dirt bike is quite fast and works great on rough terrains. Its really a neat upgrade from riding on horses (and occasionally pigs) which I truly recommend trying out.\n\nHow does it work?\nThere are two ways to find a bike. Either find one spawning naturally in your world or use either a spider or a cave spider spawn egg to get one. There are five different resource packs which you can download and each one contains the colors for two separate bikes.\n\nRiding a bike is very easy. Just sit down on the bike and hold a key (also known as a carrot on a stick) in your hand to start driving.\n\niOS / Android: Long press on the bike and press Drive. Equip a key (carrot on a stick) to start driving.\nWindows 10: Right-click on the bike to ride it and then hold a key (carrot on a stick) to drive it.\nThe chainmail armor is replaced by a Red Bull motorcycle suit.\nThe headlight on the dirt bike will shine when its night.",
+    "fileName": "DirtBikes.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DirtBikes.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DirtBikes.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dirt Bikes V2",
+    "description": "This addon implements dirt bikes in Minecraft Pocket Edition. The model for the bike looks very realistic and it exists as 10 different colors. \n\nThe dirt bike is quite fast and works great on rough terrains.\n\nIts really a neat upgrade from riding on horses (and occasionally pigs) which I truly recommend trying out.\n\nBikes: replaces spider or a cave spider and hold a key (also known as a carrot on a stick) in your hand to start driving.",
+    "fileName": "DirtBikesV2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DirtBikesV2.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DirtBikesV2.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Dirt Is Super OP!",
     "description": "Dirt Drops OP Items is an Achievement Friendly addon where breaking Dirt or Grass Blocks drops random Minecraft loot, including OP gear, enchanted items, rare resources, survival supplies, and hundreds of exciting rewards.",
     "fileName": "1638780_dirt-is-super-op_Dirt Drops OP Items.mcaddon",
@@ -2572,6 +3706,15 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1231743_disastrous-dunes-desert-update-add-on.jpg",
     "downloadUrl": "mods/1231743_disastrous-dunes-desert-update-add-on_Disastrous_Dunes_v2.1_Hotfix_1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Disc Jockey TT",
+    "description": "Are you feel sleepy when you heard the musics in minecraft?\nLet me help you with this addon!! Introducing, “Disc Jockey addon”..\nDisc 1 : Iron Ingot + Red Dye\nDisc 2 : Iron Ingot + Green Dye\nDisc 3 : Iron Ingot + Cocoa Beans\nDisc 4 : Iron Ingot + Lapis Lazuli\nDisc 5 : Iron Ingot + Purple Dye\nDisc 6 : Iron Ingot + Cyan Dye\nDisc 7 : Iron Ingot + Light Gray Dye\nDisc 8 : Iron Ingot + Gray Dye\nDisc 9: Iron Ingot + Pink Dye\n\n/function p",
+    "fileName": "DiscJockeyTTAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DiscJockeyTTAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DiscJockeyTTAddon.mcaddon"
   },
   {
     "category": "mods",
@@ -2755,12 +3898,30 @@
   },
   {
     "category": "mods",
+    "title": "Dogs  1.2.0",
+    "description": "They are extremely cute and now you can have dogs in your world of Minecraft. For example, you can keep them like your pets!\nChangelog\nthree new dog breeds such as dobermans, pugs and husky were added",
+    "fileName": "DogsAddon120.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DogsAddon120.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DogsAddon120.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Dogs Plus Addon",
     "description": "Dogs Plus: Reimagined! Adds several new dog breeds with new functions, behaviors, and fun interactions to your Minecraft World! Plus new related items and blocks!",
     "fileName": "1348590_dogs-plus_DogsPlus-Reimagined v1.0.0.mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1348590_dogs-plus.jpg",
     "downloadUrl": "mods/1348590_dogs-plus_DogsPlus-Reimagined v1.0.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dogs V1.1.1",
+    "description": "They are extremely cute and now you can have dogs in your world of Minecraft. For example, you can keep them like your pets!\nThis addon adds dogs to minecraft and is available in 3 colors such as white, brown and black\n\nChangelog\ntwo new dog breeds such as the dachshund and the German shepherd were added",
+    "fileName": "DogsV111Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DogsV111Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DogsV111Addon.mcaddon"
   },
   {
     "category": "mods",
@@ -2773,12 +3934,30 @@
   },
   {
     "category": "mods",
+    "title": "Dolphins Plus Beta",
+    "description": "Here you can see the only mob in the addon the orcinus orca type A they spawn in pods of 8 to 10 animals. right know there really not meant to do much as this is the beta version and not the actual release. yes the animations are broken and i promise they will get better. They are small right now when the addon gets updated we will have many suprises in store",
+    "fileName": "DolphinsPlusBeta.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DolphinsPlusBeta.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DolphinsPlusBeta.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "DomeDrip",
     "description": "A head cosmetic addon for Minecraft Bedrock Edition.",
     "fileName": "1491546_domedrip_DomeDrip v0.2 (Add-On).mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1491546_domedrip.jpg",
     "downloadUrl": "mods/1491546_domedrip_DomeDrip v0.2 (Add-On).mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "DomesticPets",
+    "description": "The add-on still has work features, so use experimental gameplay to have a better experience!\n\nYou can also find new items to tame animals!",
+    "fileName": "DomesticPets.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DomesticPets.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DomesticPets.mcaddon"
   },
   {
     "category": "mods",
@@ -3007,6 +4186,15 @@
   },
   {
     "category": "mods",
+    "title": "Dragon Ball Heroes",
+    "description": "This addon brings the game's characters and items to the Minecraft world.",
+    "fileName": "DragonBallHeroesAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonBallHeroesAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonBallHeroesAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Dragon Ball Spark",
     "description": "Get ready to experience Dragon Ball in Minecraft Bedrock! New transformations, outfits, Scouters, Flying Nimbus, Power Pole, unique races, a training system, character progression, and a redesigned interface. More content is coming soon!",
     "fileName": "1416650_dragon-ball-spark_dragon ball Spark.mcaddon",
@@ -3022,6 +4210,51 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1402525_dragon-block-c-ultimate.jpg",
     "downloadUrl": "mods/1402525_dragon-block-c-ultimate_Dragon Block C Ultimatev V1.1.0.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Block Frieza",
+    "description": "Frieza is one of the mysterious races in the Dragon Ball manga series. Most members of the race are incredibly strong and they are also believed to possess an abnormal level of cruelty. And thats probably why they are sometimes referred to as the Frost Demons. This addon brings some of those characters to Minecraft Pocket Edition.\n\nFive of the mobs in-game have been replaced by ones which originate from the Frieza race in the Dragon Ball manga series. All of them are very strong and can be found roaming around the world both day and night. Ill admit already that I dont know much about the Dragon Ball manga series so please excuse (and correct) any errors I make!",
+    "fileName": "DragonBlockFrieza.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonBlockFrieza.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonBlockFrieza.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Block HD",
+    "description": "The Main advantage of this addon is that Dragon Ball costumes are made with HD quality,",
+    "fileName": "DragonBlockHDAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonBlockHDAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonBlockHDAddon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Block Super V8",
+    "description": "This is an addon which aims to bring the Dragon Ball Super Universe to Minecraft PE\nThis add-on brings some characters and items from Dragon Ball Super To the Minecraft PE.",
+    "fileName": "DragonBlockSuperV8.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonBlockSuperV8.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonBlockSuperV8.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Block Xenoverse V6",
+    "description": "For more information, check out the YouTube video below.",
+    "fileName": "DragonBlockXenoverseV6Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonBlockXenoverseV6Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonBlockXenoverseV6Addon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Craft Z V3",
+    "description": "This is an addon which aims to bring the Dragon Ball Z Universe to Minecraft Pocket Edition. It includes new mobs such as Saibamen, Namekians and Saiyans. There are also a new range of attacks (items) which can be used to battle the new mobs. Right now its limited to just new mobs and items but hopefully it could include something a bit more complex in the future as the features for addons evolve.\n\nChangelog\nAdded Blacks clothing\nAdded Blacks Ki Blade\nReplaced names for items, mobs,\nTrade with villagers for some of the Ki Attacks\nBug fixes",
+    "fileName": "DragonCraftZV3.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonCraftZV3.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonCraftZV3.mcaddon"
   },
   {
     "category": "mods",
@@ -3052,12 +4285,48 @@
   },
   {
     "category": "mods",
+    "title": "Dragon MorphR",
+    "description": "Experience Minecraft as the one and only Ender Dragon – definitely something else than playing as Steve or Alex\n\nHow to Morph: First you need the armor stand and rename them to “Dragon”, after you will be see your self you turned into ender dragon.\nAfter morphing you will be get in your hotbar splash potion, throw them to fly.\nChats “/function remove” to remove the Morph",
+    "fileName": "DragonMorphRAddon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonMorphRAddon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonMorphRAddon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Dragon Mounts",
     "description": "An add-on that adds 8 ridable dragons into your worlds. The true reward after beating the Ender Dragon!",
     "fileName": "1218736_dragon-mounts_DragonMounts-v1.2.1.mcaddon",
     "extension": ".mcaddon",
     "imageUrl": "mods/1218736_dragon-mounts.jpg",
     "downloadUrl": "mods/1218736_dragon-mounts_DragonMounts-v1.2.1.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Mounts",
+    "description": "By installing this add-on you will be able to tame dragons, use them as flying mounts or get them to help you to take down your enemy. They are very strong creatures and even though they can be absolutely terrifying, they are also be loyal and helpful if you manage to tame one of them.\nEach different dragon drop their own unique Dragon Ingot (Ice, Fire, Forest, Water and Ender). The Dragon Ingots can be used for fertilizing a Dragon Egg. You can get a Dragon Egg from a Dragon Keeper which is one of the new villagers you will find in villages.\nIt takes a total amount of 8 minutes for a fertilized egg to hatch. Around the 6 minute mark you will notice that the egg starts cracking and it’s getting ready for hatching.\nYou can use any type of raw or cooked meat to tame or feed (also known as heal) the dragon.\nA stage 3 (max) dragon is the only stage that will allow you to ride it. Same goes for allowing it to protect you against hostile mobs.",
+    "fileName": "DragonMountsAddonBeta.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonMountsAddonBeta.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonMountsAddonBeta.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Mounts  4-05",
+    "description": "Dragon Mounts adds 17 new dragons, lots of new armor, and many new swords! Now you can have more fun in Minecraft!\n\nChangelog\nRemodeled the dragons, retexture them too. Also added armor for dragons. Animation were also updated. Made them much smoother.",
+    "fileName": "DragonMountsAddon405.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonMountsAddon405.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonMountsAddon405.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Mounts  S2",
+    "description": "Dragon Mounts adds 4 new dragons, 3 new armor, and 3 new swords! Now you can have more fun in Minecraft!\nChangelog\nAdded the undead mobs (zombie, wither, skeleton dragons) Also i updated the fly function now works",
+    "fileName": "DragonMountsAddonS2.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonMountsAddonS2.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonMountsAddonS2.mcaddon"
   },
   {
     "category": "mods",
@@ -3076,6 +4345,33 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1637907_dragon-mounts-2-endition.jpg",
     "downloadUrl": "mods/1637907_dragon-mounts-2-endition_DM2 ENDITION.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Mounts Ad-on 1.8",
+    "description": "Dragon Mounts adds 4 new dragons, 3 new armor, and 3 new swords! Now you can have more fun in Minecraft!\n\nChangelog\nAdded the new fly function that was requested!!! \n\nHope you enjoy!",
+    "fileName": "DragonMountsAdon18.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonMountsAdon18.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonMountsAdon18.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Mounts E12",
+    "description": "Dragon Mounts adds 4 new dragons, 3 new armor, and 3 new swords! Now you can have more fun in Minecraft!\n\nChangelog\nAdded the lightning dragon and the new water dragon, Added what not to do with my addon.",
+    "fileName": "DragonMountsE12Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonMountsE12Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonMountsE12Addon.mcaddon"
+  },
+  {
+    "category": "mods",
+    "title": "Dragon Mounts U2",
+    "description": "Dragon Mounts adds 4 new dragons, 3 new armor, and 3 new swords! Now you can have more fun in Minecraft!\n\nChangelog\nUpdated fly function!!!! Thanks Dex and Dad for letting me use it!!",
+    "fileName": "DragonMountsU2Addon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DragonMountsU2Addon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DragonMountsU2Addon.mcaddon"
   },
   {
     "category": "mods",
@@ -3115,6 +4411,15 @@
   },
   {
     "category": "mods",
+    "title": "Driveable Dragon (0.17.0 Only!)",
+    "description": "The ender dragon is being added as one of the new features in 0.17.0 of Minecraft Pocket Edition. This is an addon which makes it possible to ride and control the ender dragon. Even though the driving functionalities are quite buggy at the moment its still entirely possible to ride and to some degree control it.\n\nHow to control the dragon?\nFirst off you need to find the ender dragon. Either you can go to the End (click for video tutorial) or you can spawn a dragon by using the following text command:\n/summon dragon ~ ~ ~\n\nTo control the dragon you will need two items. Keep in mind that this addon is still in its early stages of development. In other words, it is not perfect. For example, the seating position looks awkward and its quite difficult to control it. It does work, but it is not perfectly accurate.\n\nDiamond Sword: You can use the diamond sword to control in which direction you want the dragon to go. Its not 100% accurate so you will need to shift to a different item or an empty slot sometimes. This will stop the dragon from going all crazy.\n\nDiamond: The diamond can be used for increasing the speed. Its probably not going to be very necessary seeing as its already very fast.\n\nWhat's new?\n---------------------------\nEnder Dragon (0.17.0): Mountable Ender Dragon\n---------------------------",
+    "fileName": "DriveableDragon.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DriveableDragon.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DriveableDragon.mcaddon"
+  },
+  {
+    "category": "mods",
     "title": "Drone v2.7, TNT drones",
     "description": "A drone with viewable camera and a controller, explore the world or move blocks and containers using the drone!",
     "fileName": "1160547_drone_DroneV2.7.mcaddon",
@@ -3130,6 +4435,15 @@
     "extension": ".mcpack",
     "imageUrl": "mods/1392299_drop-multiplier.jpg",
     "downloadUrl": "mods/1392299_drop-multiplier_[V1.1] Drop Multiplier (Ore Only).mcpack"
+  },
+  {
+    "category": "mods",
+    "title": "Dropped Blocks are Placed",
+    "description": "But it’s not just for blocks, spawn eggs, and specific other items are also placed with thrown on the ground. \nWhen a item is dropped on the ground it is placed after a short period of time, Dropped spawn eggs summon the mob, and specific items, like water/lava buckets are placed. Items that have been renamed will not work. You can enable/disable certain features with /function …",
+    "fileName": "DroppedBlocksarePlaced.mcaddon",
+    "extension": ".mcaddon",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/mods/DroppedBlocksarePlaced.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-mods-v1/DroppedBlocksarePlaced.mcaddon"
   },
   {
     "category": "mods",
@@ -3184,1319 +4498,5 @@
     "extension": ".mcaddon",
     "imageUrl": "mods/1321910_dumplings-delight-bedrock-unofficial.jpg",
     "downloadUrl": "mods/1321910_dumplings-delight-bedrock-unofficial_Dumplings DelightV5.0.2 -1.26.0+.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dungeon Enhanced - Unofficial",
-    "description": "A vanilla friendly Dungeon and Structure expansion.",
-    "fileName": "1394992_dungeon-enhanced-unofficial-port_Dungeon Enhanced V1.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1394992_dungeon-enhanced-unofficial-port.jpg",
-    "downloadUrl": "mods/1394992_dungeon-enhanced-unofficial-port_Dungeon Enhanced V1.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dungeon Raiders",
-    "description": "Explore dangerous dungeons and get new items such as food, weapons, armor and more!",
-    "fileName": "1365957_dungeon-raiders_Dungeon Raiders v1.1.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1365957_dungeon-raiders.jpg",
-    "downloadUrl": "mods/1365957_dungeon-raiders_Dungeon Raiders v1.1.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dungeon Raiders (Vanilla Version)",
-    "description": "Looking to add new naturally generating structures and dungeons? Well this addon is for you!",
-    "fileName": "1157041_dungeon-raiders-vanilla_Dungeon Raiders Vanilla v1.1.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1157041_dungeon-raiders-vanilla.jpg",
-    "downloadUrl": "mods/1157041_dungeon-raiders-vanilla_Dungeon Raiders Vanilla v1.1.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dungeons 2 Content",
-    "description": "A very simple Add-On for Minecraft Bedrock Edition who aims to add Minecraft Dungeons 2's content to the game as accurate as possible.",
-    "fileName": "1591339_dungeons-2-content_Dungeons2ContentAddon.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1591339_dungeons-2-content.jpg",
-    "downloadUrl": "mods/1591339_dungeons-2-content_Dungeons2ContentAddon.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dungeons Content Addon",
-    "description": "A very simple Add-On for Minecraft Bedrock Edition who aims to add Minecraft Dungeons' content to the game as accurate as possible.",
-    "fileName": "1306037_dungeons-content-bedrock_DungeonsContentAddon.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1306037_dungeons-content-bedrock.jpg",
-    "downloadUrl": "mods/1306037_dungeons-content-bedrock_DungeonsContentAddon.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dungeons Content Plus Addon",
-    "description": "This is a Minecraft Bedrock Edition Addon who aims to expand the universe of Minecraft Dungeons by adding new content",
-    "fileName": "1330678_dungeons-content-plus-addon_DungeonsContentPlus.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1330678_dungeons-content-plus-addon.jpg",
-    "downloadUrl": "mods/1330678_dungeons-content-plus-addon_DungeonsContentPlus.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Duolingo Totem",
-    "description": "replaces the classic Totem of Immortality with a custom version of the legendary Duolingo skin. Survive in style and strike fear into your enemies!",
-    "fileName": "1368372_duolingo-totem_Duolingo Totem v1.2.3.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1368372_duolingo-totem.jpg",
-    "downloadUrl": "mods/1368372_duolingo-totem_Duolingo Totem v1.2.3.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dupe Command",
-    "description": "This adds a command that you can use that dupes the item you are holding.",
-    "fileName": "1279126_dupe-command_Dupe Command BP V28.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1279126_dupe-command.jpg",
-    "downloadUrl": "mods/1279126_dupe-command_Dupe Command BP V28.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dupe Guard (Anti dupe)",
-    "description": "Anti-dupe addon for Minecraft Bedrock that prevents item duplication exploits: blocks bundles in containers, hopper/dispenser loops, protects shulkers and lecterns, and removes crash-drop items.",
-    "fileName": "1454825_dupe-guard-anti-dupe_DupeGuard.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1454825_dupe-guard-anti-dupe.jpg",
-    "downloadUrl": "mods/1454825_dupe-guard-anti-dupe_DupeGuard.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "DupeGuard - Item duplication glitch blocker",
-    "description": "Save your world and servers/realms from being ruined with cheating... Blocks and patches nearly all known duplication glitches in bedrock edition.",
-    "fileName": "1426750_dupeguard_dupeguard-1.5.0-26.30+.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1426750_dupeguard.jpg",
-    "downloadUrl": "mods/1426750_dupeguard_dupeguard-1.5.0-26.30+.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Duplicarium | EL SANDO",
-    "description": "The magic block that multiplies everything you touch. Place any object or creature on top and watch it instantly duplicate. From infinite diamonds to armies of mobs, Duplicarium turns the ordinary into unlimited.",
-    "fileName": "1349607_duplicarium_Duplicarium_EL_SANDO.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1349607_duplicarium.jpg",
-    "downloadUrl": "mods/1349607_duplicarium_Duplicarium_EL_SANDO.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Duplicator Tree",
-    "description": "Adds the duplicator tree from orespawn to minecraft bedrock",
-    "fileName": "1589842_duplicator-tree_Duplicator_Tree.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1589842_duplicator-tree.jpg",
-    "downloadUrl": "mods/1589842_duplicator-tree_Duplicator_Tree.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Durability Armor Viewer",
-    "description": "display armor and offhand in hud! [Achievement Friendly]",
-    "fileName": "1152638_durability-armor-viewer_Durability Armor Viewer v2.1.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1152638_durability-armor-viewer.jpg",
-    "downloadUrl": "mods/1152638_durability-armor-viewer_Durability Armor Viewer v2.1.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Durability Viewer",
-    "description": "In Java Edition, item durability is visible for all items with that component. In Bedrock, it’s hidden—unless you use a script! This script lets you view your items' durability. It's awesome!",
-    "fileName": "1174277_douarmc-durability-viewer_durability_viewer.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1174277_douarmc-durability-viewer.jpg",
-    "downloadUrl": "mods/1174277_douarmc-durability-viewer_durability_viewer.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Durability viewer",
-    "description": "Durability Viewer adds a clean and optimized side HUD to display armor and tool durability in real-time with smooth performance for MCPE survival gameplay. by Baku",
-    "fileName": "1551098_durability-viwer-bakuthebuilder_Held_Durability_Viewer.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1551098_durability-viwer-bakuthebuilder.jpg",
-    "downloadUrl": "mods/1551098_durability-viwer-bakuthebuilder_Held_Durability_Viewer.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Durability Viewer & Repair",
-    "description": "This is that Script that you don't think you need but once you add to your world you won't be able to play without it, Simply but powerful. Never break an item again.",
-    "fileName": "1523074_durability-repair_Durability Viewer Repair (V0.04).mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1523074_durability-repair.jpg",
-    "downloadUrl": "mods/1523074_durability-repair_Durability Viewer Repair (V0.04).mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Durability Viewer 38",
-    "description": "The little green bar on your Tools is okay but having actual numbers telling you how much Durability your tools has left is alot better, Durability Viewer gives you just that, even with custom tools.",
-    "fileName": "1565512_durability-viewer-38_Durability Viewer (V0.03).mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1565512_durability-viewer-38.jpg",
-    "downloadUrl": "mods/1565512_durability-viewer-38_Durability Viewer (V0.03).mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Durability Warning",
-    "description": "A small quality-of-life Minecraft mod that warns players when their tools, armor, or equipped items are low on durability to help prevent unexpected breakage.",
-    "fileName": "1530466_durability-warning_Durability_Warning.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1530466_durability-warning.jpg",
-    "downloadUrl": "mods/1530466_durability-warning_Durability_Warning.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Durability warning \"Achievement friendly\"",
-    "description": "If you are looking for a Minecraft Bedrock durability warning addon, item break protection mod, or survival equipment monitoring system, Durability Alert Addon provides an immersive and balanced solution without commands or cheats.",
-    "fileName": "1481109_durability-warningg_✦ Durability Warning ⟦v1.1⟧ ▸⟦ACHIEVEMENT FRIENDLY⟧.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1481109_durability-warningg.jpg",
-    "downloadUrl": "mods/1481109_durability-warningg_✦ Durability Warning ⟦v1.1⟧ ▸⟦ACHIEVEMENT FRIENDLY⟧.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dusty's Colored Dynamic Lighting | Even more custom, and just better! | v1.3.5",
-    "description": "Real-time colored illumination. This script brings high-performance dynamic lighting to Bedrock 1.26.10+ without the typical lag or world corruption issues.",
-    "fileName": "1504084_dustys-colored-dynamic-lighting-rt-sim-smart_Dusty's CDL - 1.3.5.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1504084_dustys-colored-dynamic-lighting-rt-sim-smart.jpg",
-    "downloadUrl": "mods/1504084_dustys-colored-dynamic-lighting-rt-sim-smart_Dusty's CDL - 1.3.5.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dusty's Ender View | New! | v1.0.0",
-    "description": "A simple Minecraft Bedrock addon that lets you view other players' Ender Chest data quickly and cleanly.",
-    "fileName": "1535350_dustys-ender-view_Dustys EV - 1.0.0-Fixed BP.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1535350_dustys-ender-view.jpg",
-    "downloadUrl": "mods/1535350_dustys-ender-view_Dustys EV - 1.0.0-Fixed BP.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dusty's VeinMiner AIO | Bug Fixes, Improvements, Silk Touch Safe | v1.0.9",
-    "description": "Mines full ore veins with a pickaxe. Fells full trees with an axe.",
-    "fileName": "1495015_dustys-veinminer-aio-silk-touch-safe-durability_DVM AIO - 1.0.9.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1495015_dustys-veinminer-aio-silk-touch-safe-durability.jpg",
-    "downloadUrl": "mods/1495015_dustys-veinminer-aio-silk-touch-safe-durability_DVM AIO - 1.0.9.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dusty's World Border | New Features, Bug Fixes | v1.19.9",
-    "description": "Keeps players inside a set area with visible borders and custom effects. Great for servers, minigames, or adventure maps. Easy to set up and works in all dimensions.",
-    "fileName": "1255591_dusty-s-world-border-with-customizable-gui_DWB - 1.19.9.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1255591_dusty-s-world-border-with-customizable-gui.jpg",
-    "downloadUrl": "mods/1255591_dusty-s-world-border-with-customizable-gui_DWB - 1.19.9.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "DWELLER KRAMPUS CHRISTMAS EVIL",
-    "description": "This small addon adds the terrifying Christmas character Krampus",
-    "fileName": "1409721_dweller-krampus-christmas-evil_ADD-ON KRAMPUS.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1409721_dweller-krampus-christmas-evil.jpg",
-    "downloadUrl": "mods/1409721_dweller-krampus-christmas-evil_ADD-ON KRAMPUS.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dweller Pinocchio V2.0",
-    "description": "The addon adds a new monster Pinocchio to the Minecraft game. For a better immersion in the atmosphere of the addon, you need to enable experimental mode in the Minecraft world settings.",
-    "fileName": "1381002_dweller-pinocchio-v2-0_Evil Pinocchio.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1381002_dweller-pinocchio-v2-0.jpg",
-    "downloadUrl": "mods/1381002_dweller-pinocchio-v2-0_Evil Pinocchio.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dying = only half inventory drops!",
-    "description": "(English) If you die, you lose half of your inventory! / Stirbst du = halbes Inventar droppt! (German/Deutsch)",
-    "fileName": "1471204_dying-only-half-inventory-drops_Dying = only half inventory drops! 1.0.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1471204_dying-only-half-inventory-drops.jpg",
-    "downloadUrl": "mods/1471204_dying-only-half-inventory-drops_Dying = only half inventory drops! 1.0.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "DyingCraft Mob Pack",
-    "description": "This addon adds mobs inspired by Dying Light. They originate from my DyingCraft addon.",
-    "fileName": "1464958_dyingcraft-mob-pack_DyingCraft Mob Pack.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1464958_dyingcraft-mob-pack.jpg",
-    "downloadUrl": "mods/1464958_dyingcraft-mob-pack_DyingCraft Mob Pack.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "DyingCraft: No Light. No Hope.",
-    "description": "A chaotic zombie apocalypse in Minecraft!",
-    "fileName": "1385080_dyingcraft_DyingCraftV1.5.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1385080_dyingcraft.jpg",
-    "downloadUrl": "mods/1385080_dyingcraft_DyingCraftV1.5.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "DyingDayZ Reborn",
-    "description": "An old classic survival friendly apocalypse addon including food, weapons, armor, lots of mobs and vehicle that will enhance your survival world for sure",
-    "fileName": "1518953_dyingdayz-reborn_DyingDayZ.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1518953_dyingdayz-reborn.jpg",
-    "downloadUrl": "mods/1518953_dyingdayz-reborn_DyingDayZ.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "DYLIX",
-    "description": "A lightweight Bedrock utility client with toggleable scripting mod menu, and custom HUD",
-    "fileName": "1595613_dylix_Dylix client.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1595613_dylix.jpg",
-    "downloadUrl": "mods/1595613_dylix_Dylix client.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Camera Addon: Zoom, Sprint & Shake FX",
-    "description": "Cinematic camera effects for Minecraft! Features Spyglass Zoom, Sprint Wide Angle, and Damage Shake. 100% Free to unlock all features.",
-    "fileName": "1472259_dynamic-camera-addon-zoom-sprint-shake-fx_Dynamic_Camera_2.1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1472259_dynamic-camera-addon-zoom-sprint-shake-fx.jpg",
-    "downloadUrl": "mods/1472259_dynamic-camera-addon-zoom-sprint-shake-fx_Dynamic_Camera_2.1.0.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Capitator",
-    "description": "9 smart breaking tools in one menu — Vein Miner, Tree Capacitor, Crop Harvester, Leaf Shears, Sugar Cane, Bamboo, Kelp, Cactus, and All Blocks. Fortune supported. Achievement friendly.",
-    "fileName": "1604799_dynamic-capitator_Dynamic_Capacitor.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1604799_dynamic-capitator.jpg",
-    "downloadUrl": "mods/1604799_dynamic-capitator_Dynamic_Capacitor.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Economy",
-    "description": "Dynamic economy addon with automatic supply & demand pricing and daily market events for Bedrock survival worlds.",
-    "fileName": "1601006_dynamic-economy_Dynamic_Economy_v1.2.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1601006_dynamic-economy.jpg",
-    "downloadUrl": "mods/1601006_dynamic-economy_Dynamic_Economy_v1.2.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Entity Hitbox & Collision Visualizer",
-    "description": "This Hitbox addon is a behavior pack for Minecraft Bedrock Edition that lets you visualize entity hitboxes in real-time. It creates 3D debug shapes around entities near the player — including their head position, and local coordinate axes",
-    "fileName": "1289358_dynamic-entity-hitbox_DynamicEntityHitbox-0.5.5.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1289358_dynamic-entity-hitbox.jpg",
-    "downloadUrl": "mods/1289358_dynamic-entity-hitbox_DynamicEntityHitbox-0.5.5.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Events Revamped [ Achievements Friendly ]",
-    "description": "Dynamic Events Revamped adds random survival events like Blood Moons and Meteor Showers, making your world more chaotic, exciting, and unpredictable. 🔥",
-    "fileName": "1471365_dynamic-events-revamped-achievements-friendly_Dynamic Events Revamped [ v2.1 ].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1471365_dynamic-events-revamped-achievements-friendly.jpg",
-    "downloadUrl": "mods/1471365_dynamic-events-revamped-achievements-friendly_Dynamic Events Revamped [ v2.1 ].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic First Person Model",
-    "description": "Displays the player model in first person, while trying its best to keep it unobtrusive.",
-    "fileName": "1343524_dynamic-first-person-model_Dynamic First Person Model v1.5.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1343524_dynamic-first-person-model.jpg",
-    "downloadUrl": "mods/1343524_dynamic-first-person-model_Dynamic First Person Model v1.5.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Flashlight by Four",
-    "description": "A modern take on Dynamic Lights, Craft a Flashlight and leave the torches where they belong. Use the Flashlight in either one of your hands for more convenience!",
-    "fileName": "1146508_dynamic-flashlight_Dynamic Flashlight (V0.1.1).mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1146508_dynamic-flashlight.jpg",
-    "downloadUrl": "mods/1146508_dynamic-flashlight_Dynamic Flashlight (V0.1.1).mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Health Bar",
-    "description": "This addon will show you a heart counter for monsters and mobs, and the nice thing about my addon is that it works with the rest of the mobs that in other addons Mobs",
-    "fileName": "1415330_dynamic-health-bar_Dynamic Health Bar [ v10 ].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1415330_dynamic-health-bar.jpg",
-    "downloadUrl": "mods/1415330_dynamic-health-bar_Dynamic Health Bar [ v10 ].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Health Bar Indicator",
-    "description": "Displays a clean heart and HP counter above every mob, works alongside any addon, no entity edits required. Achievement-safe.",
-    "fileName": "1593551_dynamic-health-bar-indicator_Dynamic Health Bar Indicator v1.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1593551_dynamic-health-bar-indicator.jpg",
-    "downloadUrl": "mods/1593551_dynamic-health-bar-indicator_Dynamic Health Bar Indicator v1.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic HUD",
-    "description": "Dynamic HUD keeps your screen clean and immersive by only showing hearts, hunger, hotbar, armor, XP, and mount health when you actually need them, with per-player settings, per-player coordinates, and OLED burn-in protection built in.",
-    "fileName": "1492383_dynamic-hud_DynamicHUD_1.3.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1492383_dynamic-hud.jpg",
-    "downloadUrl": "mods/1492383_dynamic-hud_DynamicHUD_1.3.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic lead",
-    "description": "You can lead any mob even modded ones.",
-    "fileName": "1448219_dynamic-lead_dynamic lead.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1448219_dynamic-lead.jpg",
-    "downloadUrl": "mods/1448219_dynamic-lead_dynamic lead.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "dynamic light",
-    "description": "The Dynamic Light script is a simple lighting system that makes Minecraft feel more realistic by adding dynamic light effects.",
-    "fileName": "1495110_sc-dynamic-light_sc dynamic light 1.7.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1495110_sc-dynamic-light.jpg",
-    "downloadUrl": "mods/1495110_sc-dynamic-light_sc dynamic light 1.7.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "DYNAMIC LIGHT (gh9)",
-    "description": "Have you ever wondered why there’s no light around you when you hold a torch? This addon solves that problem, allowing you to travel anywhere while holding a torch.",
-    "fileName": "1422177_dynamic-light-gh9_dynamic_light 1.14 bp.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1422177_dynamic-light-gh9.jpg",
-    "downloadUrl": "mods/1422177_dynamic-light-gh9_dynamic_light 1.14 bp.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light (Multiplayer)",
-    "description": "Dynamic Light brings realistic dynamic lighting to Minecraft Bedrock Edition!",
-    "fileName": "1385795_dynamic-light-multiplayer_Dynamic Light.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1385795_dynamic-light-multiplayer.jpg",
-    "downloadUrl": "mods/1385795_dynamic-light-multiplayer_Dynamic Light.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light + Offhand Torch [Second Hand] (Achievements Friendly)",
-    "description": "Have you ever wanted Dynamic Lighting like in Java’s Optifine? Then this add-on is perfect for you! It makes every light source shine when you hold it. Now exploring caves is more realistic and you will no longer have to constantly place torches.",
-    "fileName": "1323131_dynamiclight_DynamicLight [1.21.110+].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1323131_dynamiclight.jpg",
-    "downloadUrl": "mods/1323131_dynamiclight_DynamicLight [1.21.110+].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light - Headtorches",
-    "description": "Forget holding Torches and Lanterns, now you can keep both hands free when you go on a mining trip. Dynamic Light - Headtorches will illuminate your path wherever you walk.",
-    "fileName": "1565110_dynamic-light-headtorches_Headtorches (V0.04).mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1565110_dynamic-light-headtorches.jpg",
-    "downloadUrl": "mods/1565110_dynamic-light-headtorches_Headtorches (V0.04).mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light 38",
-    "description": "Dynamic Light allows you to hold an Illuminating item or block in your off hand as in Hytale leaving your main hand free to hold more important items like a Sword, illuminating the path as you walk.",
-    "fileName": "1396517_dynamic-light-38_Dynamic Light (V0.27).mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1396517_dynamic-light-38.jpg",
-    "downloadUrl": "mods/1396517_dynamic-light-38_Dynamic Light (V0.27).mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light Addon + Offhand Torch (Second Hand) (Achievements Friendly)",
-    "description": "Ever wanted Dynamic Light just like Java's Optifine? Well this add-on is for you because it makes every light source emit real light in your hand NEW: With the command /function handtorch the torch can be moved to the offhand (second hand).",
-    "fileName": "1150762_dynamic-light-add-on_DynamicLightAddon.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1150762_dynamic-light-add-on.jpg",
-    "downloadUrl": "mods/1150762_dynamic-light-add-on_DynamicLightAddon.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "DYNAMIC LIGHT BY BAKU",
-    "description": "Dynamic Light adds moving light around your player while holding torches, lanterns, and other glowing items. Supports main hand and off-hand for a smoother cave exploration experience.",
-    "fileName": "1613696_dynamic-light-by-baku_Dynamic_Light_BP-1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1613696_dynamic-light-by-baku.jpg",
-    "downloadUrl": "mods/1613696_dynamic-light-by-baku_Dynamic_Light_BP-1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light by Four",
-    "description": "Dynamic Light by Four will allow you to create light as you walk around your world, making the caves easier to navigate and ores easier to see.",
-    "fileName": "1377503_dynamic-light-by-four_Dynamic Light (V0.1.1).mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1377503_dynamic-light-by-four.jpg",
-    "downloadUrl": "mods/1377503_dynamic-light-by-four_Dynamic Light (V0.1.1).mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light GT",
-    "description": "Carry your torches, lanterns, and glowing items with you, lighting up caves and dark corners as you walk, crawl, or climb, no placement needed.",
-    "fileName": "1612133_dynamic-light-gt_Advanced Dynamic Lights v1.1.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1612133_dynamic-light-gt.jpg",
-    "downloadUrl": "mods/1612133_dynamic-light-gt_Advanced Dynamic Lights v1.1.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light | by DustVeyn",
-    "description": "This add-on adds the famous dynamic light to the game, allowing light sources such as torches and lanterns to illuminate the environment even while being held by the player.",
-    "fileName": "1304186_dynamic-light-by-dustveyn_Dynamic Light v1.2 - Developed by DustVeyn.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1304186_dynamic-light-by-dustveyn.jpg",
-    "downloadUrl": "mods/1304186_dynamic-light-by-dustveyn_Dynamic Light v1.2 - Developed by DustVeyn.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light | Dynamic Lights",
-    "description": "Achievements Friendly | Enhance your Minecraft pe experience with dynamic light and left-hand torch support!",
-    "fileName": "1369480_dynamic-lightning-lights_DynamicLight v1.3.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1369480_dynamic-lightning-lights.jpg",
-    "downloadUrl": "mods/1369480_dynamic-lightning-lights_DynamicLight v1.3.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic light's BE",
-    "description": "By enhanced craft",
-    "fileName": "1624903_dynamic-lights-be_Dynamic Lights 1.5 BP .mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1624903_dynamic-lights-be.jpg",
-    "downloadUrl": "mods/1624903_dynamic-lights-be_Dynamic Lights 1.5 BP .mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Light+",
-    "description": "this dynamic light can also be used in the LEFT HAND and without player.json",
-    "fileName": "1352386_howard-dynamic-light_dynamic_light 1.1.9.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1352386_howard-dynamic-light.jpg",
-    "downloadUrl": "mods/1352386_howard-dynamic-light_dynamic_light 1.1.9.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Lighting & Java Offhand Swap | Achievement Friendly",
-    "description": "Dynamic Light & Java Offhand Swap for MCPE! Trail-free, lag-free & 100% Achievement Friendly in Survival worlds!",
-    "fileName": "1638731_dynamic-lighting-java-offhand-swap-achievement_playZer Dynamic light+offhand.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1638731_dynamic-lighting-java-offhand-swap-achievement.jpg",
-    "downloadUrl": "mods/1638731_dynamic-lighting-java-offhand-swap-achievement_playZer Dynamic light+offhand.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Lighting API",
-    "description": "Have you ever wanted to add Dynamic Lighting to one of your add-ons? This is the pack for you!",
-    "fileName": "1309507_dynamic-lighting-api_Dynamic Lighting API v1-3-2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1309507_dynamic-lighting-api.jpg",
-    "downloadUrl": "mods/1309507_dynamic-lighting-api_Dynamic Lighting API v1-3-2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Lights Lite [DISCONTINUED]",
-    "description": "Lightweight dynamic lighting for casual players. Hold any light source and your world glows instantly. No player.json conflicts, off-hand support, zero setup. 100% compatible with other addons.",
-    "fileName": "1502900_dynamic-lights-lite_Dynamic Lights Lite.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1502900_dynamic-lights-lite.jpg",
-    "downloadUrl": "mods/1502900_dynamic-lights-lite_Dynamic Lights Lite.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Lights | items & entities",
-    "description": "Adds dynamic lighting by allowing any light-emitting item to provide real-time illumination while held in the main hand or offhand, following the player as they move. Special torches and lanterns can be automatically moved to the offhand",
-    "fileName": "1423024_dynamic-lights-and-offhand_Dynamic Lights RP 26.30.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1423024_dynamic-lights-and-offhand.jpg",
-    "downloadUrl": "mods/1423024_dynamic-lights-and-offhand_Dynamic Lights RP 26.30.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic lights || OFF-HAND torch",
-    "description": "A lightweight, lag-free Dynamic Lighting add-on that instantly illuminates the world around you whenever you hold a light source. Explore caves easily without constantly placing torches, featuring full multiplayer support and maximum compatibility!",
-    "fileName": "1620681_someones-dynamic-lights-off-hand-torch_Someones_Dynamic_Lighting.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1620681_someones-dynamic-lights-off-hand-torch.jpg",
-    "downloadUrl": "mods/1620681_someones-dynamic-lights-off-hand-torch_Someones_Dynamic_Lighting.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Paintings [Achievement Friendly]",
-    "description": "Create any painting on a 16x16 canvas, place them on frames and show them to your friends!",
-    "fileName": "1145098_dynamic-paintings_DP_v1.3.6.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1145098_dynamic-paintings.jpg",
-    "downloadUrl": "mods/1145098_dynamic-paintings_DP_v1.3.6.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic Weather Events by Howard",
-    "description": "Dynamic Weather Events adds random natural events to your world. These events are based on natural phenomena, such as rain, thunderstorms, meteor showers, and more.",
-    "fileName": "1604854_dynamic-weather-events-by-howard_Dynamic Weather Events 1.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1604854_dynamic-weather-events-by-howard.jpg",
-    "downloadUrl": "mods/1604854_dynamic-weather-events-by-howard_Dynamic Weather Events 1.1.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamic-Weather+Plus",
-    "description": "Dynamic Weather Plus enhances Minecraft with immersive weather, realistic fog, dynamic storms, wind effects, and stunning sunrise and sunset visuals.",
-    "fileName": "1635379_dynamic-weather-plus_Dynamic-Weather+Plus.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1635379_dynamic-weather-plus.jpg",
-    "downloadUrl": "mods/1635379_dynamic-weather-plus_Dynamic-Weather+Plus.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Dynamite | Throwable Explosives",
-    "description": "Adds craftable throwable dynamite sticks for Minecraft Bedrock with custom projectiles, block-breaking explosions, and balanced blast damage.",
-    "fileName": "1601718_dynamite-throwable-explosives_dynamite-v1.0.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1601718_dynamite-throwable-explosives.jpg",
-    "downloadUrl": "mods/1601718_dynamite-throwable-explosives_dynamite-v1.0.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "D’ Instant Trades: Trade Unlocker (Achievement-friendly)",
-    "description": "Unlocks all villager trade levels right away when they get a job, so you don’t have to grind levels just to see the best trades.",
-    "fileName": "1521343_d-instant-trades-trade-unlocker-achievement_D’ Instant Trades.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1521343_d-instant-trades-trade-unlocker-achievement.jpg",
-    "downloadUrl": "mods/1521343_d-instant-trades-trade-unlocker-achievement_D’ Instant Trades.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "D’ Lucid Light: Achievement-friendly Night Vision Addon",
-    "description": "This achievement-friendly utility addon introduces a logic-based night vision toggle controlled by your off-hand slot, ensuring visual clarity without disabling world trophies.",
-    "fileName": "1519779_d-lucid-light-achievement-friendly-night-vision_D’ Lucid Light.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1519779_d-lucid-light-achievement-friendly-night-vision.jpg",
-    "downloadUrl": "mods/1519779_d-lucid-light-achievement-friendly-night-vision_D’ Lucid Light.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "D’ OP Fishing Loot (Achievement-friendly)",
-    "description": "Revolutionize your survival experience with a comprehensive fishing overhaul that introduces seven tiers of loot—including Netherite, the Mace, and Elytra—while remaining fully achievement-compatible.",
-    "fileName": "1519443_op-fishing-loot-achievement-friendly_D' OP Fishing Loot.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1519443_op-fishing-loot-achievement-friendly.jpg",
-    "downloadUrl": "mods/1519443_op-fishing-loot-achievement-friendly_D' OP Fishing Loot.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Earth Knight",
-    "description": "Earth Knight grants you special abilities based on the power of the earth element.",
-    "fileName": "1542834_earth-knight_earth knight 1.3.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1542834_earth-knight.jpg",
-    "downloadUrl": "mods/1542834_earth-knight_earth knight 1.3.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Earth Magic",
-    "description": "Make the whole earth tremble and shake their very strengths. Use the power of the Earth to protect you from any danger! Summon new rock golems to aid you in battle!",
-    "fileName": "1190348_earth-magic_Earth Magic [26.30+].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1190348_earth-magic.jpg",
-    "downloadUrl": "mods/1190348_earth-magic_Earth Magic [26.30+].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "EASIER COMMANDS WITH /FUNCTION",
-    "description": "Comandos mas faciles usando /function. Easier commands using /function. 2.0 IS HERE!",
-    "fileName": "1580445_easier-commands_EASIER COMMANDS 2.0 (FIRST BIG UPDATE!).mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1580445_easier-commands.jpg",
-    "downloadUrl": "mods/1580445_easier-commands_EASIER COMMANDS 2.0 (FIRST BIG UPDATE!).mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Easy Accessories! (bedrock accessories system)",
-    "description": "Added new accessories for your game, that can be equipped in the hotbar. Each with a unique and useful functionality.",
-    "fileName": "1631364_easy-accessories-bedrock-accessories-system_Easy Accessories! [v4.5].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1631364_easy-accessories-bedrock-accessories-system.jpg",
-    "downloadUrl": "mods/1631364_easy-accessories-bedrock-accessories-system_Easy Accessories! [v4.5].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Easy Cinematic 3.5 | Replay Addon | Shoot Cinematics Easily directly inside Minecraft now!",
-    "description": "easy cinematics is like a replay mod For Minecraft bedrock and MCPE! Shoot Stunning in-game Cinematic Scenes Easily with this addon in minecraft. Great addon for content creators and for those who want to showcase their work!",
-    "fileName": "1287918_easy-cinematic_Easy Cinematic 3.5.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1287918_easy-cinematic.jpg",
-    "downloadUrl": "mods/1287918_easy-cinematic_Easy Cinematic 3.5.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Easy Creative Items [ECI]",
-    "description": "Easy Creative Items allow you to acses creative Items/blocks without using commands directly from the creative menu",
-    "fileName": "1576315_easy-creative-items-eci_easy_creative_items.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1576315_easy-creative-items-eci.jpg",
-    "downloadUrl": "mods/1576315_easy-creative-items-eci_easy_creative_items.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Easy enchanting (achievement friendly)",
-    "description": "Right click to enchant any item.",
-    "fileName": "1414892_easy-enchanting_easy enchanting.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1414892_easy-enchanting.jpg",
-    "downloadUrl": "mods/1414892_easy-enchanting_easy enchanting.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Easy Items",
-    "description": "New crafting methods that make your gameplay easier by making difficult materials more accessible.",
-    "fileName": "1388459_easy-items_Easy Items V4.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1388459_easy-items.jpg",
-    "downloadUrl": "mods/1388459_easy-items_Easy Items V4.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Easy Mine Addon 一括破壊アドオン",
-    "description": "Do you have trouble breaking ores and logs? Would you like to break them easier and faster? Try this add-on! This add-on can easily take ore and logs!",
-    "fileName": "1066637_easy-mine-addon_Easy Mine Addon 一括破壊アドオン Ver8.5.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1066637_easy-mine-addon.jpg",
-    "downloadUrl": "mods/1066637_easy-mine-addon_Easy Mine Addon 一括破壊アドオン Ver8.5.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Easy OP Armor [Achivement Friendly]",
-    "description": "Easy OP Armor is designed to make powerful armor crafting simple, fast, and achievement-friendly for survival gameplay. The main goal is to let players craft overpowered armor easily using a clear progression system and balanced crafting process.",
-    "fileName": "1471822_easyoparm_EasyOPArmor.2.2.5.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1471822_easyoparm.jpg",
-    "downloadUrl": "mods/1471822_easyoparm_EasyOPArmor.2.2.5.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Easy Sleep Addon: One Player Sleep & Night Rewards",
-    "description": "Tired of waiting for everyone to sleep? Now just ONE player needs to sleep to skip the night! Earn Health, Hunger, and XP rewards in Pro Mode.",
-    "fileName": "1467272_easy-sleep-addon-one-player-sleep-night-rewards_Easy_Sleep_2.1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1467272_easy-sleep-addon-one-player-sleep-night-rewards.jpg",
-    "downloadUrl": "mods/1467272_easy-sleep-addon-one-player-sleep-night-rewards_Easy_Sleep_2.1.0.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Easy Spawn Eggs",
-    "description": "Adds easy crafting recipes for spawn eggs and mob spawners to your world!",
-    "fileName": "1459943_easy-spawn-eggs_easy_spawn_eggs-v1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1459943_easy-spawn-eggs.jpg",
-    "downloadUrl": "mods/1459943_easy-spawn-eggs_easy_spawn_eggs-v1.0.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Easy To Get Elytra",
-    "description": "Easy Get Elytra allows players to obtain Elytra and Firework Rockets easily in survival mode. By modifying mob loot tables, chickens drop Elytra and pigs drop 32 rockets, making flight accessible early-game without lag or scripts",
-    "fileName": "1403626_easy-to-get-elytra_easy get elytra 1.3 [AS].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1403626_easy-to-get-elytra.jpg",
-    "downloadUrl": "mods/1403626_easy-to-get-elytra_easy get elytra 1.3 [AS].mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Easy Waypoints",
-    "description": "Easy Waypoints is the ultimate, user-friendly waypoint system for Minecraft! 🧭✨ Perfect for servers & Realms, it lets players set, warp, and share waypoints in seconds. Ideal for adventure maps, survival worlds, and bustling communities! 🌍🔗",
-    "fileName": "1285353_easy-waypoints_Easy_Waypoints_v2.0.3.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1285353_easy-waypoints.jpg",
-    "downloadUrl": "mods/1285353_easy-waypoints_Easy_Waypoints_v2.0.3.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "EasyBuild",
-    "description": "A survival friendly WorldEdit addon",
-    "fileName": "1476089_easybuild_EasyBuild.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1476089_easybuild.jpg",
-    "downloadUrl": "mods/1476089_easybuild_EasyBuild.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "EasyChestShop",
-    "description": "An easy way to create a shop for Minecraft Bedrock.",
-    "fileName": "1397977_easychestshop_EasyChestShop_1_8.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1397977_easychestshop.jpg",
-    "downloadUrl": "mods/1397977_easychestshop_EasyChestShop_1_8.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "EasyStone Crafting",
-    "description": "This pack adds many new crafting recipes that ultimately makes it easier to convert stone blocks to other stone blocks!",
-    "fileName": "1298990_easystone-crafting-addon_EasyStone Crafting v1.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1298990_easystone-crafting-addon.jpg",
-    "downloadUrl": "mods/1298990_easystone-crafting-addon_EasyStone Crafting v1.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Eat n' Craft | More Food Addon",
-    "description": "If you are tired of the same food as always, this addon is for you because it adds +100 new foods for our survival world.",
-    "fileName": "1318756_eat-n-craft_Eat n' Craft 1.3.0 RP.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1318756_eat-n-craft.jpg",
-    "downloadUrl": "mods/1318756_eat-n-craft_Eat n' Craft 1.3.0 RP.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Eatable Items",
-    "description": "Do You Want To Troll Your Friends? Well, this Addon is for you!!! It's because this Addon Added eating items in Minecraft.",
-    "fileName": "1281853_eatable-items_Eatable Items Spears Update.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1281853_eatable-items.jpg",
-    "downloadUrl": "mods/1281853_eatable-items_Eatable Items Spears Update.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Echo Vision! (Night vision mod.)",
-    "description": "A mod that adds night vision to your Minecraft Character!",
-    "fileName": "1616806_echo-vision_Echo Vision!.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1616806_echo-vision.jpg",
-    "downloadUrl": "mods/1616806_echo-vision_Echo Vision!.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "EchoCraft",
-    "description": "Add new deepDark Themed tools weapons and items",
-    "fileName": "1496446_echocraft_echocraft_v1.2.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1496446_echocraft.jpg",
-    "downloadUrl": "mods/1496446_echocraft_echocraft_v1.2.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "ECHOES OF CHAOS",
-    "description": "Every time the player takes damage, regardless of the source (fall, mob attack, fire, etc.), a random status effect is instantly applied to them.",
-    "fileName": "1390662_echoes-of-chaos_Echoes_of_Chaos.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1390662_echoes-of-chaos.jpg",
-    "downloadUrl": "mods/1390662_echoes-of-chaos_Echoes_of_Chaos.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Eclipse's fate | Berserker v1.1.0",
-    "description": "A Minecraft Bedrock addon inspired in the Berserk universe, with custom 3d models and systems",
-    "fileName": "1611560_eclipses-fate-berserker_Eclipses_fate_Berserker_backfix_v1_0_21.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1611560_eclipses-fate-berserker.jpg",
-    "downloadUrl": "mods/1611560_eclipses-fate-berserker_Eclipses_fate_Berserker_backfix_v1_0_21.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Economy & Shops",
-    "description": "A full economy addon for Minecraft Bedrock: a Bank Card with balance, transfers, and history; Shop and Player Shop blocks; and a physical cash system with bills from $2–$500 plus an ATM to withdraw, deposit, and break down notes.",
-    "fileName": "1614755_economy-shops_Economy_Shops_v1.2.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1614755_economy-shops.jpg",
-    "downloadUrl": "mods/1614755_economy-shops_Economy_Shops_v1.2.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Economy Plus - Server Wealth",
-    "description": "Take full control of your server's wealth. This addon introduces an advanced economy system where players can earn currency, trade securely with others, and build a massive financial empire in your multiplayer survival world.",
-    "fileName": "1493667_economy-plus-server-wealth_EconomyPlus.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1493667_economy-plus-server-wealth.jpg",
-    "downloadUrl": "mods/1493667_economy-plus-server-wealth_EconomyPlus.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Ecosystem Logic -Emerald economy & dynamic markets-",
-    "description": "Turn survival loot into a living economy. Ecosystemlogic converts emeralds into a digital balance, powers a dynamic NPC market with 300+ items, and adds a full player marketplace with listings, negotiation, escrow, and trade history.",
-    "fileName": "1595432_ecosystemlogic_Ecosystemlogic_1.1.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1595432_ecosystemlogic.jpg",
-    "downloadUrl": "mods/1595432_ecosystemlogic_Ecosystemlogic_1.1.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Edds' Better Minecarts (Minecart Chain Linking)",
-    "description": "Have you ever wanted to link minecarts together? This addon lets you do exactly that, and more.",
-    "fileName": "1469054_edds-better-minecarts_Better Minecarts 1.0.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1469054_edds-better-minecarts.jpg",
-    "downloadUrl": "mods/1469054_edds-better-minecarts_Better Minecarts 1.0.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Edds' Chunk Pregenerator (Chunky - Like Generation)",
-    "description": "Loads chunks in a specified area to reduce lag when exploring your world later on.",
-    "fileName": "1631591_edds-chunk-pregenerator_chunk-pre-generator-1.0.3.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1631591_edds-chunk-pregenerator.jpg",
-    "downloadUrl": "mods/1631591_edds-chunk-pregenerator_chunk-pre-generator-1.0.3.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Edds' More Crafting Tables (Crafting Table Variants)",
-    "description": "Adds crafting table variants. Consistent with the vanilla crafting table.",
-    "fileName": "1386435_edds-more-crafting-tables_More Crafting Tables 1.1.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1386435_edds-more-crafting-tables.jpg",
-    "downloadUrl": "mods/1386435_edds-more-crafting-tables_More Crafting Tables 1.1.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Edds' More Music Discs (Music Discs+)",
-    "description": "Have you ever wanted more music discs in minecraft? if so, than this is the addon for you! Edds' More Music Discs is a Minecraft Bedrock Edition addon that adds 16 music discs to the record roster.",
-    "fileName": "1220130_edds-more-music-discs_More Music Discs v2.1.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1220130_edds-more-music-discs.jpg",
-    "downloadUrl": "mods/1220130_edds-more-music-discs_More Music Discs v2.1.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Edds' VeinCapitator (Vein Miner & Tree Capitator)",
-    "description": "Have you wanted to be able to chop down trees in one break? Or maybe, you want to mine coal, but it would take too long? Say no more! with Edds' VeinCapitator you can do both! (up to a 1000 block limit) This comes with vein miner and tree capitator!",
-    "fileName": "1137926_edds-veincapitator-2_VeinCapitator 3.0.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1137926_edds-veincapitator-2.jpg",
-    "downloadUrl": "mods/1137926_edds-veincapitator-2_VeinCapitator 3.0.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Edeya Wings (flying pose improved)",
-    "description": "This add-on provides a realistic Flying mechanics through Minecraft bedrock",
-    "fileName": "1609339_edeyawings_EdeyaWings1.0.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1609339_edeyawings.jpg",
-    "downloadUrl": "mods/1609339_edeyawings_EdeyaWings1.0.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Edible item's",
-    "description": "Edible Items Addon allows you to eat Diamond Sword, Pickaxe, Axe, Shovel, and Hoe with custom crafting recipes and fun animations.",
-    "fileName": "1502690_edible-items_Edible items V_1.0.2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1502690_edible-items.jpg",
-    "downloadUrl": "mods/1502690_edible-items_Edible items V_1.0.2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "EF Wither Storm Pet",
-    "description": "This is an add-on for Wither Storm, however, it won't be a brutal and terrifying monster like usual. A small, tame Wither Storm that can become your friend. It will protect you from danger, and you can even pet and ride it, flying it around the world !",
-    "fileName": "1617683_ef-wither-storm-pet_EF Wither Storm Pet Add-on [DEMO].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1617683_ef-wither-storm-pet.jpg",
-    "downloadUrl": "mods/1617683_ef-wither-storm-pet_EF Wither Storm Pet Add-on [DEMO].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Effect Apples",
-    "description": "16 craftable effect apples — Speed, Strength, Night Vision, Fire Resistance, God Apple and more. Craft with Gold and an Apple, no brewing stand needed. Achievement friendly.",
-    "fileName": "1598790_effect-apples_Effect_Apples.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1598790_effect-apples.jpg",
-    "downloadUrl": "mods/1598790_effect-apples_Effect_Apples.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Effect Menu",
-    "description": "Effect menu is a pack that allows you to easily apply potion effects with customizable settings including amplifier, duration, and effect modes.",
-    "fileName": "1383293_effect-menu_Effect Menu.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1383293_effect-menu.jpg",
-    "downloadUrl": "mods/1383293_effect-menu_Effect Menu.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Effect Pillars",
-    "description": "Adds different pillars that you can build and modify to have different effects that the vanilla beacon doesn't have. You can modify the range and level of each effect simply by changing the structure of the pillar!",
-    "fileName": "1089788_effect-pillars_Effect Pillars v2.3.0 BP.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1089788_effect-pillars.jpg",
-    "downloadUrl": "mods/1089788_effect-pillars_Effect Pillars v2.3.0 BP.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Effect Timer Overlay",
-    "description": "Effect Timer Overlay adds the timer of the effect telling you exactly how long the effect will last",
-    "fileName": "1529867_effect-timer-overlay_Effect Timer Overlay V1.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1529867_effect-timer-overlay.jpg",
-    "downloadUrl": "mods/1529867_effect-timer-overlay_Effect Timer Overlay V1.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Effects Menu",
-    "description": "Apply any potion effect at any level (0–255) instantly from a clean menu. 25 effects, no duration limit, Clear All button included. No cheats needed. Achievement friendly.",
-    "fileName": "1600913_effects-menu_Effects_Menu.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1600913_effects-menu.jpg",
-    "downloadUrl": "mods/1600913_effects-menu_Effects_Menu.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Efficient Copper Golem",
-    "description": "Efficient Copper Golems Addon upgrades the classic copper golem by making it transport items faster than the regular version. This means quicker automation—all without disabling achievements.",
-    "fileName": "1356965_efficient-copper-golem_Efficient Copper Golems.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1356965_efficient-copper-golem.jpg",
-    "downloadUrl": "mods/1356965_efficient-copper-golem_Efficient Copper Golems.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Effortless Building",
-    "description": "Effortless Building brings Java's favourite multi-block placement mod to Bedrock! Place walls, floors, spheres, cylinders & more in seconds.",
-    "fileName": "1482939_effortless-building_Effortless Building v4.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1482939_effortless-building.jpg",
-    "downloadUrl": "mods/1482939_effortless-building_Effortless Building v4.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Egg Blocks",
-    "description": "Egg Blocks, the semi-sticky blocks, brings Java behavior for your sticky pistons. A short pulse to a sticky piston pushing an Egg Block will not retract it.",
-    "fileName": "1405430_egg-blocks_Egg Blocks 1.0.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1405430_egg-blocks.jpg",
-    "downloadUrl": "mods/1405430_egg-blocks_Egg Blocks 1.0.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Egg Pawn! - Update!",
-    "description": "Have you ever wanted this iconic robot in Minecraft? Well, with this add-on, that dream comes true!",
-    "fileName": "1556126_egg-pawn_Egg Pawn.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1556126_egg-pawn.jpg",
-    "downloadUrl": "mods/1556126_egg-pawn_Egg Pawn.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "EI Raiden Mode",
-    "description": "EI Raiden Mode makes your world feel like Ei's domain, where the atmosphere becomes darker and thunderstorms occur more frequently.",
-    "fileName": "1613827_ei-raiden-mode_EI Raiden Difficulty 1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1613827_ei-raiden-mode.jpg",
-    "downloadUrl": "mods/1613827_ei-raiden-mode_EI Raiden Difficulty 1.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Eidolon Bedrock",
-    "description": "The Eidolon Bedrock add-on is a version of the mod of the same name, it adds a variety of items, blocks, rituals and other magic-related features.",
-    "fileName": "1371874_eidolon-bedrock_eidolon.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1371874_eidolon-bedrock.jpg",
-    "downloadUrl": "mods/1371874_eidolon-bedrock_eidolon.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "El Gigante Boss",
-    "description": "Some know him as a bioweapon parasite, and some know him as a server-destroying horror boss. Either way, it's your childhood in a walking monster. Are you ready to overcome your fears?",
-    "fileName": "1102726_el-gigante_El Gigante.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1102726_el-gigante.jpg",
-    "downloadUrl": "mods/1102726_el-gigante_El Gigante.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "El Impostor",
-    "description": "A fun social deduction game for Minecraft Bedrock where citizens must debate and uncover the hidden impostor before it's too late. Perfect for content creators! (Requires 3+ players)",
-    "fileName": "1597473_el-impostor_El impostor.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1597473_el-impostor.jpg",
-    "downloadUrl": "mods/1597473_el-impostor_El impostor.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Electro Knight",
-    "description": "Electro Knight grants you the ability to wield electricity as your weapon.",
-    "fileName": "1550424_electro-knight_electro knight 1.3.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1550424_electro-knight.jpg",
-    "downloadUrl": "mods/1550424_electro-knight_electro knight 1.3.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elemental Spin tops (anime)",
-    "description": "Use the 7 Elemental Spin tops to stop the 3 Boss Beyblades",
-    "fileName": "1349361_elemental-beyblade_Elemental Beyblade V-1.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1349361_elemental-beyblade.jpg",
-    "downloadUrl": "mods/1349361_elemental-beyblade_Elemental Beyblade V-1.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elemental Weaponry Expansion",
-    "description": "Seven elemental katanas, each with a unique passive and a cinematic Right-Click ultimate. Wield Fire, Ice, Lightning, Earth, Nature, Holy or Shadow - every blade brings its own VFX, sounds, status effects and combat identity to your world.",
-    "fileName": "1596513_elemental-weaponry-expansion_[ RP ] Elemental Weaponry Expansion [ v1.0 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1596513_elemental-weaponry-expansion.jpg",
-    "downloadUrl": "mods/1596513_elemental-weaponry-expansion_[ RP ] Elemental Weaponry Expansion [ v1.0 ].mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Elemental Weapons Expansion [ Achievements Friendly]",
-    "description": "Elemental Weapons Expansion adds 7 New custom Katanas (Copper to Netherite) with unique speeds and epic designs. Ditch the basic swords for a faster, elemental combat experience. Pure samurai vibes!",
-    "fileName": "1470563_elemental-weapons-expansion-achievements-friendly_[ RP ] Elemental Weapons Expansion [ v1.9 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1470563_elemental-weapons-expansion-achievements-friendly.jpg",
-    "downloadUrl": "mods/1470563_elemental-weapons-expansion-achievements-friendly_[ RP ] Elemental Weapons Expansion [ v1.9 ].mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Elemental Weapons Revamped [ Achievements Friendly]",
-    "description": "Elemental Weapons Revamped — 7 elemental katanas with anime-level ritual powers! Nature, Earth, Lightning, Holy, Ice, Fire & Electric. Each weapon unleashes 10–15 block cinematic rituals with stunning particles. By BlockCraftAddons.",
-    "fileName": "1520505_elemental-weapons-revamped-achievements-friendly_[ RP ] Elemental Weapons Revamped [ v1.6 ].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1520505_elemental-weapons-revamped-achievements-friendly.jpg",
-    "downloadUrl": "mods/1520505_elemental-weapons-revamped-achievements-friendly_[ RP ] Elemental Weapons Revamped [ v1.6 ].mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Elevator Addon",
-    "description": "A Minecraft Bedrock Edition addon that adds functional elevators in 16 different colors with teleportation mechanics when jumping or sneaking.",
-    "fileName": "1471121_elevator-addon_Elevator Addon.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1471121_elevator-addon.jpg",
-    "downloadUrl": "mods/1471121_elevator-addon_Elevator Addon.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elevator | Jump & Sneak Teleport",
-    "description": "Elevator adds a craftable elevator block to Minecraft Bedrock: stack two or more on the same column, then jump to ride up or sneak to ride down — instant vertical travel for your base, mineshaft, or tower.",
-    "fileName": "1607059_elevator-jump-sneak-teleport_elevator-v1.0.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1607059_elevator-jump-sneak-teleport.jpg",
-    "downloadUrl": "mods/1607059_elevator-jump-sneak-teleport_elevator-v1.0.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elevators V2.4 'Achievements Friendly'",
-    "description": "save alot of time from slow traveling or going to a tower will alot of floors so it will teleport you easily without any problems, let's say goodbye to the boring ladders",
-    "fileName": "1237279_elevators-v2_-Advanced Elevators- V2.4 (Bp) [𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1237279_elevators-v2.jpg",
-    "downloadUrl": "mods/1237279_elevators-v2_-Advanced Elevators- V2.4 (Bp) [𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elevators V3 'Achievements Friendly'",
-    "description": "Create seamless multi-floor elevators! Jump to go UP, Sneak to go DOWN. Now includes Public/Private modes, a specific \"Trust\" system for friends, and block camouflage. No redstone needed!",
-    "fileName": "1463897_elevators-v3_-Advanced Elevators- V3 (Bp) [𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1463897_elevators-v3.jpg",
-    "downloadUrl": "mods/1463897_elevators-v3_-Advanced Elevators- V3 (Bp) [𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elite All-Dimensions RTP Compass",
-    "description": "This is an item that I created that will pop up a menu so that you can choose any one of the three dimensions listed to teleport to randomly.",
-    "fileName": "1463250_elite-all-dimensions-rtp-compass_Elite All-Dimensions RTP Compass-V2.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1463250_elite-all-dimensions-rtp-compass.jpg",
-    "downloadUrl": "mods/1463250_elite-all-dimensions-rtp-compass_Elite All-Dimensions RTP Compass-V2.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elite Mobs",
-    "description": "Spawns enhanced mobs with randomized abilities, effects, and occasional minion summons",
-    "fileName": "1375390_elite-mobs_[V1.3] Elite Mobs (No Hightlight).mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1375390_elite-mobs.jpg",
-    "downloadUrl": "mods/1375390_elite-mobs_[V1.3] Elite Mobs (No Hightlight).mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elite Multi-Zone Protection Wand",
-    "description": "Protect your selected area via corner to corner. This allows you to adjust the y-level as needed.",
-    "fileName": "1454661_elitemultiprotectionwand_Elite Multi-Zone Protection Wand(fix-wand-texture).mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1454661_elitemultiprotectionwand.jpg",
-    "downloadUrl": "mods/1454661_elitemultiprotectionwand_Elite Multi-Zone Protection Wand(fix-wand-texture).mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elite Player-to-Player Trading/Gifting and More!!!",
-    "description": "You can click on the player via squatting and then long pressing the other player and it will pop up a menu where you can friend, them trade with them or block them etc.",
-    "fileName": "1581321_elite-player-to-player-trading-gifting-and-more_Mojojos_Elite_Player_Trading_and More_BP.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1581321_elite-player-to-player-trading-gifting-and-more.jpg",
-    "downloadUrl": "mods/1581321_elite-player-to-player-trading-gifting-and-more_Mojojos_Elite_Player_Trading_and More_BP.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "EliteFaction",
-    "description": "A faction addon for minecraft bedrock.",
-    "fileName": "1474060_elitefaction_EliteFaction_1.4.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1474060_elitefaction.jpg",
-    "downloadUrl": "mods/1474060_elitefaction_EliteFaction_1.4.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elytra Durability HUD (ElytraHUD)",
-    "description": "See your elytra durability live above the hotbar — with enchantment support, color alerts and sound warnings.",
-    "fileName": "1611771_elytra-durability-hud-elytrahud_ElytraHUD.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1611771_elytra-durability-hud-elytrahud.jpg",
-    "downloadUrl": "mods/1611771_elytra-durability-hud-elytrahud_ElytraHUD.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elytra Expansion",
-    "description": "Cockpit HUD. Guns. Missiles. Dive bombs. Flares. Stop “gliding.” Start flying combat.",
-    "fileName": "1634654_elytra-expansion_Elytra_Expansion_v1.0.1_HOTFIX.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1634654_elytra-expansion.jpg",
-    "downloadUrl": "mods/1634654_elytra-expansion_Elytra_Expansion_v1.0.1_HOTFIX.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Elytra Registry",
-    "description": "Register your Elytra, track real aircraft-style flight records, and view speed and altitude in flight.",
-    "fileName": "1568814_elytra-registry_Elytra_Registry.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1568814_elytra-registry.jpg",
-    "downloadUrl": "mods/1568814_elytra-registry_Elytra_Registry.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Ember Ward",
-    "description": "Campfires that fight back: they slow and banish hostiles, heal you, and burn out if you lean on them too hard.",
-    "fileName": "1543191_ember-ward_Ember_Ward_V7_1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1543191_ember-ward.jpg",
-    "downloadUrl": "mods/1543191_ember-ward_Ember_Ward_V7_1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Ember's Floating Islands - Unofficial",
-    "description": "These fantasy-themed Floating Islands will add a whole new layer of exploration - to the sky!",
-    "fileName": "1483224_embers-floating-islands-unofficial_Ember's Floating Islands - DATA.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1483224_embers-floating-islands-unofficial.jpg",
-    "downloadUrl": "mods/1483224_embers-floating-islands-unofficial_Ember's Floating Islands - DATA.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Emerald Conquest",
-    "description": "This add-on adds Terraria inspired progression to the game. Experience a variety of new content, mainly new weapons & bosses.",
-    "fileName": "1529329_emerald-conquest_EmeraldConquest1.1.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1529329_emerald-conquest.jpg",
-    "downloadUrl": "mods/1529329_emerald-conquest_EmeraldConquest1.1.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Emerald Gears",
-    "description": "Adds tools weapons and a set of armor made of emeralds",
-    "fileName": "1543769_emerald-gears_Emerald Gears v1.0.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1543769_emerald-gears.jpg",
-    "downloadUrl": "mods/1543769_emerald-gears_Emerald Gears v1.0.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Emerald ore only world (Addon)",
-    "description": "Emerald Ore Only World is a challenging Minecraft Bedrock add-on where every block is replaced with emerald ore. Survival becomes intense as players must adapt, gather resources creatively, and overcome extreme conditions in a unique.",
-    "fileName": "1489158_emerald-ore-only-world_Emerald Ore Only World v1.0.0 By DtA MC.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1489158_emerald-ore-only-world.jpg",
-    "downloadUrl": "mods/1489158_emerald-ore-only-world_Emerald Ore Only World v1.0.0 By DtA MC.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Emerald Plus+ Add-On",
-    "description": "Emerald Plus+, Add-on vanilla, more functions for emerald.",
-    "fileName": "1401568_emerald-plus-add-on_Emerald Plus+ 0.0.7.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1401568_emerald-plus-add-on.jpg",
-    "downloadUrl": "mods/1401568_emerald-plus-add-on_Emerald Plus+ 0.0.7.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "eminence in shadow (game hunter)",
-    "description": "Now you can summon your favorite *Eminence in Shadow* characters into your Minecraft world.",
-    "fileName": "1406701_eminence-in-shadow-game-hunter_gh_eminence_in_shadow 0.13 bp.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1406701_eminence-in-shadow-game-hunter.jpg",
-    "downloadUrl": "mods/1406701_eminence-in-shadow-game-hunter_gh_eminence_in_shadow 0.13 bp.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Empire Expansion",
-    "description": "Complementary pack for the Jerry Colony addon adds new structures and soon new features",
-    "fileName": "1444652_empire-expansion_EMPIRE_EXPANSION_2.0.4.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1444652_empire-expansion.jpg",
-    "downloadUrl": "mods/1444652_empire-expansion_EMPIRE_EXPANSION_2.0.4.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Encased Treasures",
-    "description": "Adds Hidden Treasures encased in some blocks!",
-    "fileName": "1383627_encased-treasures_Encased Treasures V1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1383627_encased-treasures.jpg",
-    "downloadUrl": "mods/1383627_encased-treasures_Encased Treasures V1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Enchant Craft Addon: 35 Custom Enchantments",
-    "description": "Add 35 brand new enchantments to your game! Features Lifesteal, Auto-Smelt, Explosive Bows, and more. Stack multiple enchants on one item.",
-    "fileName": "1467202_enchant-craft-addon-24-custom-enchantments_EnchantCraft_3.0.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1467202_enchant-craft-addon-24-custom-enchantments.jpg",
-    "downloadUrl": "mods/1467202_enchant-craft-addon-24-custom-enchantments_EnchantCraft_3.0.0.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Enchant on Break",
-    "description": "**Enchant On Break** is a Minecraft Bedrock addon where breaking blocks enchants the item you’re holding. Enchantments are random, stackable, and work on tools, weapons, and armor. Survival and achievement friendly, no experimental features needed.",
-    "fileName": "1430755_enchant-on-break_EnchantOnBreak_V1.0.1.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1430755_enchant-on-break.jpg",
-    "downloadUrl": "mods/1430755_enchant-on-break_EnchantOnBreak_V1.0.1.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Enchanted Apple Expansion V1 | Blessed, Mythic & Divine Apples",
-    "description": "Expand the Enchanted Golden Apple with three powerful upgrade tiers featuring custom textures, unique crafting recipes, balanced abilities, creative inventory organization, and survival-friendly progression.",
-    "fileName": "1610282_enchanted-apple-expansion-v1-blessed-mythic-divine_Enchanted_Apple_Expansion[UPDATED]V1.50.8.mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1610282_enchanted-apple-expansion-v1-blessed-mythic-divine.jpg",
-    "downloadUrl": "mods/1610282_enchanted-apple-expansion-v1-blessed-mythic-divine_Enchanted_Apple_Expansion[UPDATED]V1.50.8.mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Enchanted Blades",
-    "description": "Fallen angels known as Ophanims has fled into the world and are now terrifying monsters. Craft new blades from the remnants of the fallen angels!",
-    "fileName": "1235106_enchanted-blades_Enchanted Blades [26.30+].mcaddon",
-    "extension": ".mcaddon",
-    "imageUrl": "mods/1235106_enchanted-blades.jpg",
-    "downloadUrl": "mods/1235106_enchanted-blades_Enchanted Blades [26.30+].mcaddon"
-  },
-  {
-    "category": "mods",
-    "title": "Enchanted Felines",
-    "description": "6 Giant Fantastic Felines! 😻 Tame & ride adorable day-glow cats by sunrise and mysterious moon-shadow pumas by night. Each plush giant sports a cute sprint animation, blending cuddles with epic mounts! 🌞🌙✨",
-    "fileName": "1300877_enchanted-felines_enchanted_felines_BP.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1300877_enchanted-felines.jpg",
-    "downloadUrl": "mods/1300877_enchanted-felines_enchanted_felines_BP.mcpack"
-  },
-  {
-    "category": "mods",
-    "title": "Enchanted Golden Apple Recipe Achievement Friendly",
-    "description": "Bring back crafting for the legendary Enchanted Golden Apple in Minecraft Bedrock! This achievement-friendly Behavior Pack adds a balanced survival recipe using rare materials, making the Notch Apple craftable again without breaking vanilla gameplay.",
-    "fileName": "1555720_enchanted-golden-apple-recipe-achievement-friendly_Enchanted Golden Apple Recipe Achievement Friendly.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "mods/1555720_enchanted-golden-apple-recipe-achievement-friendly.jpg",
-    "downloadUrl": "mods/1555720_enchanted-golden-apple-recipe-achievement-friendly_Enchanted Golden Apple Recipe Achievement Friendly.mcpack"
   }
 ]

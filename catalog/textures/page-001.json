@@ -10,12 +10,57 @@
   },
   {
     "category": "textures",
+    "title": "1.12 Paper Cut-Out",
+    "description": "The idea is rather unique and the result of that as a texture pack is just amazing. The design makes for a quite simple and clean texture pack\nChangelog\n\nRecommended post date: post once accepted\n\nChangelog:\n\nbamboo, \nbarrel/\nbell/\nblast_furnace /\ncampfire/\ncartography_table/\ncomposter/\nfletcher_table/\nlantern/\nlectern/\nloom/\nsmithing_table_top/\nsmoker/\nstonecutter2/\nsweet_berry_bush_stage/\nelytra/",
+    "fileName": "112PaperCutOut.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/112PaperCutOut.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/112PaperCutOut.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "1x1 Pack",
+    "description": "Making the textures as simple as they can be. This is a very simplistic pack for 1.13 and below.",
+    "fileName": "1x1Pack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/1x1Pack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/1x1Pack.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "3D Armor Details",
+    "description": "It is a texture pack that modifies the look of the vanilla armor models into something much more interesting.",
+    "fileName": "3DArmorDetails.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/3DArmorDetails.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/3DArmorDetails.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "3D Mace HD+",
     "description": "High-quality 3D Mace model for Minecraft Bedrock — smooth, detailed, and completely HD+ for a premium weapon experience.”",
     "fileName": "1401958_d-mace-hd_3D_Mace_HD+ V_1.0.7.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1401958_d-mace-hd.jpg",
     "downloadUrl": "textures/1401958_d-mace-hd_3D_Mace_HD+ V_1.0.7.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "3D Mobs Pack",
+    "description": "It includes creepers, skeletons, husks, and many more! Keep in mind that i will be improving the pack and adding more mobs every once in a while. If you see any thing that looks broken or unfinished comment and I will fix it. Also note that the texture pack might not work if it isn’t first priority.",
+    "fileName": "3DMobsPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/3DMobsPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/3DMobsPack.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "3D Mobs V1",
+    "description": "Keep in mind that i will be improving the pack and adding more mobs every once in a while. If you see any thing that looks broken or unfinished comment and I will fix it. Also note that the texture pack might not work if it isn’t first priority.\n\nChangelog\n-Added Cow ears\n-Temporarily removed wolves\n-Fixed Installation problem\n-Fixed Hollow Head Skeletons",
+    "fileName": "3DMobsV1.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/3DMobsV1.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/3DMobsV1.mctexture"
   },
   {
     "category": "textures",
@@ -97,6 +142,33 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1350835_a-better-gui-2.jpg",
     "downloadUrl": "textures/1350835_a-better-gui-2_A Better GUI 2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "A Better World",
+    "description": "Improving and adjusting them, to give the player a better experience in their world.",
+    "fileName": "ABetterWorld.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ABetterWorld.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ABetterWorld.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "A Better World 1.0.1",
+    "description": "Improving and adjusting them, to give the player a better experience in their world.\n\nChangelog\nNew cow model and texture\nNew mooshroom model and texture\nNew pig model and texture\nNew sheep model and texture\nNew panorama",
+    "fileName": "ABetterWorld101.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ABetterWorld101.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ABetterWorld101.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "A Better World 1.0.2",
+    "description": "improving and adjusting them, to give the player a better experience in their world.\n\nChangelog\nThe doble wooden slabs has a new texture.\nThe squid has a new model and texture.\nThe pig has a new model and texture.\nThe minecart has a new model and texture.\nThe birch forest biome has a new color.\nMinor changes",
+    "fileName": "ABetterWorld102.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/ABetterWorld102.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/ABetterWorld102.mctexture"
   },
   {
     "category": "textures",
@@ -226,6 +298,24 @@
   },
   {
     "category": "textures",
+    "title": "Adventurous Hud V1",
+    "description": "This HUD can change a lot its a project that can help me buy Minecraft and i’d really like the downloads as every download makes me a step closer to Minecraft \nKnown Bugs:\nEffect such as absorption and health boost breaks the hud\nDoesnt have full 100% support for all devices (Try your luck)\nIOS users may have the hud too big\n\nChangelog\nIf you download this hud you have no right to reupload it to the internet unless its approved my me Kryston so all you you who reposted my hud your not allowed to so take it down",
+    "fileName": "AdventurousHudV1.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AdventurousHudV1.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AdventurousHudV1.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Adventurous Hud V1.0.2",
+    "description": "You should try my HUD that changes a huge amount of your display\nThis HUD can change a lot its a project that can help me buy Minecraft and i’d really like the downloads as every download makes me a step closer to Minecraft \n\nChangelog\nCreated License screen\nCreated a screen with official download link\nSome bars now hide when going in creative (Still not all as its in development still)",
+    "fileName": "AdventurousHudV102.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AdventurousHudV102.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AdventurousHudV102.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Aesthetic Birds",
     "description": "This texture pack changes parrot textures to more aesthetic ones.",
     "fileName": "1409043_aesthetic-birds_aesthetic_birds.mcpack",
@@ -325,6 +415,33 @@
   },
   {
     "category": "textures",
+    "title": "AK Texture",
+    "description": "The hostile mobs eyes, the crosshair, and other things are modified (no sound pistons and Netherite tools to :-). \n\nUpdate Notes:\n\n    +|| Add ||+    \n       • Language Selection Botton Adds\n       • Netherite Sword \n       • Netherite Axe     \n       • Netherite Pickaxe      \n       • Netherite Shovel       \n       • Netherite Hoe       \n       • Netherite Ingot       \n       • Netherite Helmet     \n\n  +|| Changes ||+        \n       • The no-used blocks and items was removed      \n      • A .txt file with the notes of the updates was added       \n       • Panorama Updated       \n       • Xp bottle, clock, slime ball, lapislazuli, redstone and  nether warth texture changed\n        • Updated sheep and pig textures re-design",
+    "fileName": "AKTexture.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AKTexture.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AKTexture.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "AK Texture 1.3.5",
+    "description": "The hostile mobs eyes, the crosshair, and other things are modified (no sound pistons and Netherite tools to :-). If you like to see other things that are modified then download it and check for yourself! \n\nAdd \n   Custom breaking effect          \n\n Changes    \n\n Sun and Moon was changed      \nTurtle Shell       \n Spawn eggs changed       \n Rocks changed       \n Squid mouth erase       \n Birch wood changed       \nWater texture       \n Esmerald, coal and diamond texture       \nEnder items and blocks textured       \nHay Bale block updated     \nLava updated       \nEnd portal and shield re-rextured    \nRain and snow updated       \nNew font       \nEmpty armor slots updated   \nXp bottle\nCustom panorama",
+    "fileName": "AKTexture135.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AKTexture135.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AKTexture135.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Ak Texture 1.4.0",
+    "description": "The hostile mobs eyes, the crosshair, and other things are modified (no sound pistons and Netherite tools to :-). If you like to see other things that are modified then download it and check for yourself! \n\nChangelog\n• Added to the Mcpedl apk and ...",
+    "fileName": "AkTexture140.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AkTexture140.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AkTexture140.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Akame UI Inventory",
     "description": "Adds a Akame UI Inventory",
     "fileName": "1495840_akame-ui-inventory_Akame - Black 2.mcpack",
@@ -379,6 +496,15 @@
   },
   {
     "category": "textures",
+    "title": "Alien Pack GNS",
+    "description": "The texures are made with passion and incredible looking details.  You can get the pack in resolutions from 64×64 and all the way up to 512×512.\n\nChangelog\nI changed colors to the link I provide and added a link to \"about\" page so people can read more about my pack",
+    "fileName": "AlienPackGNS.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AlienPackGNS.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AlienPackGNS.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Alien Sky - Custom Sky",
     "description": "This texture pack transforms the Minecraft sky into something incredible, as if you were on another planet! Instead of the normal sky, you'll see fantastic alien colors and feel like you're on a strange new world.",
     "fileName": "1317376_alien-sky_AlienSky.mcpack",
@@ -421,6 +547,51 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1409715_all-pandas-brown.jpg",
     "downloadUrl": "textures/1409715_all-pandas-brown_All Pandas Brown.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Alpha Craft BE 2.1",
+    "description": "This is a great way to relive memories or see what Minecraft was like back then without sacrificing any current features.\n\nChangelog\n-Added old Enderman sounds (Zombie sounds)\n-Fixed Pigman animations (Credit to @Ayrtown_Karlos for the files)\n-Readded old Brown Alpha Spider\n-Improved the Alpha style menu screen (panorama_overlay)",
+    "fileName": "AlphaCraftBE21.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AlphaCraftBE21.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AlphaCraftBE21.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Alpha PE  v1",
+    "description": "that brings back the old textures from Minecraft PE versions 0.7.0 and below. This pack will bring back memories and allow you to experience what the old versions of the game were like without losing new features.\nThis pack adds back the old sounds from Minecraft PE Alpha.\nThe original d-pad has being added back, the sneak and fly controls are invisible because of this.\nChangelog\n-Resubmitted with more detail as initial post was denied for lack of detail.",
+    "fileName": "AlphaPEv1.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AlphaPEv1.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AlphaPEv1.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "AlphaCraft Bedrock 1.6",
+    "description": "This is a great way to relive memories or see what Minecraft was like back then without sacrificing any current features.\nChangelog\n\n-Improved Water, it's way more like Alpha now.\n-Removed old MCPE button style. (May come back, but I felt the current ones I added were bad.)\n-Added old fall damage sounds.\n-Added old Redstone Repeater Texture.\n-Removed custom menu UI\n-Added custom logo message.\n-Added clay textures from Classic Alternatives pack for Java Edition.",
+    "fileName": "AlphaCraftBedrock16.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AlphaCraftBedrock16.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AlphaCraftBedrock16.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "AlphaCraft Bedrock 2.2",
+    "description": "This is a great way to relive memories or see what Minecraft was like back then without sacrificing any current features.\nBrings back many old Alpha textures \nChangelog\n-Added all pre-1.10 textures so no need for Classic Texture Pack anymore\n\n-Added new pack icon",
+    "fileName": "AlphaCraftBedrock22.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AlphaCraftBedrock22.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AlphaCraftBedrock22.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "AlphaPE v1.1",
+    "description": "This pack will bring back memories and allow you to experience what the old versions of the game were like without losing new features.\nChangelog\n-Fixed Zombie Pigman bugged model.\n-Added Old MCPE Zombie Pigmen.\n-Added old leaves texture.\n-Old Days UI is no longer required for pack to work.\n-Added old Cobblestone",
+    "fileName": "AlphaPEv11.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AlphaPEv11.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AlphaPEv11.mctexture"
   },
   {
     "category": "textures",
@@ -691,6 +862,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1480544_animated-batman-ui.jpg",
     "downloadUrl": "textures/1480544_animated-batman-ui_Animated Batman UI.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Animated Blocks Pack",
+    "description": "What this complement does is add animations to some blocks, such as brightness, movement, etc. Giving them a pleasant appearance that preserves the essence of Minecraft.\nThe texture would be perfect with a good shader, giving more realism to your game of Minecraft.",
+    "fileName": "AnimatedBlocksPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AnimatedBlocksPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AnimatedBlocksPack.mctexture"
   },
   {
     "category": "textures",
@@ -2332,6 +2512,15 @@
   },
   {
     "category": "textures",
+    "title": "Anime Eyes Pack",
+    "description": "Well, I guess u/Suenden-Hund from Reddit did! With this resource pack (almost) all the mobs now have anime eyes! go have a battle with zombie-chan, or build a snow fortress with golem-san, or just put it on your realm and mess with your friends!",
+    "fileName": "AnimeEyesPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AnimeEyesPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AnimeEyesPack.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Anime Frieren UI Inventory",
     "description": "Changes the normal Inventory to an Anime Frieren UI Inventory",
     "fileName": "1537052_anime-frieren-ui-inventory_Anime Frieren - White 2 .mcpack",
@@ -2410,6 +2599,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1374146_antispira1.jpg",
     "downloadUrl": "textures/1374146_antispira1_ANTI SPIRAL V1.0.2 ( rebound flower ) .mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Anti-Blindness Pack",
+    "description": "It also removes the underwater fog effect and due to it clearing these effects from the game it increases FPS.\nChangelog\nUpdated a broken social media link that I have changed. Also changed the Format of the description.",
+    "fileName": "AntiBlindnessPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AntiBlindnessPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AntiBlindnessPack.mctexture"
   },
   {
     "category": "textures",
@@ -2674,6 +2872,33 @@
   },
   {
     "category": "textures",
+    "title": "Ascension HD 1.0.3",
+    "description": "Well first of all, i’m sorry for the late update in this update, i added more blocks, major update, aswell as minor. Let’s take a look!\n\nChangelog\nNew Block \n Stonebrick (Normal + Mossy) \n     All tree leaves texture \n    All wool/carpet texture \n    All tree barks texture \nMajor Update :\n     Added an option for enabling/disabling soundpack (Make sure to restart your MCPE IF you activate the resource pack from global resource) \n    Greatly improved texture tiling except for ores and stone (Its no more OCD, no pattern repition, no border, enjoy :) ) \nMinor Update :\n     Fixed water flowing sound (You wont feel like standing beside a waterfall anymore lol) \n     Reworked grass texture (it looks really good now :D) \n    Reworked sandstone top texture\n   New link (No more pop up)",
+    "fileName": "AscensionHD103.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AscensionHD103.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AscensionHD103.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Ascension HD 1.0.5",
+    "description": "Changelog\n\nMAJOR CHANGES\n\n- FIle heavily reduced from 80 to 30 MB\n\n- Created separate soundpack mod\n\n- New showcase map\n\n- Added new block\n\n-Cobblestone\n\n-New HD sun and moon\n\n-Stone brick (reworked) + mossy\n\n-All ores texture have been reworked and animated\n\n-HD Torch\n\n-New brown and red mushroom\n\n-Snow\n\n-Ice\n\n-Blue Ice\n\n\n\nMINOR CHANGES\n\n- New download link for XBOX users\n\n- Manifest has been modified (better looking)\n\n- Vegetations texture saturation increased (including grass)\n\n- Reworked leaves texture (removed birch leaves ugly spot)\n\n- Removed footstep sound of carpet and snow",
+    "fileName": "AscensionHD105.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AscensionHD105.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AscensionHD105.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Ascension V1.0.7",
+    "description": "Changelog\nFixes & Changes : \n- Removed website\n- Breaking stages textures are now fully transparent\n- Manifest update\n\nNew assets :\n- Glass block and panels\n- All swords retexture\n- Animated Glowstone",
+    "fileName": "AscensionV107.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AscensionV107.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AscensionV107.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Asian Urban Improvised Spear",
     "description": "Asian Urban Improvised Spear is a resource pack for Minecraft Bedrock / MCPE 1.21.130+ that replaces the spear texture/model with an Asian urban improvised weapon style, giving the spear a more realistic, rough, and survival-themed appearance.",
     "fileName": "1421381_asian-urban-improvised-spear_spear.mcpack",
@@ -2860,6 +3085,24 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1551962_aurora-visuals.jpg",
     "downloadUrl": "textures/1551962_aurora-visuals_aurora visuals.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Autumn Birch",
+    "description": "By altering the color of birch leaves, the pack adds variety to each forest biome in your world.\nThe pack only changes the texture of carried birch leaves, birch sapling and birch colormap.",
+    "fileName": "AutumnBirch.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AutumnBirch.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AutumnBirch.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Autumn Forests",
+    "description": "This simple texture pack changes the grass pallet of several biomes to more autumnal oranges, yellows, and reds, and modifies leaf block textures to match.\n\nThis pack makes the following changes:\n\nChanges grass color palette of several biomes to Autumnal colors\nModifies the leaf block textures of oak and birch trees to more autumnal colors (this carries over to held leaf blocks)\nGives creepers a more autumnal orange color to match the leaves and grass",
+    "fileName": "AutumnForests.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/AutumnForests.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/AutumnForests.mctexture"
   },
   {
     "category": "textures",
@@ -3115,12 +3358,39 @@
   },
   {
     "category": "textures",
+    "title": "Banner Guide Amys",
+    "description": "Banner Guide let it show you how to design your banner by adding numerous patterns using dye, there’s step by step tutorial for designing the banner.\n\nChangelog\nThis update added Alphabet tutorial. You can now do design your banner with alphabet letters.",
+    "fileName": "BannerGuideAmys.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BannerGuideAmys.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BannerGuideAmys.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Bare Bones & Stuff [1.11 Drop 1!]",
     "description": "Make your game look more like the trailers with Bare Bones & Stuff!",
     "fileName": "1310189_barebonesnstuff_BareBonesNStuff 1.11 Drop1.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1310189_barebonesnstuff.jpg",
     "downloadUrl": "textures/1310189_barebonesnstuff_BareBonesNStuff 1.11 Drop1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Bare Bones 1.1.3beta",
+    "description": "It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!\n\nChangelog\nAdded Bees\nAdded Honey Block\nAdded Honeycomb Block\nAdded Honey bottle\nAdded Honeycomb\nChanged Glass",
+    "fileName": "BareBones113beta.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BareBones113beta.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BareBones113beta.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Bare Bones 1.1Beta",
+    "description": "It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!\n\nChangelog\nTemporary fix for the bees\nChanged the colormap\nFixed item names\nFletcher block texture fixed",
+    "fileName": "BareBones11Beta.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BareBones11Beta.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BareBones11Beta.mctexture"
   },
   {
     "category": "textures",
@@ -3142,12 +3412,30 @@
   },
   {
     "category": "textures",
+    "title": "Bare Bones E12",
+    "description": "It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!\n\nChangelog\nChanged Hotbar Selection texture\nFixed Honeycomb block\nFixed Honey block\nChanged the colormap (still not perfect like Java)",
+    "fileName": "BareBonesE12.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BareBonesE12.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BareBonesE12.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Bare Bones Leafier Leaves [1.11 Support]",
     "description": "Make the leaves look more like ones in Vanilla while keeping a Bare Bones look to them",
     "fileName": "1327395_barebones-leafierleaves_BareBones Better Leaves 1.11Hotfix.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1327395_barebones-leafierleaves.jpg",
     "downloadUrl": "textures/1327395_barebones-leafierleaves_BareBones Better Leaves 1.11Hotfix.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Bare Bones Pack",
+    "description": "It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!\nChangelog\nFox and Arctic Fox have the correct texture format\nGold block updated\nEmerald block updated\nDiamond block updated\nPanorama now looks 100x better\nDiorite updated\nAll Panda textures now have the correct name and show up correctly\nTamed Dog texture doesn't make the dog coloured anymore",
+    "fileName": "BareBonesPack.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BareBonesPack.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BareBonesPack.mctexture"
   },
   {
     "category": "textures",
@@ -3178,6 +3466,15 @@
   },
   {
     "category": "textures",
+    "title": "Bare Bones PvP",
+    "description": "The textures that get changed are still something that I feel fits with the base textures of Bare Bones. \nYou will have to download Bare Bones 1.14 as a base as this pack contains only changes in a few item, block and particle textures.\n\nSome of the changes this pack brings is; different particles, daggers (short swords) and outlined ores.",
+    "fileName": "BareBonesPvP.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BareBonesPvP.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BareBonesPvP.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Bare Bones Shorter Grass",
     "description": "Makes the grass look shorter - Bedrock Edition",
     "fileName": "1595612_bare-bones-shorter-grass_Bare_Bones_Shorter_Grass.mcpack",
@@ -3205,6 +3502,15 @@
   },
   {
     "category": "textures",
+    "title": "Bare Bones U2-13",
+    "description": "It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!\n\nChangelog\nFixed biome colours\nChanged hay\nChanged wheat\nChanged potatoes\nChanged carrots\nChanged beetroots\nChanged lava\nChanged diorite\nChanged andesite\nChanged granite\nChanged all workstations\nFixed oak boat\nFixed rabbits\nChanged moon\nChanged torch\nChanged redstone torch\nChanged lever",
+    "fileName": "BareBonesU213.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BareBonesU213.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BareBonesU213.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Bare Bones X Spectral Vanilla",
     "description": "Bare Bones X Spectral Vanilla — A clean texture pack combining the smooth tool animations of SpectralPumpkinV4 with the Bare Bones trailer style, fully restored to classic vanilla colors.",
     "fileName": "1605568_bare-bones-x-spectral-vanilla_Bare Bones X Spectral Vanilla.mcpack",
@@ -3220,6 +3526,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1605656_bare-bones-x-spectralpumpkin.jpg",
     "downloadUrl": "textures/1605656_bare-bones-x-spectralpumpkin_Bare Bones X SpectralPumpkin.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "BareBones",
+    "description": "It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!\nChangelog\nUpdated the Featured image and description, added a link to the discord server and screenshots.",
+    "fileName": "BareBones.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BareBones.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BareBones.mctexture"
   },
   {
     "category": "textures",
@@ -3301,6 +3616,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1626479_bbspbrbp-lite.jpg",
     "downloadUrl": "textures/1626479_bbspbrbp-lite_BBSPBRBPLITE2.3.7B.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Beautiful Background",
+    "description": "The texture pack only changes the appearance of the game’s main menu. Blocks and mobs are not affected.\nChangelog\nVersion 1.0.5\n- Added green background\n- Fixed a bug related to the sky.\n- Fixed the dark part of the panorama.",
+    "fileName": "BeautifulBackground.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BeautifulBackground.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BeautifulBackground.mctexture"
   },
   {
     "category": "textures",
@@ -3466,6 +3790,33 @@
   },
   {
     "category": "textures",
+    "title": "Beta Begone 1.0.1",
+    "description": "It works on all bedrock platforms.\nThe beta versions of Minecraft Bedrock addition add several lines of white text to your screen while on the title menu and in a world. While this information can be useful for Mojang to debug issues, many players find the text distracting or ugly. This can especially be an issue if you are recording or streaming the game. With this resource pack you can easily remove this info.\nThis resource pack has been heavily optimized and compressed in order to save you as much storage space as possible and give the fastest download speeds possible.",
+    "fileName": "BetaBegone101.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetaBegone101.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetaBegone101.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Beta Begone V1.0.1",
+    "description": "The beta versions of Minecraft Bedrock addition add several lines of white text to your screen while on the title menu and in a world.\nThis can especially be an issue if you are recording or streaming the game. With this resource pack you can easily remove this info.\n\nChangelog\nSwitched to our new Cubenomenon site for downloads. It is a fast and safer experience.",
+    "fileName": "BetaBegoneV101.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetaBegoneV101.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetaBegoneV101.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Beta Hider 1.0.1",
+    "description": "This pack is great for people who either dislike the changes to the main menu in the beta or those who want to look like they aren’t on the beta to record a video.\n\nChangelog\nUpdate 1.0.1\n\nThe Buzzy Bees panorama is now the default panorama\nRemoved Village & Pillage update panorama\nReplaced text on the Create World screen that said \"Play Beta\" with the normal \"Play\"",
+    "fileName": "BetaHider101.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetaHider101.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetaHider101.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Beter Outlines",
     "description": "Beter outline texture pack for mcpe",
     "fileName": "1503096_beter-outlines_Beter Outline Texture Pack.mcpack",
@@ -3562,6 +3913,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1330728_better-bare-bones-leaves.jpg",
     "downloadUrl": "textures/1330728_better-bare-bones-leaves_Bare Bones Vanilla Leaves v3.2.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Better Beds",
+    "description": "Download Now for more better and comfier Bed!!! This is a re modified model and texture of the bed to make it more 3d.",
+    "fileName": "BetterBeds.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetterBeds.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetterBeds.mctexture"
   },
   {
     "category": "textures",
@@ -3769,6 +4129,15 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1135175_better-days-played.jpg",
     "downloadUrl": "textures/1135175_better-days-played_(E) Better Days Played v1.2.4.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Better Destroy Progress",
+    "description": "It completely works with every singe block in Minecaft. The texture is in three types of: Rounded bar, Numeric stages and Alternate destruction. \nThis pack changes your destroy progress texture to three types of Rounded bar, Numeric stages and Alternate destruction.",
+    "fileName": "BetterDestroyProgress.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetterDestroyProgress.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetterDestroyProgress.mctexture"
   },
   {
     "category": "textures",
@@ -4033,12 +4402,48 @@
   },
   {
     "category": "textures",
+    "title": "Better Menu Pack 1.2",
+    "description": "There’s a total of 6 backgrounds you can choose from for the menu. or choose not to have a background!\nThe logo has been changed to look more simple. most of the menus are in “nightmode” so they should not hurt your eyes removed the feedback button and changed up the change skin button which is more accessible for mobile users\nThe hotbar, hearts, hunger, armor and absorption textures are more simple as well removed the help button in the inventory for smaller devices\n\nChangelog\nVersion 1.2.0\n Added 2 new backgrounds\n Touched up some textures",
+    "fileName": "BetterMenuPack12.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetterMenuPack12.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetterMenuPack12.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Better Menu Pack 2.2.0",
+    "description": "BMP Features:\n10 Backgrounds\nNo Background\nCustom Background (Either from a pack that supports this or even make your own!)\n“Nightmode” menu\nNew logo title\nHotbar and Hearts textures\nRemoved feedback button\nBackgrounds show up in several menus",
+    "fileName": "BetterMenuPack220.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetterMenuPack220.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetterMenuPack220.mctexture"
+  },
+  {
+    "category": "textures",
+    "title": "Better Menu PackV2",
+    "description": "There’s a total of 6 backgrounds you can choose from for the menu.\nYou can choose not to have a background so you can use the menu but use another resource pack’s panorama(s)\n\nChangelog\n\n Fixed the backgrounds, They now display correctly rather then just a black panorama (hardest fix)\n Updated background path: [textures/ui/BMP/BMP_BG.png], (Use this path if you want to make a background addon for this pack)\n Backgrounds display in the settings and profile menus\n Pack can now be used for 1.13 and 1.14 versions of the game\n Removed Change Skin button\n Several adjustments in the json files\n Removed \"New\" tag above Marketplace button\n Updated Pack icon to reflect pack version",
+    "fileName": "BetterMenuPackV2.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetterMenuPackV2.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetterMenuPackV2.mctexture"
+  },
+  {
+    "category": "textures",
     "title": "Better Minecraft Music",
     "description": "Better Minecraft Music overhauls your Minecraft music experience making it better!",
     "fileName": "1292507_better-minecraft-music_BetMCMus_V7-0-1.mcpack",
     "extension": ".mcpack",
     "imageUrl": "textures/1292507_better-minecraft-music.jpg",
     "downloadUrl": "textures/1292507_better-minecraft-music_BetMCMus_V7-0-1.mcpack"
+  },
+  {
+    "category": "textures",
+    "title": "Better Mobs Animation v2",
+    "description": "Don’t worry now that you have better animations! Experience a greater and more cool Minecraft!\nChangelog\n\nSupport For 1.12 Beta and 1.11.3 \nFixed bugs From Zombie Villager ,Zombie & husk\nAdded Wolf's new Model , Enderman Angry Animation Same as Java Mod\n-Coming next : Spider , Wolf Animations ,Soon",
+    "fileName": "BetterMobsAnimationv2.mctexture",
+    "extension": ".mctexture",
+    "imageUrl": "https://raw.githubusercontent.com/Sparkies01/minecraft-blockshelf-content/main/images/textures/BetterMobsAnimationv2.jpg",
+    "downloadUrl": "https://github.com/Sparkies01/minecraft-blockshelf-content/releases/download/content-textures-v1/BetterMobsAnimationv2.mctexture"
   },
   {
     "category": "textures",
@@ -4093,410 +4498,5 @@
     "extension": ".mcpack",
     "imageUrl": "textures/1270595_better-pvp-plus.jpg",
     "downloadUrl": "textures/1270595_better-pvp-plus_BETTER PVP PLUS.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Quick Loot",
-    "description": "Quick loot feature for ultramarine.",
-    "fileName": "1103914_quick-loot_quick_loot.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1103914_quick-loot.jpg",
-    "downloadUrl": "textures/1103914_quick-loot_quick_loot.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Rabbits",
-    "description": "Updates rabbits to look more realistic",
-    "fileName": "1410369_better-rabbits_better_rabbits.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1410369_better-rabbits.jpg",
-    "downloadUrl": "textures/1410369_better-rabbits_better_rabbits.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Rain",
-    "description": "Better Rain enhances Minecraft’s rain with smoother textures, softer ambience, and improved thunder sounds. Experience more aesthetic, atmospheric, and enjoyable storms in your world.",
-    "fileName": "1332347_better-rain1_Better-Rain.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1332347_better-rain1.jpg",
-    "downloadUrl": "textures/1332347_better-rain1_Better-Rain.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Rain pack | Realistic rain! Vibrant Visuals! Less rain! Better rain sound!",
-    "description": "Enhanced rain graphics, particles, environment with better sounds! This pack improves rain visuals while optimizing performance for a smoother experience.",
-    "fileName": "1018969_realistic-rain_Realistic Rain pack v3.8.5.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1018969_realistic-rain.jpg",
-    "downloadUrl": "textures/1018969_realistic-rain_Realistic Rain pack v3.8.5.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "BETTER RAIN+",
-    "description": "This texture pack gives you better rain effects, including light rain, heavy rain, blue ocean rain, neutral rain, less rain, and more.",
-    "fileName": "1425431_better-rain-by-ba_better rain 1.7.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1425431_better-rain-by-ba.jpg",
-    "downloadUrl": "textures/1425431_better-rain-by-ba_better rain 1.7.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Riches",
-    "description": "This simple texture pack upgrades the default textures of some items to make them more logical, pleasing, and immersive.",
-    "fileName": "1483271_better-riches_better_riches.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1483271_better-riches.jpg",
-    "downloadUrl": "textures/1483271_better-riches_better_riches.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Scaffolding",
-    "description": "vanilla texture of scaffolding makes no sense based on the crafting materials. This pack is the solution.",
-    "fileName": "1467980_better-scaffolding_better_scaffolding.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1467980_better-scaffolding.jpg",
-    "downloadUrl": "textures/1467980_better-scaffolding_better_scaffolding.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Scaffolding Bamboo",
-    "description": "Better Scaffolding: Accurate Bamboo recolors the vanilla textures to use authentic Bamboo colors for a clean and realistic look! 🎋",
-    "fileName": "1547619_better-scaffolding-accurate-bamboo_Better Scaffolding v1.0.3.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1547619_better-scaffolding-accurate-bamboo.jpg",
-    "downloadUrl": "textures/1547619_better-scaffolding-accurate-bamboo_Better Scaffolding v1.0.3.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Settings Screen",
-    "description": "Better Settings Screen improves the settings menu for faster access to camera perspective and key options.",
-    "fileName": "1328986_quick-settings-2-2_Better Settings Screen v1.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1328986_quick-settings-2-2.jpg",
-    "downloadUrl": "textures/1328986_quick-settings-2-2_Better Settings Screen v1.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Shadows",
-    "description": "Better Shadows makes your ingame shadows smooth as butter",
-    "fileName": "1582207_better-shadows_Better-ShadowsRP.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1582207_better-shadows.jpg",
-    "downloadUrl": "textures/1582207_better-shadows_Better-ShadowsRP.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Shadows for Vibrant Visuals",
-    "description": "Better shadows for vibrant visuals. You can choose from soft shadows and blocky shadows. MUST enable VIBRANT VISUALS to work.",
-    "fileName": "1601970_better-shadows-for-vibrant-visuals_Better Shadows for Vibrant Visuals.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1601970_better-shadows-for-vibrant-visuals.jpg",
-    "downloadUrl": "textures/1601970_better-shadows-for-vibrant-visuals_Better Shadows for Vibrant Visuals.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Silverfish & Endermite",
-    "description": "Makes Silverfish And Endermite look like SystemZee's Termite Design",
-    "fileName": "1411246_better-silverfish-and-endermite-resource-pack_better_silverfish_and_endermite.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1411246_better-silverfish-and-endermite-resource-pack.jpg",
-    "downloadUrl": "textures/1411246_better-silverfish-and-endermite-resource-pack_better_silverfish_and_endermite.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Skeletons",
-    "description": "Adds biome variants to skeletons. Java Edition by creepermax123",
-    "fileName": "1334971_better-skeletons_better_skeletons_lite-v1.5.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1334971_better-skeletons.jpg",
-    "downloadUrl": "textures/1334971_better-skeletons_better_skeletons_lite-v1.5.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Sky And Biome Color",
-    "description": "Changed the color of the sky, fog, and biome to be fresher",
-    "fileName": "1634332_better-sky-and-biome-color_Better Sky And Biome Color v0.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1634332_better-sky-and-biome-color.jpg",
-    "downloadUrl": "textures/1634332_better-sky-and-biome-color_Better Sky And Biome Color v0.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better smaller items (small items)",
-    "description": "Minecraft items and tools have become small",
-    "fileName": "1601262_better-smaller-items_Better smaller items.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1601262_better-smaller-items.jpg",
-    "downloadUrl": "textures/1601262_better-smaller-items_Better smaller items.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better smooth fonts",
-    "description": "Better Smooth Fonts improves Minecraft Bedrock's default text with cleaner, smoother, and more readable fonts. Designed for a modern look while keeping the vanilla style intact.",
-    "fileName": "1574815_better-smooth-fonts_better smooth fonts.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1574815_better-smooth-fonts.jpg",
-    "downloadUrl": "textures/1574815_better-smooth-fonts_better smooth fonts.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Sounds",
-    "description": "Enhances the sounds to look clearer and satisfying while pvp and more",
-    "fileName": "1545567_better-sounds-by-shadow666zx_Better Sounds.v3.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1545567_better-sounds-by-shadow666zx.jpg",
-    "downloadUrl": "textures/1545567_better-sounds-by-shadow666zx_Better Sounds.v3.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Spiders",
-    "description": "Adds some variants to Spiders, and random variants to Cave Spiders",
-    "fileName": "1419771_better-spiders_better_spiders-v1.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1419771_better-spiders.jpg",
-    "downloadUrl": "textures/1419771_better-spiders_better_spiders-v1.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Squids",
-    "description": "Makes the Squids and Glow Squids have more variants! Java Edition by creepermax123",
-    "fileName": "1320028_better-squids_better_squids-v1.4.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1320028_better-squids.jpg",
-    "downloadUrl": "textures/1320028_better-squids_better_squids-v1.4.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "BETTER SUN",
-    "description": "REPLACE THE ORIGINAL SUN, TO BETTER SUN",
-    "fileName": "1398000_better-sun_BETTER SUN.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1398000_better-sun.jpg",
-    "downloadUrl": "textures/1398000_better-sun_BETTER SUN.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better swords overlay",
-    "description": "Better sword textures for pvp.",
-    "fileName": "1635754_better-swords-overlay_Better swords overlay.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1635754_better-swords-overlay.jpg",
-    "downloadUrl": "textures/1635754_better-swords-overlay_Better swords overlay.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Swords Textures Pack [By Neq Gamerz]",
-    "description": "Better Swords Textures upgrades all Minecraft swords with sharper, cleaner, and more detailed designs while keeping the vanilla style. Perfect for PvP and survival, it enhances visuals without affecting gameplay.",
-    "fileName": "1526459_better-swords-textures-pack-by-neq-gamerz_Better Swords Textures V1.3 [By Neq Gamerz].mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1526459_better-swords-textures-pack-by-neq-gamerz.jpg",
-    "downloadUrl": "textures/1526459_better-swords-textures-pack-by-neq-gamerz_Better Swords Textures V1.3 [By Neq Gamerz].mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "BETTER TECHNICAL",
-    "description": "Better Technical makes you better at technical Minecraft",
-    "fileName": "1369831_better-technical_BETTER TECHNICAL.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1369831_better-technical.jpg",
-    "downloadUrl": "textures/1369831_better-technical_BETTER TECHNICAL.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Texture Tweaks",
-    "description": "Better Bedrock Tweaks is a complete Minecraft Bedrock Edition texture enhancement pack designed to improve visibility, clarity, UI design, particles, blocks, items, PvP readability, and overall gameplay comfort.",
-    "fileName": "1399002_better-texture-tweaks_BetterBedrockTweaksV1.0.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1399002_better-texture-tweaks.jpg",
-    "downloadUrl": "textures/1399002_better-texture-tweaks_BetterBedrockTweaksV1.0.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Title",
-    "description": "I’ll improve the Minecraft title logo.",
-    "fileName": "1546895_better-title_better_title.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1546895_better-title.jpg",
-    "downloadUrl": "textures/1546895_better-title_better_title.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better title",
-    "description": "Change your minecraft title to bedrock title",
-    "fileName": "1462699_minecraft-bedrock-title-mod_bedrock title mod v1.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1462699_minecraft-bedrock-title-mod.jpg",
-    "downloadUrl": "textures/1462699_minecraft-bedrock-title-mod_bedrock title mod v1.1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Title Screens",
-    "description": "Gives you a trailer style rendered background on the title screen",
-    "fileName": "1350831_better-title-screens_Better Title Screens_1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1350831_better-title-screens.jpg",
-    "downloadUrl": "textures/1350831_better-title-screens_Better Title Screens_1.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Titles +",
-    "description": "Better Titles Made By LazyLegend95",
-    "fileName": "1571816_better-titles-plus_Better Title's v1.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1571816_better-titles-plus.jpg",
-    "downloadUrl": "textures/1571816_better-titles-plus_Better Title's v1.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Tools and Items",
-    "description": "It’s a texture pack that makes all tools look a little bit better.",
-    "fileName": "1538580_better-classic-tools_Better_items_and_tools.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1538580_better-classic-tools.jpg",
-    "downloadUrl": "textures/1538580_better-classic-tools_Better_items_and_tools.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better tools by baku",
-    "description": "Premium Minecraft Bedrock tools pack featuring Thor-style axes, scythe pickaxes, improved smaller swords, compact shovels, and enhanced hoes with clean stylized textures by Baku.",
-    "fileName": "1552205_better-tools-bakuthebuilder_BAKU_BETTER_TOOLS_FIXED.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1552205_better-tools-bakuthebuilder.jpg",
-    "downloadUrl": "textures/1552205_better-tools-bakuthebuilder_BAKU_BETTER_TOOLS_FIXED.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Tooltips",
-    "description": "Changes the standard tooltip to a more minimalistic one",
-    "fileName": "1465643_better-tooltips-ui_Better Tooltips.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1465643_better-tooltips-ui.jpg",
-    "downloadUrl": "textures/1465643_better-tooltips-ui_Better Tooltips.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Turtle Variants",
-    "description": "This texture pack aims to improve vanilla turtles by adding variants.",
-    "fileName": "1438963_better-turtle-variants_better_turtle_variants-v2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1438963_better-turtle-variants.jpg",
-    "downloadUrl": "textures/1438963_better-turtle-variants_better_turtle_variants-v2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better UI Icons",
-    "description": "Adds UI icons from Minecraft Earth & Minecraft Dungeons.",
-    "fileName": "1378157_better-ui-icons_BetterIcons.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1378157_better-ui-icons.jpg",
-    "downloadUrl": "textures/1378157_better-ui-icons_BetterIcons.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Vibrant Visuals | Static Light",
-    "description": "This is a pack that enhances the Vibrant Visuals Base by adding better colors, waters, sunbeams, and skies...",
-    "fileName": "1289779_bettervibrantvisuals_Better Vibrant Visuals - Low.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1289779_bettervibrantvisuals.jpg",
-    "downloadUrl": "textures/1289779_bettervibrantvisuals_Better Vibrant Visuals - Low.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Villagers",
-    "description": "Adds variants to villagers, zombie villagers, and wandering traders",
-    "fileName": "1468815_better-villagers-creepermax_better_villagers.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1468815_better-villagers-creepermax.jpg",
-    "downloadUrl": "textures/1468815_better-villagers-creepermax_better_villagers.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Water Animation",
-    "description": "Adds smooth, visuals and clear water that appear naturally around the player, enhancing the visual quality of every water interaction.",
-    "fileName": "1616912_better-water-animation_Better Water Animations V1.0.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1616912_better-water-animation.jpg",
-    "downloadUrl": "textures/1616912_better-water-animation_Better Water Animations V1.0.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "better water by em",
-    "description": "Better water will upgrade the appearance of your water.",
-    "fileName": "1484191_better-water-by-em_better water 1.2.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1484191_better-water-by-em.jpg",
-    "downloadUrl": "textures/1484191_better-water-by-em_better water 1.2.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Waving Leaves",
-    "description": "Smooth wind animations for 74 plants and leaves — oak, birch, jungle, flowers, vines, crops, and more. Lightweight, no scripts, drag and drop.",
-    "fileName": "1586227_better-waving-leaves_Better Waving Leaves v1.4.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1586227_better-waving-leaves.jpg",
-    "downloadUrl": "textures/1586227_better-waving-leaves_Better Waving Leaves v1.4.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Weather",
-    "description": "A lightweight resource pack that makes rain and snow less intrusive, smoother, and friendlier for video bitrate.",
-    "fileName": "1355628_better-weather_Better Weather.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1355628_better-weather.jpg",
-    "downloadUrl": "textures/1355628_better-weather_Better Weather.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better X-Ray Plus",
-    "description": "A simple and clean X-Ray Resource Pack for Minecraft Bedrock Edition that makes most underground blocks invisible so you can easily find ores like diamonds, iron, gold, and more",
-    "fileName": "1559156_better-x-ray-plus_Better X-Ray Plus.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1559156_better-x-ray-plus.jpg",
-    "downloadUrl": "textures/1559156_better-x-ray-plus_Better X-Ray Plus.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better X-Ray Remastered – Color Coded Ores + Night Vision",
-    "description": "A lightweight X-Ray pack for Minecraft Bedrock that improves ore visibility with outlined textures, smooth performance, WORKS ON ANY SERVER, and achievement-friendly gameplay.",
-    "fileName": "1550185_better-x-ray-clean-xray-night-vision_Ash_Blast_Ultimate_XRay_UniqueOutlines_FIXED.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1550185_better-x-ray-clean-xray-night-vision.jpg",
-    "downloadUrl": "textures/1550185_better-x-ray-clean-xray-night-vision_Ash_Blast_Ultimate_XRay_UniqueOutlines_FIXED.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better Zombies",
-    "description": "Makes zombies biome dependent and adds the new default skins. Java Edition by creepermax123",
-    "fileName": "1339862_better-zombies-150-zombie-variants_better_zombies-v1.4.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1339862_better-zombies-150-zombie-variants.jpg",
-    "downloadUrl": "textures/1339862_better-zombies-150-zombie-variants_better_zombies-v1.4.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Better_Nature_Tree",
-    "description": "This pack enhances vanilla Minecraft trees to create a richer and more natural environment. Leaves feel denser, shapes look cleaner, and the overall tree design gives a peaceful forest aesthetic.",
-    "fileName": "1417321_better-nature-tree_Better_Nature-Tree.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1417321_better-nature-tree.jpg",
-    "downloadUrl": "textures/1417321_better-nature-tree_Better_Nature-Tree.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "BetterMusic & BetterJukebox",
-    "description": "BetterMusic and BetterJukebox enhance your in-game audio with classic or custom tracks, adjustable jukebox range including optional stereo mode, and multi-track discs. Use them separately or together for a fully customizable sound experience.",
-    "fileName": "1279863_bettermusic-betterjukebox_BetterJukebox_2.1.4.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1279863_bettermusic-betterjukebox.jpg",
-    "downloadUrl": "textures/1279863_bettermusic-betterjukebox_BetterJukebox_2.1.4.mcpack"
-  },
-  {
-    "category": "textures",
-    "title": "Biome Variants for More Creatures",
-    "description": "Adds more variants to different mobs!",
-    "fileName": "1410401_biome-variants-for-more-creatures_biome_creatures-v1.1.mcpack",
-    "extension": ".mcpack",
-    "imageUrl": "textures/1410401_biome-variants-for-more-creatures.jpg",
-    "downloadUrl": "textures/1410401_biome-variants-for-more-creatures_biome_creatures-v1.1.mcpack"
   }
 ]
